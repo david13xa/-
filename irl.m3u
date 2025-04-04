@@ -227,7 +227,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #EXTVLCOPT:http-referrer=https://kakotv.com/
 https://live-114.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=kDzPWhbsOBLWAR3XjL08ocZ2kFGlcALMUTy0IpLe&secret=5377105d9aac6c72a8ac465307824190&time=1737446130
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rshD3jRL/ezgif-2d5938097fec7e.png",SPOTV PRIME+
+#EXTINF:-1 tvg-logo="https://app.skylife.co.kr/_nuxt/img/logo-spotvonprime.259dd66.png",SPOTV PRIME+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:http-header=Origin: https://kakotv.com
 #EXTVLCOPT:http-referrer=https://kakotv.com/
