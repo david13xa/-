@@ -337,8 +337,3 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png",FS1
-https://tvpass.org/live/FoxSports1/sd
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png",FS2
-https://tvpass.org/live/FoxSports2/sd
