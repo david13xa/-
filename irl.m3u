@@ -197,9 +197,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4
 https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-bbc-earth-uk-in.png",SONY BBC EARTH
-https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/global-trekker-sg.png",GLOBAL TREKKER
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
