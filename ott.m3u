@@ -2591,67 +2591,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?i
 
 
 
-
-
-<============================== Vietnam ======================================>
-
-
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/154.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TJ5ETVnoiHVXHPajcswWNqNDMfzyvTa8xBhIxWaGruaG4EO4yNnXkhh587TxVahgitnVwM6PqHbb4z25+gBvJRp0NR2KF40afaiHpLojMnhdd7LjDpD+pFkbJs8fphu9LnWY3UiYLvIUfm7wIRh7dvJy2/NoFEcEUUFAveMm9Slw==&uid=173373703
-
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/192/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDU4MzIyMTksInVyaSI6Ii9icGstdHYvMTkyL291dHB1dC9pbmRleC5tM3U4In0.XZcbGhnzDSxDftmja88f3wsaboifprFOiygClpK3ZmI&minrate=0&maxrate=6000000&uid=173373703
-
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://tr-netcdn.tv360.vn/netcdn-live/155/output/index.m3u8?timestamp=1745832222&token=90eba1793a0c978ec79c685255dbede9&minrate=0&maxrate=6000000&uid=173373703
-
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/193/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDU4MzIzNDIsInVyaSI6Ii9icGstdHYvMTkzL291dHB1dC9pbmRleC5tM3U4In0.BKadHwXYKcUdKQ69LUcUoJfFwZ_cu6KQtWRwxA90Hg8&minrate=0&maxrate=6000000&uid=173373703
-
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/194/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDU4MzIzNDUsInVyaSI6Ii9icGstdHYvMTk0L291dHB1dC9pbmRleC5tM3U4In0.Irv8NrXxLqaUKA6uz5iaviEqBPPTFfxEmWs4jo9TfUQ&minrate=0&maxrate=6000000&uid=173373703
-
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/307/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDU4MzIzNjMsInVyaSI6Ii9icGstdHYvMzA3L291dHB1dC9pbmRleC5tM3U4In0.wfxuDOXcpxS2L9cJ6Rg98T2KngVMn_PPf8M_LJdKQSI&minrate=0&maxrate=6000000&uid=173373703
-
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDU4MzI0MDIsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.8Rf2UTiqTshLhK2B7GsHQjK2N4S2sMGpOaYy-RcitV0&minrate=0&maxrate=6000000&uid=173373703
-
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV6 Cần Thơ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/156/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDU4MzIzMzksInVyaSI6Ii9icGstdHYvMTU2L291dHB1dC9pbmRleC5tM3U4In0.reznHQHrOnY2J9-a0Hxbzi0xLrWFdWquQRd03Jszq1g&minrate=0&maxrate=6000000&uid=173373703
-
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/195/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDU4MzIyMjIsInVyaSI6Ii9icGstdHYvMTk1L291dHB1dC9pbmRleC5tM3U4In0.AgBKbVPqzG287I0EqM1Lt1rbLkeIZy5JEd0GigsuFWI&minrate=0&maxrate=6000000&uid=173373703
-
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDU4MzIzNTEsInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.UnKwyOMUflH2VcF5VLWhL3rVuOGuLs134-2HaLK9Lrs&minrate=0&maxrate=6000000&uid=173373703
-
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDU4MzIyMjUsInVyaSI6Ii9icGstdHYvMTk3L291dHB1dC9pbmRleC5tM3U4In0.2ZMBbwTUIxCF57DVHYQU0-S1LKofswSjcKNmPG1izAQ&minrate=0&maxrate=6000000&uid=173373703
-
-
 <============================== Fashion ======================================>
 
 
