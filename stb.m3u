@@ -1,95 +1,227 @@
 #EXTM3U
 #EXTINF:-1,TV ONE
-http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1,ANTV
-http://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #EXTINF:-1,SCTV
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+#EXTINF:-1,SCTV DASH
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTINF:-1,INDOSIAR
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
+#EXTINF:-1,INDOSIAR DASH
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#EXTINF:-1,MOJI
+http://202.150.161.212:5000/live/channel39/playlist.m3u8
 #EXTINF:-1,TRANS TV
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_b544100_sleng.m3u8
+#EXTINF:-1,TRANS TV DASH
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTINF:-1,TRANS 7
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_b544100_sleng.m3u8?
-#EXTINF:-1,NET.MDTV
-http://op-group1-swiftservesd-1.dens.tv/h/h06/02.m3u8
+#EXTINF:-1,TRANS 7 DASH
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+#EXTINF:-1,CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+#EXTINF:-1,CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+#EXTINF:-1,MDTV
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
 #EXTINF:-1,RTV
-http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1,RCTI
-https://allcutv.rctiplus.id/rcti2023.m3u8
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1,MNCTV
-https://allcutv.rctiplus.id/mnctv2023.m3u8
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 #EXTINF:-1,GTV
-https://allcutv.rctiplus.id/gtv2023.m3u8
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #EXTINF:-1,INEWS
-http://allcutv.rctiplus.id/inews2023.m3u8
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#EXTINF:-1,INEWS DASH
+https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1,KOMPAS TV
-http://op-group1-swiftservehd-1.dens.tv/s/s104/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
 #EXTINF:-1,METRO TV
-http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+#EXTINF:-1,METRO TV EDGE
+https://edge.medcom.id/live-edge/smil:metro.smil/index.m3u8
+#EXTINF:-1,MAGNA
+https://edge.medcom.id/live-edge/smil:magna.smil/index.m3u8
+#EXTINF:-1,MGN
+https://edge.medcom.id/live-edge/smil:mgnch.smil/index.m3u8
 #EXTINF:-1,JTV
-https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/chunklist.m3u8
+https://63b2dc7196c38.streamlock.net/JTVSURABAYA/myStream/playlist.m3u8
+#EXTINF:-1,BALI TV
+https://streaming.indihometv.com/atm/DASH/balitv/manifest.mpd
 #EXTINF:-1,BTV
-http://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 #EXTINF:-1,BERITA SATU
-http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
+https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
+#EXTINF:-1,GARUDA TV
+https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8
 #EXTINF:-1,TVRI NASIONAL
-http://op-group1-swiftservesd-1.dens.tv/s/s11/02.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1,TVRI JAKARTA
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+#EXTINF:-1,TVRI WORLD
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1,TVRI SPORT
-http://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1,TVRI JAWA BARAT
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTINF:-1,TVRI JAWA TENGAH
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTINF:-1,TVRI JAWA TIMUR
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTINF:-1,TVRI YOGYAKARTA
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+#EXTINF:-1,TVRI BALI
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
 #EXTINF:-1,NUSANTARA TV
-http://op-group1-swiftservehd-1.dens.tv/h/h37/02.m3u8
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1,JAKTV
 http://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
 #EXTINF:-1,ELSHINTA TV
 https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8?app_type=web&userid=lite&chname=Elshinta_TV
+#EXTINF:-1,ELSHINTA TV AMS
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+#EXTINF:-1,DUNIA ANAK
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
+#EXTINF:-1,SERU! CHANNEL
+http://202.150.161.212:5000/live/channel40/playlist.m3u8
+#EXTINF:-1,PSJ TV
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+#EXTINF:-1,POP MUSIK
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+#EXTINF:-1,MALEO 
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+#EXTINF:-1,MIC
+https://v2.siar.us/mic/live/playlist.m3u8
+#EXTINF:-1,JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1,JITV
+http://103.255.15.222:1935/tv/jitv/chunklist.m3u8
+#EXTINF:-1,TATV
+https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1,SAKTI TV
+https://v5.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:-1,SURABAYA TV
+https://e.siar.us/live/surabayatv.m3u8
+#EXTINF:-1,MADU TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1,INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1,SEMARANG TV
+http://116.254.112.74/hls/cakralive.m3u8
+
+#EXTINF:-1,RTB SUKMAINDERA
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:-1,RTB ANEKA
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#EXTINF:-1,RTB GO LIVE
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1,CNA
-http://op-group1-swiftservehd-1.dens.tv/h/h29/02.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1,CNA SEA
+https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/playlist.m3u8
 #EXTINF:-1,ALJAZEERA
-http://op-group1-swiftservehd-1.dens.tv/h/h143/S4/mnf.m3u8
-#EXTINF:-1,CGTN
-http://english-livews.cgtn.com/hls/yypdyyctzbhd/playlist.m3u8
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1,BBC NEWS
+https://cdn3.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1,DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,FRANCE 24
+http://202.150.161.212:5000/live/channel21/playlist.m3u8
+#EXTINF:-1,TV5 MONDE ASIE
+http://202.150.161.212:5000/live/channel32/playlist.m3u8
+#EXTINF:-1,CCTV 1
+http://cdn5.163189.xyz/live/cctv1/stream.m3u8
 #EXTINF:-1,CGTN DOCUMENTARY
-http://op-group1-swiftservesd-1.dens.tv/s/s20/02.m3u8
+https://english-liveali.cgtn.com/hls/yypdjlctzb/yypdjlctzbhd/playlist.m3u8
+#EXTINF:-1,DISCOVERY ASIA
+https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+#EXTINF:-1,LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1,WILD PLANET
+https://d3c7duantorcb1.cloudfront.net/amgwildplanetuk/playlist.m3u8
 #EXTINF:-1,NHK WORLD JAPAN
-http://op-group1-swiftservehd-1.dens.tv/h/h23/02.m3u8
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1,NHK PREMIUM
 http://202.150.161.212:5000/live/channel22/playlist.m3u8
+#EXTINF:-1,NHK PREMIUM SKYGO
+https://cdn3.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
 #EXTINF:-1,ANIPLUS
-http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
-#EXTINF:-1,NICKELODEON
-http://202.150.161.254:4000/play/a00a/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
+#EXTINF:-1,CN
+http://202.150.161.212:5000/live/channel27/playlist.m3u8
+#EXTINF:-1,CN SKYGO
+https://cdn3.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1,THRILL
-http://op-group1-swiftservesd-1.dens.tv/s/s34/02.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s34/01.m3u8
 #EXTINF:-1,KIX
-http://op-group1-swiftservehd-1.dens.tv/h/h07/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h07/01.m3u8
 #EXTINF:-1,CELESTIAL MOVIES
-http://op-group1-swiftservehd-1.dens.tv/h/h14/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h14/01.m3u8
+#EXTINF:-1,WARNER TV
+http://202.150.161.212:5000/live/channel29/playlist.m3u8
+#EXTINF:-1,TVN MOVIES
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+
 #EXTINF:-1,FIGHT SPORTS
-http://op-group1-swiftservehd-1.dens.tv/h/h05/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h05/01.m3u8
 #EXTINF:-1,TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1,EUROSPORT
-http://iptv-hls.idc.md:8200/hls/260/live2.m3u8
-#EXTINF:-1,3 HD
-http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
-#EXTINF:-1,TTB 5 HD
-http://appdootv2.dootvde.com:1935/live/50002_ch5.stream.smil/playlist.m3u8
-#EXTINF:-1,MCOT HD 30
-http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
-#EXTINF:-1,THAI PBS 3 HD
-http://appdootv2.dootvde.com:1935/live/50006_tpbs_hd.stream.smil/playlist.m3u8
-#EXTINF:-1,NATION 22
-http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
-#EXTINF:-1,WORKPOINT 23
-http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8
-#EXTINF:-1,GMM 25
-http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
-#EXTINF:-1,MONO 29
-http://appdootv2.dootvde.com:1935/live/50021_mono_tv.stream.smil/playlist.m3u8
-#EXTINF:-1,ONE 31
-http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
-#EXTINF:-1,THAIRATH TV 32 HD
-http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
-#EXTINF:-1,PPTV HD 36
-http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+#EXTINF:-1,EUROSPORTS 1
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1,EUROSPORTS 2
+http://185.189.225.157/EuroSport2/index.m3u8
+#EXTINF:-1,REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,OUTDOOR AMERICA
+https://d1e354daam8g5r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0pi8ix37od85k/playlist.m3u8
+
+#EXTINF:-1,TRUE4U 24
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",SONY SPORTS TEN 1 HD
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",SONY SPORTS TEN 2 HD
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",SONY SPORTS TEN 3 HD
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",SONY SPORTS TEN 4 HD
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",SONY SPORTS TEN 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png",SONY MAX
+https://otttv.co.in/d2h/livestream/sony-max/master.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD
+https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-2-in.png",SONY MAX 2
+https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",SONY PIX HD
+https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-bbc-earth-uk-in.png",SONY BBC EARTH HD
+https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png",SONY SPORTS TEN 1
+https://otttv.co.in/d2h/livestream/sony-ten-1-hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png",SONY SPORTS TEN 2
+https://otttv.co.in/d2h/livestream/sony-ten-2-hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png",SONY SPORTS TEN 3
+https://otttv.co.in/d2h/livestream/sony-ten-3-hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png",SONY SPORTS TEN 5
+https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",SONY SPORTS TEN 1 HD
+https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",SONY SPORTS TEN 2 HD
+https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",SONY SPORTS TEN 3 HD
+https://otttv.co.in/d2h/livestream/sony-sports-ten-3-hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-wah-in.png",SONY WAH
+https://otttv.co.in/d2h/livestream/sony-wah/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-bbc-earth-uk-in.png",SONY BBC EARTH HD
+http://45.148.145.57/IN_SONYBBCHD/index.m3u8
+
