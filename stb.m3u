@@ -6,13 +6,15 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #EXTINF:-1,SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1,INDOSIAR
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+http://home-tv.online:80/hmtv_btm/fghdjur77dhv/5.m3u8
 #EXTINF:-1,MOJI
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
 #EXTINF:-1,TRANS TV
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_b544100_sleng.m3u8
 #EXTINF:-1,TRANS 7
-http://video.detik.com/trans7/smil:trans7.smil/chunklist_b544100_sleng.m3u8
+#http://video.detik.com/trans7/smil:trans7.smil/chunklist_b544100_sleng.m3u8
+http://home-tv.online:80/hmtv_btm/fghdjur77dhv/3.m3u8
 #EXTINF:-1,CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b280000_sleng.m3u8
 #EXTINF:-1,CNBC INDONESIA
@@ -114,10 +116,6 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #EXTINF:-1,SONY PIX
 https://otttv.co.in/d2h/livestream/sony-pix-hd/master_900.m3u8
 
-#EXTINF:-1,EUROSPORTS 1
-http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:-1,EUROSPORTS 2
-http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1,FIGHT SPORTS
 http://op-group1-swiftservehd-1.dens.tv/h/h05/01.m3u8
 #EXTINF:-1,SONY SPORTS TEN 1
@@ -132,3 +130,222 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master_900.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master_900.m3u8
 #EXTINF:-1,TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1,SKY F1 UK
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjNYVRgHZjyU-Kjahu1y7cL8
+#EXTINF:-1,FOX 506 F1
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjNDYmbYfAvsjs4XY0NZVZCtMm0UvKaWH8ckgNhUBmjtB
+
+#EXTINF:-1,SKY MOTO GP
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjAKB1PoCgQTJ4MPDnRjNN1g
+#EXTINF:-1,SPOTV MOTO GP 1
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjAJke4vK866HL8BY79zANypddWOqyIIQmq2Ydqg-bmFG
+#EXTINF:-1,SPOTV MOTO GP 2
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjDw4Qrw95SwXaePFshmUqzaBRDS-Zy8m1hi_kIddjL44
+#EXTINF:-1,TNT UK MOTO GP
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjAGBp_2pnJbqjVs5tW0KewYnR8x92fzvqE-rGQ4fdjQK
+#EXTINF:-1,FOX 507 MOTO GP
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjI6WcZAwyQEPiuXIgDLZoli8fPMdrNLg7yc6EiQAfWeb
+
+#EXTINF:-1,BEIN SPORTS AIS
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjG6E-Xg5GwegzNr-u2n_OmM
+
+#EXTINF:-1,LIGA 1 BRI
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjG6Mh-37jUugoqvNRePloPI
+#EXTINF:-1,VOLI TV
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjFkWvCYT6_rcUK2dw6Kfv48
+#EXTINF:-1,PRO LIGA
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjIC0alMAxS8Jbz_-IRhc9DA
+
+#EXTINF:-1,TIMNAS SERVER 1
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjBG36vYYtmtx9qfxi25r3Rk
+#EXTINF:-1,TIMNAS SERVER 2
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjPbXY7IjEpiJBowCXnrNe4E
+
+#EXTINF:-1,EPL 1
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjF42TZXvN5ZdxMAjShGjNR8
+#EXTINF:-1,EPL 2
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjNBCZtF6bZeP2rXf8134udw
+#EXTINF:-1,EPL 3
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjKAHICmhD2jGYuZAm7PVrsM
+#EXTINF:-1,EPL 4
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjPe7gKbp51SoMwk963wJ0WM
+#EXTINF:-1,EPL 5
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjJXkfjSvvLv_xmfl635Sj7Y
+#EXTINF:-1,EPL 6
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjMR6rG3a6MUIDKQjEgOQsJI
+
+#EXTINF:-1,TVRI SPORTS T2
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjBsdmcG0K0rhJZw8lRvUIMg
+#EXTINF:-1,SPORTSTARS 1
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjIPBYRDjbgcj28PsjIQ8aEY
+#EXTINF:-1,SPORTSTARS 2
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjG4ivjGnetHYXY9l_FvKtZw
+#EXTINF:-1,SOCCER CHANNEL
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjJ_cpEYaoj1pxmIolX2X398
+#EXTINF:-1,SPOTV 1 INDONESIA
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjPsv8yNvGvpQ5sWpwQ-EJUQ
+#EXTINF:-1,SPOTV 2 INDONESIA
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjF0OU9T2OaJn2_k_2Qxb7o4
+
+#EXTINF:-1,ASTRO PREMIER LEAGUE
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjF8SfkPWz2enl2Rk4VSoFFQ
+#EXTINF:-1,ASTRO PREMIER LEAGUE 2
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjEiJCzfgoQ3MWa403cS5aQ0
+#EXTINF:-1,ASTRO SHOWCASE
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjNjgGV-jqN-ZQP69G9T3gpOS9CxQlodxBYUa5U9Zk60T
+#EXTINF:-1,ASTRO FOOTBALL
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjAn0jRZPBR-oLYdTLbok8ug
+#EXTINF:-1,ASTRO GRANDSTAND
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjFx1EJ6F7dsBzRO5vDwVy5o
+#EXTINF:-1,ASTRO SPORTS +
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjLednKqJGZq91QUM4Rqd9pw
+#EXTINF:-1,ASTRO BADMINTON 1
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjCBYB8iwjmJKBW56aC01mxA
+#EXTINF:-1,ASTRO BADMINTON 2
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjG91dN2Pr66p1GfHYwePFRD_fHJQ3YOX7x9HUrDY8ofI
+#EXTINF:-1,ARENA BOLA 1
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjJJWQmXwNBzSsOifqLVFDnk
+#EXTINF:-1,ARENA BOLA 2
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjCamsjoIzrtDqeccgj6bMSU
+#EXTINF:-1,ASTRO RUGBY
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjOZ1lQcnFv_egUJc9gMOyVo
+
+#EXTINF:-1,BEIN SPORTS 1 MY
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjBd7-Pd6BAG9Wzekxkn3uQs
+#EXTINF:-1,BEIN SPORTS 2 MY
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjPF3yhSkhFGjTEt_y3T-kp8
+#EXTINF:-1,BEIN SPORTS 3 MY
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjED8yTp0nkL1OTpy9AbnuoQ
+#EXTINF:-1,SPO TV 1 MY
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjDeHN-KqNuzbmS6PxEA2o3g
+#EXTINF:-1,SPO TV 2 MY
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjLAnu8uZx1S3QH_pBYHxAQU
+
+#EXTINF:-1,HUB PREMIER 1 HD
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjFUk9mZg3fCofccFuaRyd0q-C6DvAfs72zBFsm3tONxn
+#EXTINF:-1,HUB PREMIER 2 HD
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjMCO9I7PS6_Qbxo9h2_UlwYH2bXUzke675SVsrkqAXg7
+#EXTINF:-1,HUB PREMIER 3 HD
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjFd9a77kJFRTGhbJQSG2rSPsTs-NHazVaz5Q8G2ZAerz
+#EXTINF:-1,HUB PREMIER 4 HD
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjCC5iwwkV4dnlItdkKiC3QNvCSfASFoaPMk2PdRw7GYD
+#EXTINF:-1,HUB PREMIER 5 HD
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjIYBxPloYX6eVFkKVZVjbOhYxMRm8rXijEq3pZZU4kPS
+#EXTINF:-1,HUB PREMIER 6 HD
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjNE7LurA1JJJ795_tqYyL_uu2lKKI2ikL1Q6lVjv-NzV
+
+#EXTINF:-1,DAZN ELEVEN 1 PT
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjCTisEWnDSofDjnHSv_qtJ4
+#EXTINF:-1,DAZN ELEVEN 2 PT
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjKBEdzy3QhpPVy64MhwjiGQ
+#EXTINF:-1,DAZN ELEVEN 3 PT
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjEgyhDvZdtX-28yLPyt5Kuk
+#EXTINF:-1,DAZN ELEVEN 4 PT
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjEQ9u-CtvIexxi-JzvvYe6o
+#EXTINF:-1,DAZN ELEVEN 5 PT
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjH7Sp4f3zV40COZoxbL_qvs
+#EXTINF:-1,DAZN ELEVEN 6 PT
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjHCUTsseJ6Cz0D_zJXd8hec
+
+#EXTINF:-1,SPORTTV 1 PT
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjESUKx2z2UmlnlbSwxW4ND8
+#EXTINF:-1,SPORTTV 2 PT
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjBrGTzUKj71V16_SjW4-urw
+#EXTINF:-1,SPORTTV 3 PT
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjNgRSMgquY5njrHJYDOXXss
+#EXTINF:-1,SPORTTV 4 PT
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjClpthkAzKYByBngnR45Hbw
+#EXTINF:-1,SPORTTV 5 PT
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjC9QMG_x_s58P17N2Qm6IME
+#EXTINF:-1,SPORTTV 6 PT
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjGxo2hvN91ZzquTSzDhdxYs
+#EXTINF:-1,SPORTTV+ PT
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjDdYlaRGugUIsrjJqPjsL6I
+
+#EXTINF:-1,TNT 1 HD
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjJRoXSOztQVQok3Rkj6AejM
+#EXTINF:-1,TNT 2 HD
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjOg9ut-bJdmVQ4n6ILwLspE
+#EXTINF:-1,TNT 3 HD
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjHnhjF4b7lAtuBjwE9doj0c
+#EXTINF:-1,TNT 4 HD
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjA-1XIPJabVuIfwmDyziA1Y
+#EXTINF:-1,TNT 5 HD
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjFVMuqtT6WptLm9Xfqu1VdI
+
+#EXTINF:-1,SKY SPORT 1 NZ
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjKCZ3Gnx_OqtPrb7IS2oe8nJAPtbnDGh_KDUoy4JYlqp
+#EXTINF:-1,SKY SPORT 2 NZ
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjI-8v3Iejyu1XS0KoXBqb6Mz_bo1vQx2jMWUYhkdDakJ
+#EXTINF:-1,SKY SPORT 3 NZ
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjMz7DQOD0XsRcPFcBolIPe-ykpMlTi_RSF9HqbQOm_iM
+#EXTINF:-1,SKY SPORT 4 NZ
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjK0bi2mHDDsO_I21H4trooiGRSuB2cXzZ8_LPVu8j2_l
+#EXTINF:-1,SKY SPORT 5 NZ
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjDJnG-JYEWe-l8W6u-qVQRiC7WXDc9w7osNRTW3MaGsz
+#EXTINF:-1,SKY SPORT 6 NZ
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjFqGdYuaRqtQ8Jalb7IX-pMxqRYICmkhi49hXYXTWb9K
+#EXTINF:-1,SKY SPORT 7 NZ
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjJC-fOmEnt1EXbb5e7wmUxowPVpa3uRaRZf8V2OXwINy
+#EXTINF:-1,SKY SPORT 8 NZ
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjKqmR_UD8Hi2tKtpGeU48rJN56PUr6X8LtCTkZA4s-3Y
+#EXTINF:-1,SKY SPORT 9 NZ
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjH9wnFygLnf0YQGpihG6tesfIpAkT1oY3FAiV9Y2Tuwt
+#EXTINF:-1,SKY SPORT SELECT NZ
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjKaDHl42IMVhls8lP3UyWKBpSOt_h-2vj8WG8njdDmHI
+
+#EXTINF:-1,FOX 502
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjCC5W_qTWjelmSdIMLFFMMQ
+#EXTINF:-1,FOX 503
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjKMdYggzv3lwdhsgaFb6bD4
+#EXTINF:-1,FOX 504
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjOhcoU_0P7GewYWhx_sEUg0
+#EXTINF:-1,FOX 505
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjK59PF3UhYEFIqbKfLIMthc
+#EXTINF:-1,FOX 506
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjMz9KUvhlOz6Ms-2EQHmn7I
+#EXTINF:-1,FOX 507
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjCxS6yfCxwCeaz48-r5tWZY
+
+#EXTINF:-1,FS 1
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjLZJNaIIn_zoybka_q0sSQz71Qjf_LYkGxzBf-xxGUVJ
+#EXTINF:-1,FS 2
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjGtLohrvhP3SHvWsztsbveudmlFScd64ARmM94WcSp1W
+#EXTINF:-1,ESPN 1 USA
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjO02x1kfIwOtFUr6BN_lXc40eGa7qS-WlJPCiyWZ0Ocr
+#EXTINF:-1,ESPN 2 USA
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjHY5byNn6EaZLXWkSvitzuwzNZLkd2p1Urbi1xAZfSAE
+
+#EXTINF:-1,ZIGGO 1
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjH_hRv9qwxhrAXlJB51tUXs
+#EXTINF:-1,ZIGGO 2
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjKkr7xshzbQrzwBrEOZvYVg
+#EXTINF:-1,ZIGGO 3
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjChXblhExdh1G2_0XyiHwRE
+#EXTINF:-1,ZIGGO 4
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjO9H6mRBxE-3cNB_Ucjr9hQ
+#EXTINF:-1,ZIGGO 5
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjEC7MRRLNbl-84MEFoXKWPo
+#EXTINF:-1,ZIGGO 6
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjMHwn2zFy62Yxcou5U770Zs
+
+#EXTINF:-1,EUROSPORTS 1 UK
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjJJu5T0R_57LSzCDYGzFMNjmonQkrq6cbW6M6O6uoj1x
+#EXTINF:-1,EUROSPORTS 2 UK
+http://home-tv.online:80/play/4yKZZVVHnELKSl9QrNyyjGC9ISBbS-eJVmFXbH69BehdEZJNeYssUtOXZbexy-oY
+
+#EXTINF:-1,INDOSIAR DRCT
+http://home-tv.online:80/play/zrxJZ6vYTIlqJzbM72HAeMNOYK6DBtENcv4BgNcX62yqZpmg-i3bQLxLpFBv3XjT#.mp4
+#EXTINF:-1,SCTV DRCT
+http://home-tv.online:80/play/zrxJZ6vYTIlqJzbM72HAeNEAz4SqExt8SPGtnoacNX82IeSlOchJnNAAPOEg2UTO#.mp4
+#EXTINF:-1,ANTV DRCT
+http://home-tv.online:80/play/zrxJZ6vYTIlqJzbM72HAeKmQ-NbuAM8ZNOSNL3Qn_IVqAerRf2sdwOtJiX49fa6g#.mp4
+
+#EXTINF:-1,EUROSPORTS LIVE
+http://home-tv.online:80/play/zrxJZ6vYTIlqJzbM72HAeOqUNZYYrp8U8LQUpVUJ9Aqv8qNomieFBGD5VZKiXqrI#.mp4
+
+#EXTINF:-1,SPOTV 1 LIVE
+http://home-tv.online:80/play/zrxJZ6vYTIlqJzbM72HAeKEqsSF7sYIYWFdc9HPL2Qx8iaw8KKK-cSjnMM-ocFlc#.mp4
+#EXTINF:-1,SPOTV 2 LIVE
+http://home-tv.online:80/play/zrxJZ6vYTIlqJzbM72HAeN_aoa1yjQsAr0CRi_Ksv5WMvM3lbQH4j_e20BmxVTbs#.mp4
