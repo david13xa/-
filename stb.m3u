@@ -3,27 +3,33 @@
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1,ANTV
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+
 #EXTINF:-1,SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1,INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1,MOJI
 https://wahyu1ptv.pages.dev/Moji-HD.m3u8
-#http://202.150.161.212:5000/live/channel39/playlist.m3u8
+
 #EXTINF:-1,TRANS TV
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_b544100_sleng.m3u8
 #EXTINF:-1,TRANS 7
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_b544100_sleng.m3u8
+
 #EXTINF:-1,MDTV
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
+
 #EXTINF:-1,RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
 #EXTINF:-1,KOMPAS TV
 http://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
+
 #EXTINF:-1,METRO TV
 http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 #EXTINF:-1,JTV
 http://202.150.161.212:5000/live/channel38/playlist.m3u8
+
 #EXTINF:-1,TVRI NASIONAL
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1,TVRI JAKARTA
@@ -44,71 +50,106 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
 #EXTINF:-1,NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
 #EXTINF:-1,JAKTV
 http://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
 #EXTINF:-1,ELSHINTA TV
 https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
-#EXTINF:-1,PSJ TV
-https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+
 #EXTINF:-1,POP MUSIK
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 #EXTINF:-1,MALEO 
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+
 #EXTINF:-1,JOGJA TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
 #EXTINF:-1,JITV
 http://103.255.15.222:1935/tv/jitv/chunklist.m3u8
+
 #EXTINF:-1,TATV
 https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 
+================================================================================
+
 #EXTINF:-1,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
 #EXTINF:-1,ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
 #EXTINF:-1,NHK WORLD JAPAN
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
 #EXTINF:-1,RTB SUKMAINDERA
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1,RTB ANEKA
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1,RTB GO LIVE
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
 #EXTINF:-1,TV5 MONDE ASIE
 http://202.150.161.212:5000/live/channel32/playlist.m3u8
+
 #EXTINF:-1,TRUE4U 24
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 
+================================================================================
+
 #EXTINF:-1,CGTN DOCUMENTARY
 https://english-liveali.cgtn.com/hls/yypdjlctzb/yypdjlctzbhd/playlist.m3u8
+
 #EXTINF:-1,DISCOVERY ASIA
 https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+
 #EXTINF:-1,SONY BBC EARTH
 http://45.148.145.57/IN_SONYBBCHD/index.m3u8
+
 #EXTINF:-1,HISTORY
 https://wahyu1ptv.pages.dev/History-HD.m3u8
-#EXTINF:-1,ANIMAL PLANET
-https://wahyu1ptv.pages.dev/AnimalPlanet-HD.m3u8
+
+================================================================================
 
 #EXTINF:-1,ANIPLUS
 http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
+
 #EXTINF:-1,CARTOON NETWORK
 http://202.150.161.212:5000/live/channel27/playlist.m3u8
 
+================================================================================
+
 #EXTINF:-1,THRILL
 http://op-group1-swiftservesd-1.dens.tv/s/s34/01.m3u8
+
 #EXTINF:-1,KIX
 http://op-group1-swiftservehd-1.dens.tv/h/h07/01.m3u8
+
 #EXTINF:-1,CELESTIAL MOVIES
 http://op-group1-swiftservehd-1.dens.tv/h/h14/01.m3u8
+
 #EXTINF:-1,WARNER TV
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
+
 #EXTINF:-1,TVN MOVIES
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
+
 #EXTINF:-1,SONY PIX
 https://otttv.co.in/d2h/livestream/sony-pix-hd/master_900.m3u8
 
+#EXTINF:-1,ETV BIOSKOP 1
+https://WahyuIPTV.short.gy/ETVBioskop1.ts
+#EXTINF:-1,ETV BIOSKOP 2
+https://WahyuIPTV.short.gy/ETVBioskop2.ts
+#EXTINF:-1,ETV BIOSKOP 3
+https://WahyuIPTV.short.gy/ETVBioskop3.ts
+#EXTINF:-1,ETV BIOSKOP 4
+https://WahyuIPTV.short.gy/ETVBioskop4.ts
+
+================================================================================
+
 #EXTINF:-1,FIGHT SPORTS
 http://op-group1-swiftservehd-1.dens.tv/h/h05/01.m3u8
+
 #EXTINF:-1,SONY SPORTS TEN 1
 https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_900.m3u8
 #EXTINF:-1,SONY SPORTS TEN 2
@@ -119,12 +160,15 @@ https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_900.m3u8
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master_900.m3u8
 #EXTINF:-1,SONY SPORTS TEN 5
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master_900.m3u8
+
 #EXTINF:-1,TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
 #EXTINF:-1,SPOTV
 https://wahyu1ptv.pages.dev/SPOTV1-HD.m3u8
 #EXTINF:-1,SPOTV2
 https://wahyu1ptv.pages.dev/SPOTV2-HD.m3u8
+
 #EXTINF:-1,SPORTSTARS
 https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
 #EXTINF:-1,SPORTSTARS 2
