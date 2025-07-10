@@ -30,7 +30,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-##https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/ind1.m3u8
+#https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/ind1.m3u8
 #http://iptvtree.net:8080/F25093/29838750/162138
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr5QpD3T/ezgif-1-5b5ec93378.png",MOJI
@@ -231,7 +231,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 http://bestp55.xyz/live/A7FC77529786/519C32219872/74833.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-tv-18-us-in.png",HISTORY TV 18
-##http://bestp55.xyz/live/A7FC77529786/519C32219872/34701.ts
+http://bestp55.xyz/live/A7FC77529786/519C32219872/34701.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xCbwjSJ/ezgif-2-67ea0b71d7.png",HGTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -259,7 +259,7 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.m
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_life_us.png",DISCOVERY LIFE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CO4UGZ5MTOwYzMyEWL0kjYh1iZ4UDNtgTN1cTL5YzNxATMyUzL.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/71348.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTCbw5Pm/ezgif-1-7ab72d15fa.png",DMAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -269,7 +269,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/science_us.png",SCIENCE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yMlBDO0UTYyMGMyIWLhhTYh1SN3YGNtEjY4MWL0kjM0E2Y4czL.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/71437.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4FKq7k2/ezgif-795f40ef9ac6e3.png",BBC EARTH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -307,12 +307,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mpd/CGTNDocumen
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCxG7yDQ/ezgif-7260ca4473b0dd.png",NATIONAL GEOGRAPHIC CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-##https://ott.udptv.org/stream/udptvus/nationalgeographic/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-##http://bestp55.xyz/live/A7FC77529786/519C32219872/71433.ts
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZjRGO5EWMzYWYzkTLkNTNi1SM1IDNtQDO1MWLjdjM2UzY5Q2L.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/71433.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT5gzmBv/ezgif-7ffa798ee776d0.png",NAT GEO WILD
-##https://ott.udptv.org/stream/udptvus/natgeowild/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 http://bestp55.xyz/live/A7FC77529786/519C32219872/71432.ts
 
 =================================================================================================================================
@@ -324,7 +321,6 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-my.png",ASTRO ARENA
-##https://ott.udptv.org/stream/astro/astroarena/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 http://bestp55.xyz/live/A7FC77529786/519C32219872/1052376.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png",ASTRO ARENA 2
@@ -332,27 +328,15 @@ http://bestp55.xyz/live/A7FC77529786/519C32219872/957703.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-football-my.png",ASTRO FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-##https://ott.udptv.org/stream/astro/astrofootball/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-##http://bestp55.xyz/live/A7FC77529786/519C32219872/1170915.ts
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CN1MDZkRDMwMDM0ETL5YDOi1yYlBDNtMTOzQWL0EWN4QGNmRzL.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/1170915.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-sports-plus-my.png",ASTRO SPORTS PLUS
-##https://ott.udptv.org/stream/astro/astrosportsplus/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 http://bestp55.xyz/live/A7FC77529786/519C32219872/1170920.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-grandstand-my.png",ASTRO GRANDSTAND
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-##https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE14U3Mt5yc05ybu9WbvEjdtM3ajFmc09CN5gjNhZWZwQmMxMTL5YWMi1yMkhDNtETY0MTLwY2Y0YTNhVzL.m3u8
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-my.png",ASTRO PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yN3kTYjZGOlVmNhNWL3YGN50yM2cDNtIGNkJWLmNjZ0EzN0E2L.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-2-my.png",ASTRO PREMIER LEAGUE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE14U3Mt5yc05ybu9WbvEjdtM3ajFmc09SYkJ2N1ITNxcjZycTL3MDOi1iMyYGNtQDZjFWLhZzN3U2M4czL.m3u8
 
 =================================================================================================================================
 
@@ -414,11 +398,11 @@ http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q
 https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTd0Y9CK/ezgif-3-9612904433.png",EUROSPORT 1
-##http://185.189.225.157/EuroSport1/index.m3u8
+#http://185.189.225.157/EuroSport1/index.m3u8
 http://bestp55.xyz/live/A7FC77529786/519C32219872/56541.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdrKmdnr/ezgif-3-558bfa55d1.png",EUROSPORT 2
-##http://185.189.225.157/EuroSport2/index.m3u8
+#http://185.189.225.157/EuroSport2/index.m3u8
 http://bestp55.xyz/live/A7FC77529786/519C32219872/56540.ts
 
 =================================================================================================================================
@@ -489,8 +473,7 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pc
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C6LR6ry/ezgif-333f8156825335.png",TNT SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-##http://bestp55.xyz/live/A7FC77529786/519C32219872/311557.ts
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1ZGE3MDdjOWNmOGNhLWY1MjktYmRiNC1kYjY4LTQwMTQ3OWZj/master.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/311557.ts
 
 =================================================================================================================================
 
@@ -584,27 +567,19 @@ https://deneme123.parisiptv1.workers.dev/Bein-Sport-4-HD/tracks-v1a1/mono.m3u8
 https://deneme123.parisiptv1.workers.dev/Bein-Sport-5-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png",BEIN SPORTS 6
-##http://ktv.im:8080/556224433k/9004455221/49603
-##http://ktv.im:8080/live/556224433k/9004455221/49527.ts
 http://bestp55.xyz/live/A7FC77529786/519C32219872/18106.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png",BEIN SPORTS 7
-##http://ktv.im:8080/556224433k/9004455221/49604
-##http://ktv.im:8080/live/556224433k/9004455221/49528.ts
 http://bestp55.xyz/live/A7FC77529786/519C32219872/73323.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png",BEIN SPORTS 8
-##http://ktv.im:8080/live/556224433k/9004455221/49605.ts
 http://bestp55.xyz/live/A7FC77529786/519C32219872/550001.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png",BEIN SPORTS 9
-##http://ktv.im:8080/live/556224433k/9004455221/49541.ts
-##http://ktv.im:8080/live/556224433k/9004455221/49530.ts
 http://bestp55.xyz/live/A7FC77529786/519C32219872/550002.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png",BEIN SPORTS
 http://bestp55.xyz/live/A7FC77529786/519C32219872/551291.ts
-##https://ott.udptv.org/stream/udptvus/beinsports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-news-qa.png",BEIN SPORTS NEWS
 http://bestp55.xyz/live/A7FC77529786/519C32219872/551290.ts
@@ -663,27 +638,22 @@ https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FkYNmWD/ezgif-7930f169abe86f.png",TEN SPORTS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",SKY SPORTS F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-##http://bestp55.xyz/live/A7FC77529786/519C32219872/1015492.ts
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NGRiMTQ4MmUyNmQwLWQ4YjktNmU1NC04MzllLWViNDg3MDJm/master.m3u8
-##https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE14U3Mt5yc05ybu9WbvETYtM3ajFmc09iYzMzYhFWOyQGZyQWLyQ2Y50CMzMDNtMGZyETL2YDMlRTO1gzL.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/1015492.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",SKY SPORTS PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-##http://bestp55.xyz/live/A7FC77529786/519C32219872/980433.ts
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8
-##https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iMhFWNjRDZwITZmJTLjhjMi1SNlhDNtEjZwEWL0QTOwETN1gzL.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/980433.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",SKY SPORTS MAIN EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-##http://bestp55.xyz/live/A7FC77529786/519C32219872/348315.ts
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1OTE2YjUwMDY3YzhlLTAzYzgtOTNlNC1lYzBkLWIzNjVmN2Uy/master.m3u8
-##https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CMhBDZhdTY2EGOwEWL2EWNi1SO2QDNtETMkNTLjZjN2IWZygzL.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/348315.ts
 
 =================================================================================================================================
 
@@ -760,56 +730,51 @@ http://bestp55.xyz/live/A7FC77529786/519C32219872/900937.ts
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85dt2d9J/ezgif-1e230f661bf35e.png",TSN 1
-##EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-##https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/tsn1.m3u8
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/tsn1.m3u8
 http://bestp55.xyz/live/A7FC77529786/519C32219872/42917.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QTTgmvz/ezgif-16da96bd391506.png",TSN 2
-##EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-##https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/tsn2.m3u8
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/tsn2.m3u8
 http://bestp55.xyz/live/A7FC77529786/519C32219872/78715.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0J1n7Yr/ezgif-6f2b538b75a1ba.png",TSN 3
-##EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-##https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/tsn3.m3u8
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/tsn3.m3u8
 http://bestp55.xyz/live/A7FC77529786/519C32219872/30355.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4kbqD60/ezgif-135a045b526fbf.png",TSN 4
-##https://ott.udptv.net/stream/iptv/tsn4/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
-##EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-##https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/tsn4.m3u8
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/tsn4.m3u8
 http://bestp55.xyz/live/A7FC77529786/519C32219872/30354.ts
 
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/yNQnmwQd/ezgif-6c15321cb1fede.png",TSN 5
-##EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-##https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/tsn5.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNQnmwQd/ezgif-6c15321cb1fede.png",TSN 5
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/tsn5.m3u8
 http://bestp55.xyz/live/A7FC77529786/519C32219872/30353.ts
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-fr.png",CANAL + SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SMxIDZlhjYzkTYzMTL2QDO40iZxADNtEWMmRWL4M2Y2UGZxAzL.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-foot-fr.png",CANAL + FOOT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CN5IWOxUWMwcTYkdTLjVWM50CZ2QDNtQGZkVTL4kTZkFjYxQzL.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/56569.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-360-fr.png",CANAL + SPORT 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SO2M2N5YTYyE2MlNTLmBDOh1CO0MDNtQWOhZTLzEGZiJGMkV2L.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/311209.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-foot-fr.png",CANAL + FOOT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+http://bestp55.xyz/live/A7FC77529786/519C32219872/311117.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-live-1-fr.png",CANAL + LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iZ0QTM0YjMwImN0EWL0ImZ40CZwEGNtQWZwcTLiFjZzkjZ3gzL.m3u8
+#https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iZ0QTM0YjMwImN0EWL0ImZ40CZwEGNtQWZwcTLiFjZzkjZ3gzL.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-live-2-fr.png",CANAL + LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SNzQWNmBDOzYmYzETLkFjZi1yNhlDNtIWZkRWLkJWOmRTMyIzL.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-5-fr.png",CANAL + SPORT 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09COzATYmZzN4YDOxMWL5IWY40COkhDNtAjY4kTL3MDMiNWNhNzL.m3u8
+#https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SNzQWNmBDOzYmYzETLkFjZi1yNhlDNtIWZkRWLkJWOmRTMyIzL.m3u8
 
 ===========================================================================================================================
 
@@ -861,80 +826,82 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2spor
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png",FS1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-##https://ott.udptv.org/stream/udptvus/fs1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-##http://bestp55.xyz/live/A7FC77529786/519C32219872/72358.ts
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1ZmI4NzhmOGI3ZGUwLTU4Y2ItNjJhNC1iYjlmLTYyNGM4ZGZm/master.m3u8
-##https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNhBDO2ETNzITNwYWL1UjMi1CMhVDNtEDO0MTLjRTOiNTMhZ2L.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/72358.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png",FS2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-##https://ott.udptv.org/stream/udptvus/fs2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-##http://bestp55.xyz/live/A7FC77529786/519C32219872/72359.ts
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1YTY5MDFkNTVlYjFmLTEwMGItOWQ2NC0yYWE2LWVkYWYwMGYy/master.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/72359.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_soccer_plus.png",FOX SOCCER PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/72330.ts
 
 ===========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-1-pt.png",SPORT.TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SNzczY0MDOiFjNmRTLiNmMi1CMjRGNtEDZidTLihDZxEjZzI2L.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/68419.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-2-pt.png",SPORT.TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CZ0QWN2EWNjJWOlhTLxUGMi1CO5UGNtEWZwcTLzEDZ1QTY5E2L.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/1030796.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-3-pt.png",SPORT.TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iN3QGM0cTZ2EzMlNWLyYWZh1CMlRDNtgTZ4ETLiNGZjdDNkZ2L.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/1030797.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-4-pt.png",SPORT.TV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SYwkDMwETZ1gDOhdTLxE2Yh1yYzUDNtIWZzgTL1EGMmZTM1U2L.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/1030800.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-5-pt.png",SPORT.TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yM1MTZ0IjM2gzYmJTLlNjYi1SYkdDNtATNyITL5E2YhdDZ5E2L.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/68420.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-6-pt.png",SPORT.TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CMkBTN0IGMiVTYwITLllTOh1yMkFGNtgjMiFWL3gjZ4QTZxczL.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/254527.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqfmrkqb/ezgif-36a31129493d02.png",SPORT.TV 7
+http://bestp55.xyz/live/A7FC77529786/519C32219872/974660.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-plus-pt.png",SPORT.TV +
+http://bestp55.xyz/live/A7FC77529786/519C32219872/1030779.ts
+
 
 ===========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-sports-1-ie.png",PREMIER SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8
+#https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-sports-2-ie.png",PREMIER SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NjE4YmE5OWMzMmQxLTEwNjktZTM0NC1jOTY0LTNlOGM3ZDU2/master.m3u8
+#https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NjE4YmE5OWMzMmQxLTEwNjktZTM0NC1jOTY0LTNlOGM3ZDU2/master.m3u8
 
 ===========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF55LYQh/ezgif-36965134b57395.png",DAZN 1 BAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1MmY4Yjc0ZDFiNzdhLTYzN2EtNzIwNC0wNmEyLWEzM2EwMDM2/master.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/45656.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCkX1n0w/ezgif-37d4c13f0a4d5e.png",DAZN 2 BAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NDczNGRiNWVkN2QwLWU3NGItNmRkNC0wYjhiLTFjNmM2NTBj/master.m3u8
+http://bestp55.xyz/live/A7FC77529786/519C32219872/45657.ts
 
 ===========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/go-3-sport-open-lv.png",GO 3 SPORT OPEN
-##https://wahyu1ptv.pages.dev/Go3SportOpen-HD.m3u8
+#https://wahyu1ptv.pages.dev/Go3SportOpen-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4DWp1Cg/ezgif-3e44116786d1ec.png",GO 3 SPORT 1
-##https://wahyu1ptv.pages.dev/Go3Sport1-HD.m3u8
+#https://wahyu1ptv.pages.dev/Go3Sport1-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgz3xhVh/ezgif-3bae60f0ecff4e.png",GO 3 SPORT 2
-##https://wahyu1ptv.pages.dev/Go3Sport2-HD.m3u8
+#https://wahyu1ptv.pages.dev/Go3Sport2-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/go-3-sport-3-lv.png",GO 3 SPORT 3
-##https://wahyu1ptv.pages.dev/Go3Sport3-HD.m3u8
+#https://wahyu1ptv.pages.dev/Go3Sport3-HD.m3u8
 
 ===========================================================================================================================
 
