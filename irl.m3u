@@ -708,7 +708,7 @@ http://bestp55.xyz/live/A7FC77529786/519C32219872/900937.ts
 ##KODIPROP:inputstream.adaptive.manifest_type=dash
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ##KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+##https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=17938&type=drm 
@@ -781,13 +781,13 @@ https://bitter-boa-67.deno.dev/play.mpd?id=18189&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=18190&type=drm
 https://bitter-boa-67.deno.dev/play.mpd?id=18190&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/nba-tv-646502.jpg",NBA TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",NBA TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=6717&type=drm
 https://bitter-boa-67.deno.dev/play.mpd?id=6717&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg",PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png",PREMIER LEAGUE TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=9353&type=drm 
@@ -833,14 +833,6 @@ http://bestp55.xyz/live/A7FC77529786/519C32219872/311209.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-foot-fr.png",CANAL + FOOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 http://bestp55.xyz/live/A7FC77529786/519C32219872/311117.ts
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-live-1-fr.png",CANAL + LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iZ0QTM0YjMwImN0EWL0ImZ40CZwEGNtQWZwcTLiFjZzkjZ3gzL.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-live-2-fr.png",CANAL + LIVE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SNzQWNmBDOzYmYzETLkFjZi1yNhlDNtIWZkRWLkJWOmRTMyIzL.m3u8
 
 ===========================================================================================================================
 
