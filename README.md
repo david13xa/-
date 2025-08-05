@@ -1,5 +1,3 @@
-FOR EDUCATION ONLY
+For Education Only
 
-IM HAPPY TO HELP EACH OTHER
-
-THANK YOU
+Thank You
