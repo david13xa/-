@@ -1,3 +1,3 @@
-For Education Only
+use this for education only
 
-Thank You
+thank you
