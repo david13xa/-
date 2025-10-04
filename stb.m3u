@@ -5,9 +5,7 @@
 http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png",ANTV
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165072.ts
-
-================================================================================
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
@@ -18,58 +16,41 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr5QpD3T/ezgif-1-5b5ec93378.png",MOJI
 https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 
-================================================================================
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png",TRANS TV
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/162503.ts
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png",TRANS 7
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/162502.ts
-
-================================================================================
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzxTt5C9/ezgif-7-56f3bf48d5.png",MDTV
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
-================================================================================
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
 
-================================================================================
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157591.ts
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png",MNCTV
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165054.ts
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png",GTV
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157578.ts
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/inews-id.png",INEWS
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157579.ts
-
-================================================================================
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png",KOMPAS TV
 http://op-group1-swiftservehd-1.dens.tv/s/s104/02.m3u8
-
-================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png",METRO TV
 http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv-id.png",JTV
-https://63b2dc7196c38.streamlock.net/JTVSURABAYA/myStream/playlist.m3u8
-
-================================================================================
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png",TVRI NASIONAL
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jakarta-id.png",TVRI JAKARTA
-https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-world-id.png",TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
@@ -77,78 +58,16 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sport-id.png",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jawa-barat-id.png",TVRI JAWA BARAT
-https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jawa-tengah-id.png",TVRI JAWA TENGAH
-https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jawa-timur-id.png",TVRI JAWA TIMUR
-https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-yogyakarta-id.png",TVRI YOGYAKARTA
-https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-bali-id.png",TVRI BALI
-https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
-
-================================================================================
-
-#EXTINF:-1 tvg-logo="https://nettvpro.xyz/uploads/19/1-1ZZ5211H2110.jpg",JOGJA TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-
-================================================================================
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jogja-istimewa-tv-id.png",JITV
-http://103.255.15.222:1935/tv/jitv/chunklist.m3u8
-
-================================================================================
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85kC3FLq/ezgif-3-2b1ff1a288.png",TATV
-https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
-
 ================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cna-sg.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-================================================================================
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/aa/al_jazeera_qa.png",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-================================================================================
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSRFhBRB/ezgif-3-f137a3918c.png",NHK WORLD JAPAN
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-
-================================================================================
-
-#EXTINF:-1 tvg-logo="https://nettvpro.xyz/uploads/allimg/19/1-1910291556290-L.jpg",RTB SUKMAINDERA
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://nettvpro.xyz/uploads/allimg/20/1-20060Q151230-L.jpg",RTB ANEKA
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://nettvpro.xyz/uploads/allimg/21/1-2109111PU30-L.jpg",RTB GO LIVE
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-
-================================================================================
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5monde-info-fr.png",TV5MONDE INFO
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5monde-asie-fr.png",TV5MONDE ASIE
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5monde-pacifique-fr.png",TV5MONDE PACIFIQUE
-https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5monde-style-fr.png",TV5MONDE STYLE 1
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-
-================================================================================
+https://media-osa.hls.nhkworld.jp/hls/w/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-4u-th.png",TRUE4U 24
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
@@ -158,10 +77,16 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn_documentary.png",CGTN DOCUMENTARY
 https://english-liveali.cgtn.com/hls/yypdjlctzb/yypdjlctzbhd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png",HISTORY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
+
 ================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ymbCgmj/ezgif-6a08694ce8feec.png",ANIPLUS
 http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax-jp.png",ANIMAX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 
 ================================================================================
 
@@ -173,35 +98,20 @@ http://op-group1-swiftservehd-1.dens.tv/h/h14/01.m3u8
 
 ================================================================================
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png",FIGHT SPORTS
-http://op-group1-swiftservehd-1.dens.tv/h/h05/01.m3u8
-
-================================================================================
-
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",SONY SPORTS TEN 1
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master_900.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",SONY SPORTS TEN 2
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master_900.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",SONY SPORTS TEN 3
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_900.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",SONY SPORTS TEN 4
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master_900.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",SONY SPORTS TEN 5
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master_900.m3u8
-
-================================================================================
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png",SPOTV
 http://bestp55.xyz/live/A7FC77529786/519C32219872/1052588.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png",SPOTV V+
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png",SPOTV2
 http://bestp55.xyz/live/A7FC77529786/519C32219872/1052589.ts
 
-================================================================================
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png",SPOTV2 V+
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/soccer-channel-id.png",SOCCER CHANNEL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYswMrLL/ezgif-46ce045552378f.png",TNT SPORTS 1
 http://bestp55.xyz/live/A7FC77529786/519C32219872/348297.ts
@@ -215,24 +125,10 @@ http://bestp55.xyz/live/A7FC77529786/519C32219872/348299.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kX8hR2xF/ezgif-43473aaf03b9b4.png",TNT SPORTS 4
 http://bestp55.xyz/live/A7FC77529786/519C32219872/311555.ts
 
-================================================================================
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",SKY SPORTS F1
 http://bestp55.xyz/live/A7FC77529786/519C32219872/1015492.ts
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",SKY SPORTS PREMIER LEAGUE
-http://bestp55.xyz/live/A7FC77529786/519C32219872/980433.ts
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",SKY SPORTS MAIN EVENT
-http://bestp55.xyz/live/A7FC77529786/519C32219872/348315.ts
-
-=================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-moto-gp-it.png",SKY SPORT MOTO GP
 http://bestp55.xyz/live/A7FC77529786/519C32219872/76680.ts
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-calcio-it.png",SKY SPORT CALCIO
-http://bestp55.xyz/live/A7FC77529786/519C32219872/900937.ts
-
 =================================================================================================================================
-
