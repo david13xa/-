@@ -3,9 +3,14 @@
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvone-id.png",TV ONE
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv/
-http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
+##https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
+##https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+##http://203.77.246.58:4500/udp/239.1.3.88:5000
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -14,41 +19,63 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 ##https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+##https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
+##https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
+##http://203.77.246.58:4500/udp/239.1.1.104:5000
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png",SCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+##https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+http://103.66.62.83:8000/play/a01t/index.m3u8
+##http://103.66.62.83:8000/play/a068/index.m3u8
+##http://aromatv.co/live/Enjy3637/4JFEBAs359/444140.ts
+##https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+##http://203.77.246.58:4500/udp/239.1.1.108:5000
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png",INDOSIAR
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
-#http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+##https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+##http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
+##http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+##http://103.66.62.83:8000/play/a001/index.m3u8
+##http://103.66.62.83:8000/play/a069/index.m3u8
+http://aromatv.co/live/Enjy3637/4JFEBAs359/444139.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr5QpD3T/ezgif-1-5b5ec93378.png",MOJI
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8?app_type=web&userid=lite&chname=Moji
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+##https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+##http://103.66.62.83:8000/play/a02q/index.m3u8
+##http://103.66.62.83:8000/play/a065/index.m3u8
+http://103.66.62.83:8000/play/a06a/index.m3u8
+##http://aromatv.co/live/Enjy3637/4JFEBAs359/444150.ts
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png",TRANS TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=203388a3ab9b4e0b99552f6669c4eea9:e43bc84dc73ee0e78b533dec7cd7b715
-https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
+##https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
+##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
+##http://103.66.62.83:8000/play/a020/index.m3u8
+##http://103.66.62.83:8000/play/a06i/index.m3u8
+##http://aromatv.co/live/Enjy3637/4JFEBAs359/444143.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png",TRANS 7
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
-https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
+##https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
+##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+http://103.66.62.83:8000/play/a022/index.m3u8
+##http://103.66.62.83:8000/play/a06l/index.m3u8
+##http://aromatv.co/live/Enjy3637/4JFEBAs359/444141.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_id.png",CNN INDONESIA
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com
@@ -67,17 +94,13 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzxTt5C9/ezgif-7-56f3bf48d5.png",MDTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
 ##https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
-##EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-##EXTVLCOPT:http-referrer=http://dens.tv/
-##https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
+##https://fta1-cdn-flr.visionplus.id/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -85,8 +108,8 @@ https://fta1-cdn-flr.visionplus.id/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
 ##https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
-##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
+##https://fta3-cdn-flr.visionplus.id/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
 
 =================================================================================================================================
 
@@ -123,22 +146,36 @@ https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index
 https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png",KOMPAS TV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv/
-http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
+##https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
+##https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
+##https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+##http://203.77.246.58:4500/udp/239.1.1.6:5000
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png",METRO TV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv/
-http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+##https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
+##https://cdn10jtedge.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv-id.png",JTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
-https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
+##https://atemeshield1-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
+##https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
+##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
+##https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+##https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/chunklist_w821621054.m3u8
+##https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/myStream/chunklist_w1568737735.m3u8
+https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bali_tv_id.png",BALI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -160,7 +197,18 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sport-id.png",TVRI SPORT
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+##https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+http://103.66.62.83:8000/play/a00n/index.m3u8
+
+=================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvH2YWxq/ezgif-648bdcd09d3daf.png",SIN PO TV
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=19046&type=drm
+##https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
+https://bitter-boa-67.deno.dev/play.mpd?id=19046&type=dash
 
 =================================================================================================================================
 
@@ -168,16 +216,51 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTVLCOPT:http-referrer=https://www.channelnewsasia.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
-##https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
+##https://cdn10jtedge.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
+##https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSRFhBRB/ezgif-3-f137a3918c.png",NHK WORLD JAPAN
 #EXTVLCOPT:http-referrer=https://www3.nhk.or.jp/
 https://media-osa.hls.nhkworld.jp/hls/w/live/playlist.m3u8
+##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
+##http://203.77.246.58:4500/udp/239.1.2.2:5000
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MMVxHp4/ezgif-6457788ed7f0a9.png",NHK WORLD PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+##EXTVLCOPT:http-referrer=https://www.visionplus.id/
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=2f699274d40f479d89804912c134830d:352d8c910649b4d332047cf2833bb43f
+##https://fta4-cdn-flr.visionplus.id/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
+##https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/aa/al_jazeera_qa.png",ALJAZEERA
 #EXTVLCOPT:http-referrer=https://www.aljazeera.com/
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
+##https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
+##https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+
+=================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4Ng1CfDn/ezgif-6e2eee0f6f5939.png”,TVN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=844db5a3a7ff4339b22f93811b004148:de946a52bd1df1d8a9e6510b1e0b3576
+##https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
+##http://203.77.246.58:4500/udp/239.1.3.64:5000
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png”,TVN MOVIES
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
+##https://atemecdnbalancer-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
+##http://203.77.246.58:4500/udp/239.1.3.62:5000
 
 =================================================================================================================================
 
@@ -189,10 +272,13 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-in.png",ONE
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
-https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
+##https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
+##http://203.77.246.58:4500/udp/239.1.5.10:5000
+##http://203.77.246.58:4500/udp/239.1.2.236:5000
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax-jp.png",ANIMAX
 ##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -201,24 +287,57 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 ##https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 
+=================================================================================================================================
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ymbCgmj/ezgif-6a08694ce8feec.png",ANIPLUS
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
+http://103.66.62.83:8000/play/a04l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png",K+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+##http://103.66.62.83:8000/play/a03u/index.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRt1rwKG/ezgif-641f3376c6fb0b.png",CINEMAWORLD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld_dash/manifest.mpd
+
+
+=================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png",CELESTIAL MOVIES
-##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
 ##https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
-##http://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+##http://smt.1678520.xyz/smt3.2.1.php?id=Celestial
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png",CELESTIAL CLASSIC MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
+##https://fta1-cdn-flr.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
+##http://203.77.246.58:4500/udp/239.1.2.162:5000
+##http://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+
+=================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/iqiyi-cn.png",IQIYI
+http://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
+
+=================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kix-hk.png",KIX
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
-https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
+##https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
+##https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png",THRILL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -228,52 +347,57 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 ##https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 ##https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 ##https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 ##http://203.77.246.58:4500/udp/239.1.2.216:5000
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/iqiyi-cn.png",IQIYI
-http://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png",HISTORY
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
-https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
+##https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
 
 ===========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xCbwjSJ/ezgif-2-67ea0b71d7.png",HGTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
-https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
+##https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
+##http://203.77.246.58:4500/udp/239.1.5.12:5000
+##http://203.77.246.58:4500/udp/239.1.2.238:5000
+##http://aromatv.co/live/Enjy3637/4JFEBAs359/282992.ts
+https://i.mjh.nz/.r/discovery-hgtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4Y17Nfh/ezgif-2-1b576c2a7f.png",ANIMAL PLANET
 ##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 ##https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
-http://203.77.246.58:4500/udp/239.1.5.28:5000
+http://103.66.62.83:8000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png",DISCOVERY CHANNEL
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
+##https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+http://103.66.62.83:8000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png",DISCOVERY ASIA
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
-https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+##https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTCbw5Pm/ezgif-1-7ab72d15fa.png",DMAX
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
-https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
+##https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+http://aromatv.co/live/Enjy3637/4JFEBAs359/416737.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4FKq7k2/ezgif-795f40ef9ac6e3.png",BBC EARTH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -284,20 +408,23 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYRqzGCx/ezgif-78bb10bca9ae95.png",GLOBAL TREKKER
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
-https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekkerHD.mpd
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
+##https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekkerHD.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/outdoor-channel-us.png",OUTDOOR CHANNEL
 #EXTVLCOPT:http-referrer=https://www.outdoorchannel.com/
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love-nature-ca.png",LOVE NATURE
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
-https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
+##https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
+##https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn_documentary.png",CGTN DOCUMENTARY
 ##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -357,11 +484,39 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 =================================================================================================================================
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png",SONY SPORTS TEN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://66.102.120.18:8000/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png",SONY SPORTS TEN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://66.102.120.18:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png",SONY SPORTS TEN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://66.102.120.18:8000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png",SONY SPORTS TEN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://66.102.120.18:8000/play/a010/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-asia-fr.png",EUROSPORT
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+##https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+http://66.102.120.18:8000/play/a01g/index.m3u8
+
+=================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1530JnG0/ezgif-6bab54ee368362.png",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
+##http://185.188.188.237:5000/live/eurosport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q5rPm2B/ezgif-626de9edc5d7dc.png",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
 
 =================================================================================================================================
 
@@ -674,7 +829,6 @@ https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-4-ro.png",PRIMA SPORT 4
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -774,3 +928,4 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 ===========================================================================================================================
+
