@@ -30,9 +30,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 ##https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-http://103.66.62.83:8000/play/a01t/index.m3u8
-##http://103.66.62.83:8000/play/a068/index.m3u8
-##http://aromatv.co/live/Enjy3637/4JFEBAs359/444140.ts
+http://aromatv.co/live/Enjy3637/4JFEBAs359/444140.ts
 ##https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 ##http://203.77.246.58:4500/udp/239.1.1.108:5000
 
@@ -41,18 +39,14 @@ http://103.66.62.83:8000/play/a01t/index.m3u8
 ##https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 ##http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 ##http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-##http://103.66.62.83:8000/play/a001/index.m3u8
-##http://103.66.62.83:8000/play/a069/index.m3u8
 http://aromatv.co/live/Enjy3637/4JFEBAs359/444139.ts
+##http://203.77.246.58:4500/udp/239.1.1.110:5000
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr5QpD3T/ezgif-1-5b5ec93378.png",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 ##https://wahyu1ptv.pages.dev/Moji-HD.m3u8
-##http://103.66.62.83:8000/play/a02q/index.m3u8
-##http://103.66.62.83:8000/play/a065/index.m3u8
-http://103.66.62.83:8000/play/a06a/index.m3u8
-##http://aromatv.co/live/Enjy3637/4JFEBAs359/444150.ts
+http://aromatv.co/live/Enjy3637/4JFEBAs359/444150.ts
 
 =================================================================================================================================
 
@@ -63,19 +57,15 @@ http://103.66.62.83:8000/play/a06a/index.m3u8
 ##https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 ##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
-##http://103.66.62.83:8000/play/a020/index.m3u8
-##http://103.66.62.83:8000/play/a06i/index.m3u8
 ##http://aromatv.co/live/Enjy3637/4JFEBAs359/444143.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png",TRANS 7
-##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
 ##https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
-##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
-http://103.66.62.83:8000/play/a022/index.m3u8
-##http://103.66.62.83:8000/play/a06l/index.m3u8
-##http://aromatv.co/live/Enjy3637/4JFEBAs359/444141.ts
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+http://aromatv.co/live/Enjy3637/4JFEBAs359/444141.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_id.png",CNN INDONESIA
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com
@@ -198,17 +188,16 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sport-id.png",TVRI SPORT
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 ##https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-http://103.66.62.83:8000/play/a00n/index.m3u8
+http://103.170.33.11:9981/stream/channelid/768175194?profile=pass
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvH2YWxq/ezgif-648bdcd09d3daf.png",SIN PO TV
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=19046&type=drm
-##https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
-https://bitter-boa-67.deno.dev/play.mpd?id=19046&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
 
 =================================================================================================================================
 
@@ -625,47 +614,43 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png",CHAMPIONS TV 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=6685&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=6685&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+##KODIPROP:inputstream.adaptive.manifest_type=dash
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+##KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=6685&type=drm
+##https://vidd.semar.my.id/vidreq.php?id=6685&type=dash
+http://203.77.246.58:4500/udp/239.1.2.240:5000
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png",CHAMPIONS TV 2
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ##EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
 ##KODIPROP:inputstream.adaptive.manifest_type=dash
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 ##KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
 ##https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
-https://bitter-boa-67.deno.dev/play.mpd?id=17939&type=dash
+#sEXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
+##https://bitter-boa-67.deno.dev/play.mpd?id=17939&type=dash
+http://203.77.246.58:4500/udp/239.1.5.6:5000
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png",CHAMPIONS TV 3
 ##EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 ##EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
-##KODIPROP:inputstream.adaptive.manifest_type=dash
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 ##KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6786&type=drm
 ##https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
+##https://bitter-boa-67.deno.dev/play.mpd?id=6786&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
-https://bitter-boa-67.deno.dev/play.mpd?id=6786&type=dash
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTyrHXSJ/ezgif-631fe2a16d0b36.png",CHAMPIONS TV LIVE
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-##KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6685&type=drm
-##https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6685&type=dash 
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
-https://bitter-boa-67.deno.dev/play.mpd?id=17938&type=dash
+##KODIPROP:inputstream.adaptive.manifest_type=dash
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+##KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=6686&type=drm
+##https://vidd.semar.my.id/vidreq.php?id=6686&type=dash
+http://203.77.246.58:4500/udp/239.1.5.8:5000
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-5-id.png",CHAMPIONS TV 5
 ##EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
@@ -674,10 +659,15 @@ https://bitter-boa-67.deno.dev/play.mpd?id=17938&type=dash
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ##KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm
 ##https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
+##https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
-https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=dash
+https://vidd.semar.my.id/vidreq.php?id=9182&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-6-id.png",CHAMPIONS TV 6
 ##EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
@@ -686,28 +676,45 @@ https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=dash
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ##KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm
 ##https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+##KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+##https://bitter-boa-67.deno.dev/play.mpd?id=9183&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-https://bitter-boa-67.deno.dev/play.mpd?id=9183&type=dash
+https://vidd.semar.my.id/vidreq.php?id=9183&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8rc2LNZ/ezgif-47ae28892fc98c.png",CHAMPIONS GOLF 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=18189&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=18189&type=dash
+##KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=18189&type=drm
+##https://bitter-boa-67.deno.dev/play.mpd?id=18189&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=18189&type=drm
+https://vidd.semar.my.id/vidreq.php?id=18189&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/br2NVr6R/ezgif-4817cdb211de2d.png",CHAMPIONS GOLF 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=18190&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=18190&type=dash
+##KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=18190&type=drm
+##https://bitter-boa-67.deno.dev/play.mpd?id=18190&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=18190&type=drm
+https://vidd.semar.my.id/vidreq.php?id=18190&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png",PREMIER LEAGUE TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=9353&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=9353&type=dash
+##KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=9353&type=drm
+##https://bitter-boa-67.deno.dev/play.mpd?id=9353&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=9353&type=drm
+https://vidd.semar.my.id/vidreq.php?id=9353&type=dash
 
 =================================================================================================================================
 
