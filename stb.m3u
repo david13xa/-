@@ -2,31 +2,37 @@
 ================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvone-id.png",TV ONE
-http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png",ANTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png",SCTV
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png",INDOSIAR
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr5QpD3T/ezgif-1-5b5ec93378.png",MOJI
 https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr5QpD3T/ezgif-1-5b5ec93378.png",MOJI
+http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png",TRANS TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png",TRANS 7
+http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png",TRANS 7
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzxTt5C9/ezgif-7-56f3bf48d5.png",MDTV
-https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",RTV
-http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
@@ -41,10 +47,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png",KOMPAS TV
-http://op-group1-swiftservehd-1.dens.tv/s/s104/02.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png",METRO TV
-http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv-id.png",JTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
@@ -61,29 +67,26 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 ================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cna-sg.png",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/aa/al_jazeera_qa.png",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSRFhBRB/ezgif-3-f137a3918c.png",NHK WORLD JAPAN
-https://media-osa.hls.nhkworld.jp/hls/w/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-4u-th.png",TRUE4U 24
-https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 
 ================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn_documentary.png",CGTN DOCUMENTARY
 https://english-liveali.cgtn.com/hls/yypdjlctzb/yypdjlctzbhd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYRqzGCx/ezgif-78bb10bca9ae95.png",GLOBAL TREKKER
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png",HISTORY
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
 
-================================================================================
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love-nature-ca.png",LOVE NATURE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ymbCgmj/ezgif-6a08694ce8feec.png",ANIPLUS
-http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
+================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax-jp.png",ANIMAX
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
@@ -91,23 +94,17 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 ================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kix-hk.png",KIX
-http://op-group1-swiftservehd-1.dens.tv/h/h07/01.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png",CELESTIAL MOVIES
-http://op-group1-swiftservehd-1.dens.tv/h/h14/01.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
 
 ================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png",SPOTV
-http://bestp55.xyz/live/A7FC77529786/519C32219872/1052588.ts
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png",SPOTV V+
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png",SPOTV2
-http://bestp55.xyz/live/A7FC77529786/519C32219872/1052589.ts
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png",SPOTV2 V+
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/soccer-channel-id.png",SOCCER CHANNEL
@@ -119,22 +116,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-4-id.png",SPORTSTARS 4
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYswMrLL/ezgif-46ce045552378f.png",TNT SPORTS 1
-http://bestp55.xyz/live/A7FC77529786/519C32219872/348297.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",BEIN SPORTS 1
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hj5Vp0qz/ezgif-400947218a05a8.png",TNT SPORTS 2
-http://bestp55.xyz/live/A7FC77529786/519C32219872/348298.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY4Bvx2w/ezgif-45eb9b47a81dd2.png",TNT SPORTS 3
-http://bestp55.xyz/live/A7FC77529786/519C32219872/348299.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kX8hR2xF/ezgif-43473aaf03b9b4.png",TNT SPORTS 4
-http://bestp55.xyz/live/A7FC77529786/519C32219872/311555.ts
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",SKY SPORTS F1
-http://bestp55.xyz/live/A7FC77529786/519C32219872/1015492.ts
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-moto-gp-it.png",SKY SPORT MOTO GP
-http://bestp55.xyz/live/A7FC77529786/519C32219872/76680.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",BEIN SPORTS 2
+https://ww.dooballfree.vip/live/bein2/playlist.m3u8
 
 =================================================================================================================================
