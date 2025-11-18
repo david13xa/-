@@ -14,9 +14,6 @@ http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr5QpD3T/ezgif-1-5b5ec93378.png",MOJI
-https://wahyu1ptv.pages.dev/Moji-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr5QpD3T/ezgif-1-5b5ec93378.png",MOJI
 http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png",TRANS TV
@@ -116,10 +113,5 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-4-id.png",SPORTSTARS 4
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",BEIN SPORTS 1
-https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",BEIN SPORTS 2
-https://ww.dooballfree.vip/live/bein2/playlist.m3u8
-
-=================================================================================================================================
+================================================================================
