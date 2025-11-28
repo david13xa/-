@@ -733,16 +733,16 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-aec-my.png",ASTRO AEC
-http://smt.1678520.xyz/smt3.2.1.php?id=AEC
+##http://smt.1678520.xyz/smt3.2.1.php?id=AEC
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-aod-my.png",ASTRO AOD
-http://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
+##http://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-hua-hee-dai-my.png",ASTRO HUA HEE DAI
-http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
+##http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-qj-my.png",ASTRO QJ
-http://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
+##http://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-showcase-my.png",ASTRO SHOWCASE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -759,7 +759,7 @@ https://smart.946985.filegear-sg.me/smart.php?id=Arena2
 ##EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-bola-my.png",ASTRO ARENA BOLA
 ##https://smart.946985.filegear-sg.me/smart.php?id=Bolaarena1
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-bola-2-my.png",ASTRO ARENA BOLA 2
+##EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-bola-2-my.png",ASTRO ARENA BOLA 2
 ##https://smart.946985.filegear-sg.me/smart.php?id=Bolaarena2
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-my.png",ASTRO PREMIER LEAGUE
@@ -775,14 +775,14 @@ https://smart.946985.filegear-sg.me/smart.php?id=Assp2
 https://smart.946985.filegear-sg.me/smart.php?id=go_assp3
 ##https://smart.946985.filegear-sg.me/smart.php?id=Assp3
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-football-my.png",ASTRO FOOTBALL
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp4
+##EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-football-my.png",ASTRO FOOTBALL
+##https://smart.946985.filegear-sg.me/smart.php?id=go_assp4
 ##https://smart.946985.filegear-sg.me/smart.php?id=Assp4
 
-##EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-badminton-my.png",ASTRO BADMINTON
-##https://smart.946985.filegear-sg.me/smart.php?id=go_badminton1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-badminton-my.png",ASTRO BADMINTON
+https://smart.946985.filegear-sg.me/smart.php?id=go_badminton1
 
-##EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-badminton-my.png",ASTRO BADMINTON
+##EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-badminton-2-my.png",ASTRO BADMINTON 2
 ##https://smart.946985.filegear-sg.me/smart.php?id=go_badminton2
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-sports-plus-my.png",ASTRO SPORTS PLUS
@@ -797,7 +797,8 @@ https://smart.946985.filegear-sg.me/smart.php?id=Wwe
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/iqiyi-cn.png",IQIYI
 ##http://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+##http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+http://217.156.66.36:8080/live/crocco2023/izQ42k4q8Lfh/306494.ts
 
 =================================================================================================================================
 
@@ -813,15 +814,18 @@ http://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvvPnnyD/ezgif-8e0839300dd19533.png",HOY 76
 http://hls.168.us.kg/u/76/master.m3u8
+##https://hknat.946985.filegear-sg.me/hoy.php?ch=ch76
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4bf5GXn/ezgif-83fc8f707051bd36.png",HOY 77
 ##http://test-al-livepull.migucloud.com/live/OCitoW8kzeqjIz3HUf2RfrCbwDgkjTSFmulrDM1lE9TMzfApyL.flv
 http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 ##http://hls.168.us.kg/u/77/master.m3u8
+##https://hknat.946985.filegear-sg.me/hoy.php?ch=ch77
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjPBsW7/ezgif-85ae654bda7ed08d.png",HOY 78
 ##https://smart.946985.filegear-sg.me/smart.php?id=hoycaijing_twn
 http://hls.168.us.kg/u/78/master.m3u8
+##https://hknat.946985.filegear-sg.me/hoy.php?ch=ch78
 
 =================================================================================================================================
 
@@ -849,24 +853,25 @@ http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb_hk_pearl.png",TVB PEARL
 http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
+## http://hls.168.us.kg/u/84/master.m3u8
 ##http://bxtv.3a.ink/api.php?id=mz
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6ndXFh2/ezgif-76dd7431eaf88f73.png",TVBJ1
 http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb_hk_jade.png",TVB JADE HONGKONG
-http://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
+##http://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb_hk_jade.png",TVB JADE TAIWAN
-http://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
-##http://hls.168.us.kg/u/81/master.m3u8
+##http://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
+http://hls.168.us.kg/u/81/master.m3u8
 ##http://bxtv.3a.ink/api.php?id=fct
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb_hk_entertainment_news.png",TVB ENTERTAINMENT
-http://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
+##http://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb-classic-my.png",TVB CLASSIC
-http://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
+##http://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb-xing-he-hk.png",TVB XING HE
 http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
@@ -907,6 +912,7 @@ http://pull-skycorp.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjoiHUf2RAFMTOK5qG1aVgI
 ##http://cdn.163189.xyz/163189/now
 http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 ##http://hls.168.us.kg/u/332/master.m3u8
+http://hls.168.us.kg/u/333/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0YxcDGD/ezgif-17c5fae097935c79.png",NOW SPORTS 1
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112207
@@ -1525,17 +1531,15 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png",SONY SPORTS TEN 1
 http://103.175.242.10:8080/sonyten1/index.m3u8
-##http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png",SONY SPORTS TEN 2
 ##http://103.175.242.10:8080/sonyten2/index.m3u8
 ##http://66.102.120.18:8000/play/a01y/index.m3u8
 ##http://103.166.152.22:8080/roarzone/bk/21/index.m3u8?token=188020e70d34023df5af976e1958dce400bbce74-a4f07b31040b91f1477ef764948b8a69-1764316403-1764305603
 https://tvsen3.aynascope.net/HsatAP9H/index.m3u8
-##http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png",SONY SPORTS TEN 3
-http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://217.156.66.36:8080/live/crocco2023/izQ42k4q8Lfh/56191.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png",SONY SPORTS TEN 5
 http://103.175.242.10:8080/sonyten5/index.m3u8
@@ -1544,14 +1548,13 @@ http://103.175.242.10:8080/sonyten5/index.m3u8
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZqrTGkH/ezgif-77d8078dfb545d6b.png",TEN SPORTS
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d1.merichunidya.com:1686/hls/tenspk.m3u8?md5=PNzR0zu94NfteYs4dbALoQ&expires=1764312308
+http://217.156.66.36:8080/live/crocco2023/izQ42k4q8Lfh/151863.ts
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/529vBRqx/ezgif-11a84d50dce04c5e.png",CNBC
-https://e1.thetvapp.to/hls/CNBC/tracks-v1a1/playlist.m3u8
+##https://e1.thetvapp.to/hls/CNBC/tracks-v1a1/playlist.m3u8
+http://89.105.221.127/CNBC/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsLgM96j/ezgif-2b8dd724154214e1.png",E! ENTERTAINMENT
 https://e1.thetvapp.to/hls/EEast/tracks-v1a1/playlist.m3u8
@@ -1573,7 +1576,11 @@ https://e1.thetvapp.to/hls/USANetworkEast/tracks-v1a1/playlist.m3u8
 ##http://nocable.cc:8080/live/91161088/91161088/10252.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xTGqDFZ/ezgif-2d1d4b54943d207d.png",GOLF CHANNEL
-https://e1.thetvapp.to/hls/GolfChannel/tracks-v1a1/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
+##https://e1.thetvapp.to/hls/GolfChannel/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2xJn4Bq/ezgif-1cc56bdd8b8d49d8.png",NBC KNBC LOS ANGELES
 https://e1.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v1a1/playlist.m3u8
@@ -2158,5 +2165,4 @@ https://nl.utako.moe/v_paradise/index.m3u8
 http://4gtv.aibot408.qzz.io:20013/4gtv-live121/index.m3u8?proxy=true
 
 =================================================================================================================================
-
 
