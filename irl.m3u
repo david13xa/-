@@ -1091,11 +1091,11 @@ http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-2-cn.png",CCTV 2
 ##http://bxtv.3a.ink/migu.php?id=cctv2
-##https://tv123.vvvv.ee/live.php/?ch=58
+https://tv123.vvvv.ee/live.php/?ch=214
 ##http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
 ##http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
 ##https://iptv.catvod.com/live.php?id=cctv2
-http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+##http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-3-cn.png",CCTV 3
 ##http://bxtv.3a.ink/migu.php?id=cctv3
@@ -1116,8 +1116,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mediampd/CCTV4.mpd
 ##https://iptv.catvod.com/live.php?id=cctv4
 ##http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/85cTQzsw/ezgif-39f2ddad422bd9ef.png",CCTV 4 EUROPE
-##https://tv123.vvvv.ee/live.php/?ch=215
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85cTQzsw/ezgif-39f2ddad422bd9ef.png",CCTV 4 EUROPE
+https://tv123.vvvv.ee/live.php/?ch=230
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxKsby4R/ezgif-744b8c58ef152ae5.png",CCTV 4 AMERICA
 https://global.cgtn.cicc.media.caton.cloud/hls/1669979134887520542/1669979134887520542.m3u8?vkey=261C68BCD6A0C8C11748E5F6D67CB1270492DD38E8F10A7B48925C2647CA8671
@@ -1914,15 +1914,16 @@ https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 ===========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jCVsWfG9/ezgif-5b7c1d074c9afd.png",LA CHAÎNE L'ÉQUIPE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
+##https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 ##https://www.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=q1kxQsy0zrYaBA4F_1goRJ3b_NRmaupYvs01nBTwm5lzv__gt5h_3MTujHzxlmlucRk61bsa1_gLHcRhEhxCTVI9nYsaWbFHGg9sv8dQobo
+http://217.156.66.36:8080/live/crocco2023/izQ42k4q8Lfh/147.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgHZX6Tb/ezgif-5c9d307a44b21e.png",L'ÉQUIPE LIVE 1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-1-dm.m3u8
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/sgHZX6Tb/ezgif-5c9d307a44b21e.png",L'ÉQUIPE LIVE 1
+##https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-1-dm.m3u8
 ##https://www.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=FXsheqk1OEzUvosbP38FFfNk7r-8c9blp3eBeTWD2GVBGg4iP2NqXXQEQxVTtd3kDK5uzvfVeFr91RLFwDDWEduyPj_MpABkqfpQhBRfzvo
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/854mkLD9/ezgif-71bc38a4fe7167ad.png",L'ÉQUIPE LIVE 2
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-2-dm.m3u8
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/854mkLD9/ezgif-71bc38a4fe7167ad.png",L'ÉQUIPE LIVE 2
+##https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-2-dm.m3u8
 ##https://www.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=AoRqRXpqCJeGpRUSHR6ESHwowgs5lXEa3Akx42AVgYt5qHdiXymgrwi6MxMTC0j5tH54WOWS-orgY9fX-MW71xovm8Cv7zvvz7PHSmGnCaw
 
 ===========================================================================================================================
@@ -2025,8 +2026,9 @@ http://de.online24.pm/play/6722/0E5BF0B5A9755BD/video.m3u8
 
 ===========================================================================================================================
 
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/j2nRWykQ/ezgif-2d121a5d7d7a1d82.png",SKY CINEMA ACTION
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2nRWykQ/ezgif-2d121a5d7d7a1d82.png",SKY CINEMA ACTION
 ##https://live.catvod.com/beesports.php?id=Sky-Cinema-Action&token=d3a2b304a323efab91c0b682821a0ef157529327753688c2111f7cefd1028f95%3A1764314460%3AMTAzLjE4Ni4xOTMuMTQw
+http://217.156.66.36:8080/live/crocco2023/izQ42k4q8Lfh/1659.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZgCDCfn/ezgif-2da5a2febdc3d686.png",SKY NEWS
 ##https://live.catvod.com/live.php?id=skynews_twn&token=1b94b170199b49477549f44f8527fc103be3cbd4bdcf2f536a210820c7ddabe1%3A1763946978%3AMTAzLjE4Ni4xOTMuMTQw
@@ -2036,8 +2038,9 @@ https://smart.946985.filegear-sg.me/smart.php?id=skynews_twn
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FstfJZN9/ezgif-4ee233e928c5c787.png",SKY SPORTS FOOTBALL
 ##http://178.33.239.54:8080/500a/index.m3u8
 ##https://tv123.vvvv.ee/live.php/?ch=546
-https://live.catvod.com/beesports.php?id=Sky-Sports-Football&token=1363f77fb3a2105534015d449430764d2621d7759a42f0c2eb16ed12c048bf19%3A1764314460%3AMTAzLjE4Ni4xOTMuMTQw
+##https://live.catvod.com/beesports.php?id=Sky-Sports-Football&token=1363f77fb3a2105534015d449430764d2621d7759a42f0c2eb16ed12c048bf19%3A1764314460%3AMTAzLjE4Ni4xOTMuMTQw
 ##https://live.catvod.com/beesports.php?id=Sky-Sports-Football-BU&token=f57e88f8db28630da73641caa8aa93c7f9487b120c1f6056dc90601755b1d836%3A1764314460%3AMTAzLjE4Ni4xOTMuMTQw
+http://217.156.66.36:8080/live/crocco2023/izQ42k4q8Lfh/304771.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yy96MMz/ezgif-4904abe0f7597782.png",SKY SPORTS MAIN EVENT
 ##http://178.33.239.54:8080/502a/index.m3u8
@@ -2061,7 +2064,8 @@ https://smart.946985.filegear-sg.me/smart.php?id=tiankongmix
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6n8mzSq/ezgif-295fe3358bb0c938.png",SKY SPORTS +
 ##http://tv123.vvvv.ee/live.php/?ch=551
-https://live.catvod.com/beesports.php?id=Sky-Sports-Arena&token=479ada9dc070f59de6ab87aded9cb2793b9a9219ce1fcb9b0b383af29ac33b0d%3A1764314460%3AMTAzLjE4Ni4xOTMuMTQw
+##https://live.catvod.com/beesports.php?id=Sky-Sports-Arena&token=479ada9dc070f59de6ab87aded9cb2793b9a9219ce1fcb9b0b383af29ac33b0d%3A1764314460%3AMTAzLjE4Ni4xOTMuMTQw
+http://lunar.pm:8080/live/melodyg/uQnLQnTkRj/100765.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gj32KCmD/ezgif-4c8b9356d70dde47.png",SKY SPORTS NEWS
 ##http://178.33.239.54:8080/501a/index.m3u8
@@ -2086,20 +2090,22 @@ https://smart.946985.filegear-sg.me/smart.php?id=tiankongf1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qtrzg1tq/ezgif-2607eaf94320eabc.png",SKY SPORTS GOLF
 ##https://tv123.vvvv.ee/live.php/?ch=556
-https://live.catvod.com/beesports.php?id=Sky-Sports-Golf&token=d4e000f361d2a7412f9cf4f3062de7a3aafbba7b01147d87e74cf1cc663284a6%3A1764314460%3AMTAzLjE4Ni4xOTMuMTQw
+##https://live.catvod.com/beesports.php?id=Sky-Sports-Golf&token=d4e000f361d2a7412f9cf4f3062de7a3aafbba7b01147d87e74cf1cc663284a6%3A1764314460%3AMTAzLjE4Ni4xOTMuMTQw
+http://217.156.66.36:8080/live/crocco2023/izQ42k4q8Lfh/264.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBDfBMVN/ezgif-27741724bf56ad32.png",SKY SPORTS RACING
 ##http://tv123.vvvv.ee/live.php/?ch=557
-https://live.catvod.com/beesports.php?id=Sky-Sports-Racing&token=b5448cb6c331c0e6153875e1eb503f556609fa53d5141e73ca306685cd31c529%3A1764314460%3AMTAzLjE4Ni4xOTMuMTQw
+##https://live.catvod.com/beesports.php?id=Sky-Sports-Racing&token=b5448cb6c331c0e6153875e1eb503f556609fa53d5141e73ca306685cd31c529%3A1764314460%3AMTAzLjE4Ni4xOTMuMTQw
+http://217.156.66.36:8080/live/crocco2023/izQ42k4q8Lfh/304777.ts
 
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/B6czcpRq/ezgif-4ca7c2261416390c.png",SKY SPORTS ACTION
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-nfl-uk.png",SKY SPORTS NFL
 ##http://178.33.239.54:8080/504a/index.m3u8
 ##https://live.catvod.com/beesports.php?id=Sky-Sports-Action
 ##http://tv123.vvvv.ee/live.php/?ch=549
 ##EXTVLCOPT:http-referrer=https://profamouslife.com/
 ##EXTVLCOPT:http-origin=https://profamouslife.com
 ##https://d1.merichunidya.com:1686/hls/skysact.m3u8?md5=Xg4miIFgBTs6xR6lA-ywJA&expires=1764321577
-##http://217.156.66.36:8080/live/crocco2023/izQ42k4q8Lfh/268.ts
+http://217.156.66.36:8080/live/crocco2023/izQ42k4q8Lfh/268.ts
 
 ===========================================================================================================================
 
@@ -2216,5 +2222,4 @@ https://nl.utako.moe/v_paradise/index.m3u8
 http://4gtv.aibot408.qzz.io:20013/4gtv-live121/index.m3u8?proxy=true
 
 =================================================================================================================================
-
 
