@@ -768,12 +768,12 @@ http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
 ##https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-my.png",ASTRO ARENA
-##https://smart.946985.filegear-sg.me/smart.php?id=Arena
-http://217.156.66.36:8080/live/crocco2023/izQ42k4q8Lfh/157485.ts
+https://smart.946985.filegear-sg.me/smart.php?id=Arena
+##http://217.156.66.36:8080/live/crocco2023/izQ42k4q8Lfh/157485.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png",ASTRO ARENA 2
-##https://smart.946985.filegear-sg.me/smart.php?id=Arena2
-http://vipketseyket.top:8080/live/VIP017741743173529373/aacb05f76c36/34649.ts
+https://smart.946985.filegear-sg.me/smart.php?id=Arena2
+##http://vipketseyket.top:8080/live/VIP017741743173529373/aacb05f76c36/34649.ts
 
 ##EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-bola-my.png",ASTRO ARENA BOLA
 ##https://smart.946985.filegear-sg.me/smart.php?id=Bolaarena1
@@ -805,8 +805,8 @@ https://smart.946985.filegear-sg.me/smart.php?id=go_badminton1
 ##EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-badminton-2-my.png",ASTRO BADMINTON 2
 ##https://smart.946985.filegear-sg.me/smart.php?id=go_badminton2
 
-##EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-sports-plus-my.png",ASTRO SPORTS PLUS
-##https://smart.946985.filegear-sg.me/smart.php?id=go_sportsplus
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-sports-plus-my.png",ASTRO SPORTS PLUS
+https://smart.946985.filegear-sg.me/smart.php?id=go_sportsplus
 
 =================================================================================================================================
 
@@ -2241,6 +2241,5 @@ https://nl.utako.moe/v_paradise/index.m3u8
 http://4gtv.aibot408.qzz.io:20013/4gtv-live121/index.m3u8?proxy=true
 
 =================================================================================================================================
-
 
 
