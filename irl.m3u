@@ -97,9 +97,9 @@ https://livestream.transtv.co.id/stream/live/ttv.m3u8
 ##https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png",TRANS 7
-http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
+##http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
 ##https://smart.946985.filegear-sg.me/smart.php?id=Trans7_eko
-##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_id.png",CNN INDONESIA
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com
