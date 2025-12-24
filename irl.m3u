@@ -1787,7 +1787,7 @@ http://103.175.242.10:8080/sonyten2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png",SONY SPORTS TEN 5
 http://103.175.242.10:8080/sonyten5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-bbc-earth-in.png",SONY BBC EARTH
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-bbc-earth-uk-in.png",SONY BBC EARTH
 http://108.181.123.111:8070/live/crocco2023/izQ42k4q8Lfh/192995.ts
 
 =================================================================================================================================
