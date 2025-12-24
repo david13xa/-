@@ -34,12 +34,15 @@ https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 ##https://smart.946985.filegear-sg.me/smart.php?id=SCTV
 ##http://217.156.66.36:8080/live/crocco2023/izQ42k4q8Lfh/162141.ts
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
-#KODIPROP:network-caching=2000
-http://202.169.224.202:8800/udp/239.9.1.29:1234
+##KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+##KODIPROP:inputstream=ffmpegdirect
+##KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+##KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
+##KODIPROP:network-caching=2000
+##http://202.169.224.202:8800/udp/239.9.1.29:1234
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=204&type=hls
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png",INDOSIAR
 ##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -49,12 +52,15 @@ http://202.169.224.202:8800/udp/239.9.1.29:1234
 ##https://smart.946985.filegear-sg.me/smart.php?id=Indosiar
 ##http://217.156.66.36:8080/live/crocco2023/izQ42k4q8Lfh/162138.ts
 ##http://vipketseyket.top:8080/live/VIP017741743173529373/aacb05f76c36/34327.ts
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
-#KODIPROP:network-caching=2000
-http://202.169.224.202:8800/udp/239.9.1.25:1234
+##KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+##KODIPROP:inputstream=ffmpegdirect
+##KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+##KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
+##KODIPROP:network-caching=2000
+##http://202.169.224.202:8800/udp/239.9.1.25:1234
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=205&type=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr5QpD3T/ezgif-1-5b5ec93378.png",MOJI
 ##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -66,12 +72,15 @@ http://202.169.224.202:8800/udp/239.9.1.25:1234
 ##http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 ##https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 ##http://108.181.122.99:8070/live/crocco2023/izQ42k4q8Lfh/298550.ts
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
-#KODIPROP:network-caching=2000
-http://202.169.224.202:8800/udp/239.9.1.32:1234
+##KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+##KODIPROP:inputstream=ffmpegdirect
+##KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+##KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
+##KODIPROP:network-caching=2000
+##http://202.169.224.202:8800/udp/239.9.1.32:1234
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=206&type=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvH2YWxq/ezgif-648bdcd09d3daf.png",SIN PO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -630,6 +639,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mediampd/Nickelodeon.
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vh1-us.png",VH1
 http://84.17.40.25/VH1/index.m3u8
+##https://fl1.moveonjoy.com/VH1/index.m3u8
 
 =================================================================================================================================
 
@@ -1790,14 +1800,47 @@ http://103.175.242.10:8080/sonyten5/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-bbc-earth-uk-in.png",SONY BBC EARTH
 http://108.181.123.111:8070/live/crocco2023/izQ42k4q8Lfh/192995.ts
 
-=================================================================================================================================
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZqrTGkH/ezgif-77d8078dfb545d6b.png",TEN SPORTS
 ##EXTVLCOPT:http-referrer=https://profamouslife.com/
 ##EXTVLCOPT:http-origin=https://profamouslife.com
 ##https://d10.merichunidya.com:1686/hls/tenspk.m3u8?md5=xDeJDcU5_a1qr4-KGS_q9A&expires=1766121814
 ##http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 http://217.156.66.36:8080/live/crocco2023/izQ42k4q8Lfh/151863.ts
+
+=================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png",TRUE SPORTS 1
+http://119.59.118.159/live/ch9/Mariogogo007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-2-th.png",TRUE SPORTS 2
+http://119.59.118.159/live/ch10/Mariogogo007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-3-th.png",TRUE SPORTS 3
+http://119.59.118.159/live/ch11/Mariogogo007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-4-th.png",TRUE SPORTS 4
+http://119.59.118.159/live/ch12/Mariogogo007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-5-th.png",TRUE SPORTS 5
+http://119.59.118.159/live/ch13/Mariogogo007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-7-th.png",TRUE SPORTS 7
+http://119.59.118.159/live/ch14/Mariogogo007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",TRUE VISIONS BEIN SPORTS 1
+http://119.59.118.159/live/ch15/Mariogogo007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",BEIN SPORT",TRUE VISIONS BEIN SPORTS 2
+http://119.59.118.159/live/ch16/Mariogogo007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",TRUE VISIONS BEIN SPORTS 3
+http://119.59.118.159/live/ch17/Mariogogo007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png",TRUE VISIONS SPOTV
+http://119.59.118.159/live/ch18/Mariogogo007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png",TRUE VISIONS SPOTV2
+http://119.59.118.159/live/ch19/Mariogogo007/index.m3u8
 
 =================================================================================================================================
 
@@ -2277,35 +2320,40 @@ https://dash3.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 
 =================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvT0HMSD/ezgif-689269e803d62a2a.png",IMODE TV
-http://player.juyun.tv/camera/137932133.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSry9H75/ezgif-5-0d6ac0c226.jpg",GLOBAL FASHION CHANNEL
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
 =================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4n9VYpw/ezgif-68830eb6e0e4d8f5.png",FASHION TV ASIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4n9VYpw/ezgif-68830eb6e0e4d8f5.png",FASHION TV SEA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
 https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
-##https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/k4n9VYpw/ezgif-68830eb6e0e4d8f5.png",FASHION TV TAIWAN
-##https://tmxk.pp.ua/smt.php?id=fashiontv_twn
-##https://smart.946985.filegear-sg.me/smart.php?id=fashiontv_twn
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4n9VYpw/ezgif-68830eb6e0e4d8f5.png",FASHION TV GLOBAL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4n9VYpw/ezgif-68830eb6e0e4d8f5.png",FASHION TV RUSSIA
+http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4n9VYpw/ezgif-68830eb6e0e4d8f5.png",FASHION TV ASIA
+https://s06.watcher.uz/154/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4n9VYpw/ezgif-68830eb6e0e4d8f5.png",FASHION TV EUROPE
 http://85.11.144.6:6060/play/a08m/index.m3u8
 
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/85d34zbQ/ezgif-7029a20426664a75.png",FASHION TV CZECH&SLOVAK
-##https://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85d34zbQ/ezgif-7029a20426664a75.png",FASHION TV CZECH & SLOVAK
+##http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+##http://80.94.54.42/fashiontv/stream/playlist.m3u8
+http://lb.streaming.sk/fashiontv/stream/index.m3u8
+##https://tmxk.pp.ua/smt.php?id=fashiontv_twn
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_one_tr.png",FASHION ONE
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
+##https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 
 =================================================================================================================================
 
@@ -2317,9 +2365,27 @@ https://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
 
 =================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYPfqjkv/ezgif-5ba14a0df95652d8.png",KALOOPY TV
-##https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/df2e1f8e-4f47-41b0-bd26-626e8a63caf2/2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SwPXF001/ezgif-148be9b247f9744d.png",FASHION & LIFESTYLE
+http://31.148.48.15/Fashion_One_HD/index.m3u8
+
+=================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/code-fashion-tv-bg.png",CODE FASHION TV
+https://cdn2.invivo.bg/Codefashion_5500/index.fmp4.m3u8
+##https://cdn2.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/code-health-tv-bg.png",CODE HEALTH TV
+https://cdn2.invivo.bg/codehealth_test/tracks-v1a1/mono.m3u8
+
+=================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqwL4W58/ezgif-4dd8e94a12776ab8.png",LUXE.TV
+http://4gtv.aibot408.qzz.io:20013/4gtv-live121/index.m3u8?proxy=true
+
+=================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvT0HMSD/ezgif-689269e803d62a2a.png",IMODE TV
+http://player.juyun.tv/camera/137932133.m3u8
 
 =================================================================================================================================
 
@@ -2328,8 +2394,27 @@ https://nl.utako.moe/pigoo/index.m3u8
 
 =================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqwL4W58/ezgif-4dd8e94a12776ab8.png",LUXE.TV
-http://4gtv.aibot408.qzz.io:20013/4gtv-live121/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYPfqjkv/ezgif-5ba14a0df95652d8.png",KALOOPY TV
+##https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
+##https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/8f00dd6b-9a8e-4614-8537-dd95d5fd7707/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/df2e1f8e-4f47-41b0-bd26-626e8a63caf2/2.m3u8
+
+=================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/miami-tv-dj-us.png",MIAMI TV DJ
+https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/a22e42c1-e512-4292-a26b-372109b074b6/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/miami-tv-fashion-us.png",MIAMI TV FASHION
+https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/1af4abed-c0b8-487a-a75e-da051be75fac/0.m3u8
+##https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/miami-tv-models-us.png",MIAMI TV MODELS
+https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/cc6204e2-2821-43d0-a123-b7fc6eb7017d/0.m3u8
+##https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/miami-tv-music-us.png",MIAMI TV MUSIC
+https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-Music/b5bf34ac-1c3e-4615-9ae4-6699f1d85db2/0.m3u8
+##https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-Music/playlist.m3u8
 
 =================================================================================================================================
 
