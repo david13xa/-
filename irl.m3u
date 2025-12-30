@@ -856,18 +856,22 @@ https://live.catvod.com/live.php?id=Boo
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-aec-my.png",ASTRO AEC
 ##http://smt.1678520.xyz/smt3.2.1.php?id=AEC
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+##http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+https://live.catvod.com/live.php?id=AEC
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-aod-my.png",ASTRO AOD
 ##http://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+##http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+https://live.catvod.com/live.php?id=Aodhd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-hua-hee-dai-my.png",ASTRO HUA HEE DAI
 ##http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+##http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+https://live.catvod.com/live.php?id=Huahee
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-qj-my.png",ASTRO QJ
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+##http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+https://live.catvod.com/live.php?id=Quanjia
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-my.png",ASTRO ARENA
 ##https://smart.946985.filegear-sg.me/smart.php?id=Arena
@@ -928,14 +932,15 @@ http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtMc219C/ezgif-67f748fa720f0124.png",VIU TV
-http://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
-##http://hls.168.us.kg/u/96/master.m3u8
+##http://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
 ##http://bxtv.3a.ink/api.php?id=viutv
 ##http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
+http://hls.168.us.kg/u/96/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SFv32nN/ezgif-637e2b371ea7fc4a.png",VIU TV6
-http://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
+##http://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
 ##http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+http://hls.168.us.kg/u/99/master.m3u8
 
 =================================================================================================================================
 
@@ -944,8 +949,8 @@ http://hls.168.us.kg/u/76/master.m3u8
 ##https://tvbjack.946985.filegear-sg.me/ch76/jcakch76.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4bf5GXn/ezgif-83fc8f707051bd36.png",HOY 77
-##http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 http://hls.168.us.kg/u/77/master.m3u8
+##http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjPBsW7/ezgif-85ae654bda7ed08d.png",HOY 78
 http://hls.168.us.kg/u/78/master.m3u8
@@ -953,11 +958,11 @@ http://hls.168.us.kg/u/78/master.m3u8
 
 =================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3zsFmDC/ezgif-1fd8be5def07dad0.png",HUYA CINEMA
-https://live.ottiptv.cc/huya/11601968
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/W3zsFmDC/ezgif-1fd8be5def07dad0.png",HUYA CINEMA
+##https://live.ottiptv.cc/huya/11601968
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3zsFmDC/ezgif-1fd8be5def07dad0.png",HUYA MOVIES STEPHEN CHOW
-https://live.ottiptv.cc/huya/11342412
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/W3zsFmDC/ezgif-1fd8be5def07dad0.png",HUYA MOVIES STEPHEN CHOW
+##https://live.ottiptv.cc/huya/11342412
 
 =================================================================================================================================
 
@@ -967,12 +972,14 @@ https://live.ottiptv.cc/huya/11342412
 http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb-classic-my.png",TVB CLASSIC
-http://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
+##http://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
 ##https://smart.946985.filegear-sg.me/smart.php?id=Tvbclassic
+https://live.catvod.com/iptv.php?id=Tvbclassic
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb_hk_jade.png",TVB JADE HONGKONG
-http://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
+##http://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
 ##https://smart.946985.filegear-sg.me/smart.php?id=Tvbjade
+https://live.catvod.com/iptv.php?id=Tvbjade
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb_hk_jade.png",TVB JADE TAIWAN
 ##http://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
@@ -2477,5 +2484,4 @@ https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/
 https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-Music/playlist.m3u8
 
 =================================================================================================================================
-
 
