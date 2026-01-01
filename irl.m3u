@@ -567,6 +567,9 @@ https://nl.utako.moe/bs10_star/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-11-jp.png",BS11
 https://nl.utako.moe/BS11/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtGy4Q8/ezgif-66f3ede521dabf8d.png",J:COM BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j-sports-1-jp.png",J SPORTS 1
@@ -793,6 +796,15 @@ http://202.150.161.212:5000/live/channel33/playlist.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mediampd/TvNHD.mpd
 ##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28xF5qtN/ezgif-551687c314b12c1d.png",TVN SHOW
+http://tv123.vvvv.ee/live.php/?ch=21f2cb5b675
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn-drama-kr.png",TVN DRAMA
+http://tv123.vvvv.ee/live.php/?ch=bb07932a676
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn-story-kr.png",TVN STORY
+http://tv123.vvvv.ee/live.php/?ch=d3ed55b8677
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtS2jh0j/tvnmovies.png",TVN MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -902,77 +914,60 @@ https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-boo-my.png",ASTRO BOO
-##https://smart.946985.filegear-sg.me/smart.php?id=Boo
-https://live.catvod.com/live.php?id=Boo
+http://live.7887887.xyz/smart.php?id=Boo&token=7887887
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aec-my.png",ASTRO AEC
 ##http://smt.1678520.xyz/smt3.2.1.php?id=AEC
-##http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
-https://live.catvod.com/live.php?id=AEC
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png",ASTRO AOD
 ##http://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
-##http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
-https://live.catvod.com/live.php?id=Aodhd
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-hua-hee-dai-my.png",ASTRO HUA HEE DAI
 ##http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
-##http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
-https://live.catvod.com/live.php?id=Huahee
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-qj-my.png",ASTRO QJ
-##http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
-https://live.catvod.com/live.php?id=Quanjia
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-arena-my.png",ASTRO ARENA
-##https://smart.946985.filegear-sg.me/smart.php?id=Arena
-https://live.catvod.com/live.php?id=Arena
+##http://tv123.vvvv.ee/live.php/?ch=0e3cadfd600
+http://live.7887887.xyz/smart.php?id=Arena&token=7887887
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-arena-2-my.png",ASTRO ARENA 2
-##https://smart.946985.filegear-sg.me/smart.php?id=Arena2
-https://live.catvod.com/live.php?id=Arena2
+##http://tv123.vvvv.ee/live.php/?ch=96350623601
+http://live.7887887.xyz/smart.php?id=Arena2&token=7887887
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-arena-bola-my.png",ASTRO ARENA BOLA
-https://live.catvod.com/live.php?id=Bolaarena1
+http://live.7887887.xyz/smart.php?id=Bolaarena1&token=7887887
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-arena-bola-2-my.png",ASTRO ARENA BOLA 2
-https://live.catvod.com/live.php?id=Bolaarena2
+http://live.7887887.xyz/smart.php?id=Bolaarena2&token=7887887
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-premier-league-my.png",ASTRO PREMIER LEAGUE
-##https://smart.946985.filegear-sg.me/smart.php?id=go_assp1
-##https://smart.946985.filegear-sg.me/smart.php?id=Assp1
-https://live.catvod.com/live.php?id=go_assp1
+http://live.7887887.xyz/smart.php?id=go_assp1&token=7887887
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-premier-league-2-my.png",ASTRO PREMIER LEAGUE 2
 ##https://a1xs.vip/1100031
-##https://smart.946985.filegear-sg.me/smart.php?id=go_assp2
-##https://smart.946985.filegear-sg.me/smart.php?id=Assp2
-https://live.catvod.com/live.php?id=go_assp2
+http://live.7887887.xyz/smart.php?id=go_assp2&token=7887887
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-grandstand-my.png",ASTRO GRANDSTAND
-##https://smart.946985.filegear-sg.me/smart.php?id=go_assp3
-##https://smart.946985.filegear-sg.me/smart.php?id=Assp3
-https://live.catvod.com/live.php?id=go_assp3
+http://live.7887887.xyz/smart.php?id=go_assp3&token=7887887
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-football-my.png",ASTRO FOOTBALL
-##https://smart.946985.filegear-sg.me/smart.php?id=go_assp4
-##https://smart.946985.filegear-sg.me/smart.php?id=Assp4
-https://live.catvod.com/live.php?id=go_assp4
+http://live.7887887.xyz/smart.php?id=go_assp4&token=7887887
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-sports-plus-my.png",ASTRO SPORTS PLUS
-##https://smart.946985.filegear-sg.me/smart.php?id=go_sportsplus
-https://live.catvod.com/live.php?id=go_sportsplus
+http://live.7887887.xyz/smart.php?id=go_sportsplus&token=7887887
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-badminton-my.png",ASTRO BADMINTON
-##https://smart.946985.filegear-sg.me/smart.php?id=go_badminton1
-https://live.catvod.com/live.php?id=go_badminton1
+http://live.7887887.xyz/smart.php?id=go_badminton1&token=7887887
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjSDTJBq/ezgif-77999bebaba10c.png",WWE NETWORK
-##https://smart.946985.filegear-sg.me/smart.php?id=Wwe
-##https://live.catvod.com/live.php?id=Wwe
-https://live.catvod.com/live.php?id=Wwe
+http://live.7887887.xyz/smart.php?id=Wwe&token=7887887
 
 =================================================================================================================================
 
@@ -1011,18 +1006,15 @@ http://hls.168.us.kg/u/78/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nr7R42PB/tvb-hk-entertainment-news.png",TVB ENTERTAINMENT
 ##http://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
-##https://smart.946985.filegear-sg.me/smart.php?id=Tvbentertainment
 http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HnG3k5kY/tvb-classic-my.png",TVB CLASSIC
-##http://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
+http://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
 ##https://smart.946985.filegear-sg.me/smart.php?id=Tvbclassic
-https://live.catvod.com/iptv.php?id=Tvbclassic
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxZrzHxL/tvb-hk-jade.png",TVB JADE HONGKONG
 http://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
 ##https://smart.946985.filegear-sg.me/smart.php?id=Tvbjade
-##https://live.catvod.com/iptv.php?id=Tvbjade
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxZrzHxL/tvb-hk-jade.png",TVB JADE TAIWAN
 ##http://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
@@ -1136,51 +1128,46 @@ http://hls.168.us.kg/u/630/master.m3u8
 http://bxtv.3a.ink/api.php?id=meiya
 ##http://bxtv.3a.ink/mytv/mytvts2.333.php?id=meiya
 ##http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
-##https://live.catvod.com/live.php?id=meiyamovie_twn
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50wMy1WN/ezgif-4735e3cd5608a8.png",LTV ASIA
-##http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
-https://live.catvod.com/iptv.php?id=lhdy01
+https://tv123.vvvv.ee/live.php/?ch=1ce67830111
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jd3BsCn4/ezgif-43b2379c01036f.png",LTV CLASSIC
-##http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
-https://live.catvod.com/iptv.php?id=lhjd01
+http://live.7887887.xyz/smart.php?id=lunghuajingdian_twn&token=7887887
+##https://tv123.vvvv.ee/live.php/?ch=d91e491b112
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBvSCmd9/ezgif-4baf619cfb6d28.png",LTV ANIMATION
-##http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
-https://live.catvod.com/iptv.php?id=lhkt01
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGVrFn8y/ezgif-5eb251647a846b17.png",LTV ANIMATION
+http://tv123.vvvv.ee/live.php/?ch=9168b015113
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5PrL65x/ezgif-468afc6e0a817f.png",LTV IDOL
-##http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8
-https://live.catvod.com/iptv.php?id=lhox01
+http://live.7887887.xyz/smart.php?id=lunghuaidol_twn&token=7887887
+##http://tv123.vvvv.ee/live.php/?ch=8b7a549b114
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzNXJqhb/ezgif-4f24499c7fc706.png",LTV JAPAN KOREA
-##http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
-https://live.catvod.com/iptv.php?id=lhrh01
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFfCQw1V/ezgif-577111a11bd498b7.png",LTV JAPAN KOREA
+http://tv123.vvvv.ee/live.php/?ch=de95ba24115
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5N9XC99r/ezgif-42aafcb5e02f98.png",LTV DRAMA
-##http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
-https://live.catvod.com/iptv.php?id=lhxj01
+http://live.7887887.xyz/smart.php?id=lunghuaxiju_twn&token=7887887
+##http://tv123.vvvv.ee/live.php/?ch=9d485016116
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cpzMwGv/ezgif-496f658d6a8d21.png",LTV MOVIES
-##http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
-https://live.catvod.com/iptv.php?id=lhyp01
+https://tv123.vvvv.ee/live.php/?ch=bf6fce50117
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYmBxJWw/ezgif-7c1c41d1246e2efc.png",VIDEOLAND JAPAN
-https://live.catvod.com/live.php?id=videolandjapan
+http://live.7887887.xyz/smart.php?id=videolandjapan&token=7887887
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYGpZb5G/ezgif-73bb39d3d9d1b922.png",VIDEOLAND MOVIE
-https://live.catvod.com/live.php?id=videolandmovie
+http://live.7887887.xyz/smart.php?id=videolandmovie&token=7887887
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK0qgSwk/ezgif-76d82effcfa2775c.png",VIDEOLAND SPORTS
-https://live.catvod.com/live.php?id=videolandsport
+http://live.7887887.xyz/smart.php?id=videolandsport&token=7887887
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbbJdTcT/ezgif-7cac7ca005932a40.png",VIDEOLAND DRAMA
-https://live.catvod.com/live.php?id=videolandtv
+http://live.7887887.xyz/smart.php?id=videolandtv&token=7887887
 
 =================================================================================================================================
 
@@ -1188,27 +1175,21 @@ https://live.catvod.com/live.php?id=videolandtv
 http://4gtv.aibot408.qzz.io:20013/litv-longturn04/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wxwJhrzN/ezgif-8c4bb8cf3abef1ee.png",BOSI GOLF
-##https://smart.946985.filegear-sg.me/smart.php?id=bosigolf1_twn
 http://4gtv.aibot408.qzz.io:20013/litv-longturn05/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W32FZGfq/ezgif-8397195ad04ccfa1.png",BOSI GOLF 2
-##https://smart.946985.filegear-sg.me/smart.php?id=bosigolf2_twn
 http://4gtv.aibot408.qzz.io:20013/litv-longturn06/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tC11FCDk/ezgif-89ea0975facc171f.png",BOSI SPORT 1
-##https://smart.946985.filegear-sg.me/smart.php?id=bosisport1_twn
 http://4gtv.aibot408.qzz.io:20013/litv-longturn07/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTCJJXY3/ezgif-844501451d7b987f.png",BOSI SPORT 2
-##https://smart.946985.filegear-sg.me/smart.php?id=bosisport2_twn
 http://4gtv.aibot408.qzz.io:20013/litv-longturn08/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yT7zJsp/ezgif-8011a0a93c0fd019.png",BOSI TENNIS
-##https://smart.946985.filegear-sg.me/smart.php?id=bositennis_twn
 http://4gtv.aibot408.qzz.io:20013/litv-longturn09/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HjGTwHkH/ezgif-897dba7ea0abfc0c.png",BOSI UNLIMITED
-##https://smart.946985.filegear-sg.me/smart.php?id=bosiunlimited_twn
 http://4gtv.aibot408.qzz.io:20013/litv-longturn10/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6336wYmP/ezgif-8278716b77cbea40.png",BOSI UNLIMITED 2
@@ -1224,40 +1205,32 @@ http://4gtv.aibot408.qzz.io:20013/4gtv-live120/index.m3u8?proxy=true
 ##http://m-star.direct.quickconnect.to:7531/4gtv-live120/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Z0hB2q/ezgif-84287ddb8ead5208.png",ELTA SPORT 1
-##https://smart.946985.filegear-sg.me/smart.php?id=eltasport_twn
-https://live.catvod.com/live.php?id=eltasport1_twn
+http://live.7887887.xyz/smart.php?id=eltasport_twn&token=7887887
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5RTyt7r/ezgif-8739420ec07149a5.png",ELTA SPORT 2
-##https://smart.946985.filegear-sg.me/smart.php?id=eltasport2_twn
-https://live.catvod.com/live.php?id=eltasport2_twn
+http://live.7887887.xyz/smart.php?id=eltasport2_twn&token=7887887
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZQ99Fxp/ezgif-8f9dbedb092ff151.png",ELTA SPORT 3
-##https://smart.946985.filegear-sg.me/smart.php?id=eltasport3_twn
-https://live.catvod.com/live.php?id=eltasport3_twn
+http://live.7887887.xyz/smart.php?id=eltasport3_twn&token=7887887
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmMf5xML/ezgif-7882cc5ca5c621c9.png",ELTA SPORT 4
-##https://smart.946985.filegear-sg.me/smart.php?id=eltasports4_twn
-https://live.catvod.com/live.php?id=eltasports4_twn
-##https://live.catvod.com/live.php?id=natgeowild_twn
+http://live.7887887.xyz/smart.php?id=eltasports4_twn&token=7887887
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5QgHPR8/phoenix-infonews.png",PHOENIX INFONEWS
 ##https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 ##http://bxtv.3a.ink/api.php?id=fhzw
-##https://live.catvod.com/iptv.php?id=oqp6bt50
 http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMPLXNdT/phoenix-cn.png",PHOENIX CHINESE
 ##https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 ##http://bxtv.3a.ink/api.php?id=fhzx
-##https://live.catvod.com/iptv.php?id=ly4kzfbq
 http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMLcWjH/phoenix-hong-kong-hk.png",PHOENIX HONGKONG
 ##https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 ##http://bxtv.3a.ink/api.php?id=fhhk
-##https://live.catvod.com/iptv.php?id=lxrxnyth
 http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTgGNK3x/xing-kong-china-cn.png",XING KONG
@@ -1371,17 +1344,14 @@ http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/chc-action-cn.png",CHC ACTION MOVIES
 http://69.30.245.50/live/chcdz.m3u8
 ##http://sh.lnott.top:880/dx100.m3u8
-##https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/chc-home-theater-cn.png",CHC HOME THEATER
 http://69.30.245.50/live/chcjt.m3u8
 ##http://sh.lnott.top:880/dx93.m3u8
-##https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%E5%8F%B0
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/chc-fan-movies-cn.png",CHC FAN MOVIES
 http://69.30.245.50/live/chchd.m3u8
 ##http://sh.lnott.top:880/dx101.m3u8
-##https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1%E5%8F%B0
 
 =================================================================================================================================
 
@@ -1394,22 +1364,17 @@ http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-1-cn.png",CCTV 1
 ##http://bxtv.3a.ink/migu.php?id=cctv1
 http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
-##https://iptv.catvod.com/live.php?id=cctv1
 ##http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 ##http://69.30.245.50/live/cctv1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-2-cn.png",CCTV 2
 ##http://bxtv.3a.ink/migu.php?id=cctv2
-##https://iptv.catvod.com/live.php?id=cctv2
-##https://live.catvod.com/live.php?id=cctv2&token=a7c9d5e83a13b28834a49caff008f70f2b8ff7602bb7924ffa282c93ebd9b8fe%3A1765697365%3AMTAzLjE4Ni4xOTMuMTQw
-##https://smart.946985.filegear-sg.me/smart.php?id=cctv2
 ##http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 ##https://tzh911.qzz.io/play-smt.php?id=cctv2
 http://69.30.245.50/live/cctv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-3-cn.png",CCTV 3
 ##http://bxtv.3a.ink/migu.php?id=cctv3
-##https://iptv.catvod.com/live.php?id=cctv3
 http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 ##http://69.30.245.50/live/cctv3.m3u8
 
@@ -1419,7 +1384,6 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 #KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
 https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mediampd/CCTV4.mpd
 ##http://bxtv.3a.ink/migu.php?id=cctv4
-##https://iptv.catvod.com/live.php?id=cctv4
 ##http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 ##http://69.30.245.50/live/cctv4.m3u8
 
@@ -1428,33 +1392,27 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-5-cn.png",CCTV 5
 ##http://bxtv.3a.ink/migu.php?id=cctv5
-##https://iptv.catvod.com/live.php?id=cctv5
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 ##http://69.30.245.50/live/cctv5.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-5-plus-cn.png",CCTV 5+
 ##http://bxtv.3a.ink/migu.php?id=cctv5p
-##https://iptv.catvod.com/live.php?id=cctv5p
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 ##http://69.30.246.194/live/cctv5p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-6-cn.png",CCTV 6
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 ##http://bxtv.3a.ink/migu.php?id=cctv6
-##https://iptv.catvod.com/live.php?id=cctv6
 ##http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
-##https://smart.946985.filegear-sg.me/smart.php?id=cctv6
 http://69.30.245.50/live/cctv6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-7-cn.png",CCTV 7
 ##http://bxtv.3a.ink/migu.php?id=cctv7
-##https://iptv.catvod.com/live.php?id=cctv7
 http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 ##http://69.30.245.50/live/cctv7.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-8-cn.png",CCTV 8
 ##http://bxtv.3a.ink/migu.php?id=cctv8
-##https://iptv.catvod.com/live.php?id=cctv8
 http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 ##http://69.30.245.50/live/cctv8.m3u8
 
@@ -1463,58 +1421,50 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-9-cn.png",CCTV 9
 ##http://bxtv.3a.ink/migu.php?id=cctv9
-##https://iptv.catvod.com/live.php?id=cctv9
 http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 ##http://69.30.245.50/live/cctv9.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-10-cn.png",CCTV 10
 ##http://bxtv.3a.ink/migu.php?id=cctv10
-##https://iptv.catvod.com/live.php?id=cctv10
 http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
 ##http://69.30.245.50/live/cctv10.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-11-cn.png",CCTV 11
 ##http://bxtv.3a.ink/migu.php?id=cctv11
-##https://iptv.catvod.com/live.php?id=cctv11
 http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
 ##http://69.30.246.194/live/cctv11.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-12-cn.png",CCTV 12
 ##http://bxtv.3a.ink/migu.php?id=cctv12
-##https://iptv.catvod.com/live.php?id=cctv12
 http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 ##http://69.30.246.194/live/cctv12.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-13-cn.png",CCTV 13
 ##http://bxtv.3a.ink/migu.php?id=cctv13
-##http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-##https://iptv.catvod.com/live.php?id=cctv13
 ##http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 http://69.30.246.194/live/cctv13.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-14-cn.png",CCTV 14
 ##http://bxtv.3a.ink/migu.php?id=cctv14
-##https://iptv.catvod.com/live.php?id=cctv14
 http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
 ##http://69.30.246.194/live/cctv14.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-15-cn.png",CCTV 15
 ##http://bxtv.3a.ink/migu.php?id=cctv15
-##https://iptv.catvod.com/live.php?id=cctv15
 ##http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
-https://live.catvod.com/live.php?id=cctv15&token=133985ef277021666ca2afa9a9cd68476965482ce53cea17a8670f589a2add70%3A1766183749%3AMTAzLjE4Ni4xOTMuMTQw
-##http://69.30.246.194/live/cctv15.m3u8
+http://69.30.246.194/live/cctv15.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-16-cn.png",CCTV 16
-##https://iptv.catvod.com/live.php?id=cctv16
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 ##http://69.30.246.194/live/cctv16.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-17-cn.png",CCTV 17
 ##http://bxtv.3a.ink/migu.php?id=cctv17
-##https://iptv.catvod.com/live.php?id=cctv17
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 ##http://69.30.246.194/live/cctv17.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-golf-and-tennis-cn.png",CCTV GOLF & TENNIS
+https://tv.2cf.de5.net/tv/3221225884/ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png",CGTN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1674,6 +1624,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTxfK7wv/ezgif-744eb733167ade57.png",TRVL CHANNEL
 http://89.105.221.127/TravelChannel/index.m3u8?token=test
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPSH4VYx/ezgif-6cd32f09eb2a7a4f.png",CNN
+http://89.105.221.127/CNN/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn-j-us-jp.png",CNN J
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2wSHkHK/ezgif-737614d035dfd997.png",HBO
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3284600346800000.mpd
 ##KODIPROP:inputstream=inputstream.adaptive
@@ -1702,13 +1658,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_signature_asia.png",HBO SIGNATURE
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3284600346800000.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png",HBO COMEDY
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png",HBO ZONE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwPftKdP/ezgif-6c93425e752e3e81.png",HBO ZONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
@@ -1722,36 +1672,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-32846
 #KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
 https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_EAST_WHITE_1920x1080_f._SL170_FMpng_.png",CINEMAX EAST
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7683HMKD/ezgif-608df4a5d61842ed.png",CINEMAX EAST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/dc690e5ba3fd497e686c4ebdf851b2b02503aca677988571453512d6d1870727._SL170_FMpng_.png",STARMAX EAST
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/903490ef7b5effa45b2fdba457ac3bea95d9fb2fbc1ef8b62fee61317125a270._SL170_FMpng_.png",ACTION MAX EAST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e6fc1034cd2bca0c407eb6f89257ff40fd433dadd62393cda9a5f3b597d3fa90._SL170_FMpng_.png",MORE MAX EAST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/185d71f2eac4aeacfb475655ef9625e382b26245d8e65ef994bc0efc520b8565._SL170_FMpng_.png",5STAR MAX EAST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner-tv-us.png",WARNER TV
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/warner-avc1_2500000=6-3278334240000000.mpd
@@ -1857,6 +1783,9 @@ https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://nettvpro.xyz/uploads/allimg/22/1-2201022310090-L.jpg",BBC NEWS JAPAN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rock-entertainment-sg.png",ROCK ENTERTAINMENT
@@ -1902,7 +1831,6 @@ http://gohyperspeed.com/live/1011688362/o5EvnnitOb/400125097.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/world_fishing_network.png",WORLD FISHING NETWORK
 ##https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
-##https://live.catvod.com/beesports.php?id=World-Fishing-Network&token=555296d9417f28f3e51ace02382b82514b5db17c9673802524b67e2387fddc33%3A1764203533%3AMTAzLjE4Ni4xOTMuMTQw
 http://gohyperspeed.com/live/1011688362/o5EvnnitOb/500147660.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/altitude-sports-us.png",ALTITUDE SPORTS
@@ -2335,29 +2263,24 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 ===========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZgCDCfn/ezgif-2da5a2febdc3d686.png",SKY NEWS
-https://live.catvod.com/live.php?id=skynews_twn
+http://live.7887887.xyz/smart.php?id=skynews_twn&token=7887887
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxPq8fXD/ezgif-75fc2b185566d76b.png",SKY SPORTS NEWS
-https://live.catvod.com/live.php?id=tiankongnews
+http://live.7887887.xyz/smart.php?id=tiankongnews&token=7887887
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yy96MMz/ezgif-4904abe0f7597782.png",SKY SPORTS MAIN EVENT
-https://live.catvod.com/live.php?id=tiankongmain
+http://live.7887887.xyz/smart.php?id=tiankongmain&token=7887887
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52YkkbDg/ezgif-4ed6452fcb78d420.png",SKY SPORTS MIX
-https://live.catvod.com/live.php?id=tiankongmix
+http://live.7887887.xyz/smart.php?id=tiankongmix&token=7887887
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRxgLhWT/ezgif-421d49f0a70b777e.png",SKY SPORTS PREMIER LEAGUE
 ##http://amazing-prada.xyz:8080/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/53986.ts
-https://live.catvod.com/live.php?id=tiankongepl
+http://live.7887887.xyz/smart.php?id=tiankongepl&token=7887887
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq8Sk5dt/ezgif-220cd37ec7619cae.png",SKY SPORTS FOOTBALL
 http://178.33.239.54:8080/500/index.m3u8
 ##http://gohyperspeed.com/live/1011688362/o5EvnnitOb/400117926.ts
-
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/T1cX1fT0/ezgif-48a9b10ad76bccfa.png",SKY SPORTS F1
-##EXTVLCOPT:http-referrer=https://github.com/
-##https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysportsf1.m3u8
-##https://live.catvod.com/live.php?id=tiankongf1
 
 ===========================================================================================================================
 
@@ -2606,5 +2529,4 @@ https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/
 https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-Music/playlist.m3u8
 
 =================================================================================================================================
-
 
