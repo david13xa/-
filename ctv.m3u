@@ -1,0 +1,260 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjys36Lh/ezgif-7ae685bdab8a1811.png",TV ONE
+https://tv.casindo.org/hls/46/46.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44twY7gq/ezgif-6a5fadaf3ade2391.png",ANTV
+https://tv.casindo.org/hls/45/45.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x817QQLf/ezgif-5c30f09779dd46ec.png",VTV
+https://tv.casindo.org/hls/47/47.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtHdpBFF/ezgif-728d64a21c1dd42b.png",SCTV
+https://tv.casindo.org/hls/55/55.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR
+https://tv.casindo.org/hls/56/56.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr5QpD3T/ezgif-1-5b5ec93378.png",MOJI
+https://tv.casindo.org/hls/50/50.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvH2YWxq/ezgif-648bdcd09d3daf.png",SIN PO TV
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/voli-tv-id.png",VOLI TV
+https://tv.casindo.org/hls/2/2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMGv5BCF/trans-tv-id.png",TRANS TV
+https://tv.casindo.org/hls/43/43.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRQ11Pv/trans-7-id.png",TRANS 7
+https://tv.casindo.org/hls/42/42.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmtPmfKR/ezgif-7a3f05b6eddb8b9c.png",CNN INDONESIA
+https://tv.casindo.org/hls/59/59.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvrmTTf1/ezgif-21b6353df091e313.png",CNBC INDONESIA
+https://tv.casindo.org/hls/58/58.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKdJcr01/rajawali-tv-id.png",RTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI
+https://tv.casindo.org/hls/51/51.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH27kRmG/ezgif-623db7dff0860531.png",GTV
+https://tv.casindo.org/hls/57/57.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FXvjY3M/mnc-id-tv.png",MNCTV
+https://tv.casindo.org/hls/54/54.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/630YHFpy/inews-id.png",INEWS
+https://tv.casindo.org/hls/52/52.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sindonews-tv-id.png",SINDONEWS TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NHpbxjF/soccer-channel-id.png",SOCCER CHANNEL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrHZgsfm/sportstars-id.png",SPORTSTARS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SqYsRMX/sportstars-2-id.png",SPORTSTARS 2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjnqQJjy/sportstars-3-id.png",SPORTSTARS 3
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yNkwrpp/sportstars-4-id.png",SPORTSTARS 4
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NjfvngV/ezgif-389467c34311aaa0.png",KOMPAS TV
+https://tv.casindo.org/hls/53/53.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzxTt5C9/ezgif-7-56f3bf48d5.png",MDTV
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbQ67s7p/metro-tv-id.png",METRO TV
+https://tv.casindo.org/hls/19/19.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/magna-channel-id.png",MAGNA CHANNEL
+https://edge.medcom.id/live-edge/smil:magna.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bn-channel-id.png",BN MDTV
+https://tv.casindo.org/hls/44/44.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPcVGgMk/jtv-id.png",JTV SURABAYA
+https://tv.casindo.org/hls/36/36.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRH8VGCJ/tvri-id.png",TVRI NASIONAL
+https://tv.casindo.org/hls/63/63.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76YFwv7d/ezgif-313191e0953ad4b2.png",TVRI WORLD
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XmPWnXm/ezgif-473fe9d06ac562ff.png",TVRI SPORT
+https://tv.casindo.org/hls/49/49.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-jawa-barat-id.png",TVRI JAWA BARAT
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-jawa-tengah-id.png",TVRI JAWA TENGAH
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-jawa-timur-id.png",TVRI JAWA TIMUR
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-yogyakarta-id.png",TVRI YOGYAKARTA
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-bali-id.png",TVRI BALI
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFswJm0R/bali-tv-id.png",BALI TV
+https://tv.casindo.org/hls/74/74.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nusantara_tv_id.png",NUSANTARA TV
+https://tv.casindo.org/hls/93/93.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj8c7vLF/ezgif-1-f1d1ea0be2.png",GARUDA TV
+https://tv.casindo.org/hls/11/11.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs1ScsDZ/ezgif-1-78f6f17e1e.png",BTV
+https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBPBCq77/ezgif-78f9e0bdb36fe3.png",BERITA SATU
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png",JAKTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/idx-channel-id.png",IDX CHANNEL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVS6gdVm/ezgif-56b13550c7710694.png",JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85kC3FLq/ezgif-3-2b1ff1a288.png",TATV
+https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjbw7kYt/ezgif-5-76c8e61a1f.png",SURABAYA TV
+https://e.siar.us/live/surabayatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQSC6N8Y/ezgif-50fcb716f1114065.png",INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/elshinta-tv-id.png",ELSHINTA TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jogja-istimewa-tv-id.png",JITV
+http://103.255.15.222:1935/tv/jitv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsnYWy5Y/ezgif-2-fedfede056.png",SEMARANG TV
+http://116.254.112.74/hls/cakralive.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-jowo-id.png",JOWO
+https://tv.casindo.org/hls/3/3.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bioskop_id.png",BIOSKOP INDONESIA
+https://tv.casindo.org/hls/31/31.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dunia_lain_id.png",DUNIA LAIN
+https://tv.casindo.org/hls/81/81.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/155kDGnN/ezgif-56afa06eb55452f8.png",FLIK
+https://tv.casindo.org/hls/33/33.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/imc-id.png",IMC
+https://tv.casindo.org/hls/34/34.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/musik-indonesia-id.png",MUSIK INDONESIA
+https://tv.casindo.org/hls/87/87.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/allplay-ent-id.png",ALLPLAY ENT.
+https://tv.casindo.org/hls/23/23.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02D8Hd5f/ezgif-5a7dad452b4758f0.png",MAXSTREAM
+https://tv.casindo.org/hls/76/76.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTfbRf4t/ezgif-54093374a6b618ab.png",LIVE_ID
+https://tv.casindo.org/hls/13/13.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2fcDrt7/ezgif-571b1ea291bad30a.png",YUDI'S VISION 1
+https://tv.casindo.org/hls/17/17.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2fcDrt7/ezgif-571b1ea291bad30a.png",YUDI'S VISION 2
+https://tv.casindo.org/hls/18/18.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7689XkKB/ezgif-5a8e2e83942c229c.png",WOKO CHANNEL
+https://tv.casindo.org/hls/71/71.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDW8tjCr/k-plus-kr.png",K+
+https://tv.casindo.org/hls/83/83.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV5Y349G/ezgif-2cf4aa559688f23e.png",CINEMAWORLD
+https://tv.casindo.org/hls/67/67.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4Ng1CfDn/ezgif-6e2eee0f6f5939.png",TVN
+https://tv.casindo.org/hls/72/72.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtS2jh0j/tvnmovies.png",TVN MOVIES
+https://tv.casindo.org/hls/73/73.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNWrDJ9q/axn-east-asia.png",AXN
+https://tv.casindo.org/hls/64/64.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2c3cD7W/animax-jp.png",ANIMAX
+https://tv.casindo.org/hls/8/8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjDq1kBW/one-in.png",ONE
+https://tv.casindo.org/hls/37/37.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvXGxcZ3/celestial-movies-hk.png",CELESTIAL MOVIES
+https://tv.casindo.org/hls/68/68.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5MKKctq/celestial-classic-movies-hk.png",CELESTIAL CLASSIC MOVIES
+https://tv.casindo.org/hls/35/35.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK4tfhY7/kix-hk.png",KIX
+https://tv.casindo.org/hls/38/38.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q7D7Wz3/thrill-hk.png",THRILL
+https://tv.casindo.org/hls/90/90.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/galaxy_tv_id.png",GALAXY
+https://tv.casindo.org/hls/39/39.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/galaxy-premium-id.png",GALAXY PREMIUM
+https://tv.casindo.org/hls/40/40.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTS0VYG9/ezgif-5aa95842554acbfd.png",CHINESE DRAMA
+https://tv.casindo.org/hls/92/92.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJyDqVrP/ezgif-52bfa81965141550.png",Z BIOSKOP
+https://tv.casindo.org/hls/32/32.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d08FLVhL/ezgif-70f6541767638f44.png",MTV
+http://89.105.221.127/MTV/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50LYwg8D/ezgif-794f04fb0656ef5a.png",MTV 2
+http://84.17.40.25/MTV_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4xxqKqM/ezgif-27252e09c3cf9ab0.png",MTV LIVE
+https://tv.casindo.org/hls/20/20.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dw13nxbf/ezgif-116532a95cd5d013.png",MTV JAPAN
+https://nl.utako.moe/mtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tfRcK2T/ezgif-7bfa14d5ec7a044d.png",NICKELODEON
+https://tv.casindo.org/hls/9/9.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vh1-us.png",VH1
+http://84.17.40.25/VH1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",DISCOVERY CHANNEL
+http://89.105.221.127/Discovery/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xT6V9vtb/ezgif-706988093be5b6c2.png",DISCOVERY HD
+http://gohyperspeed.com/live/1011688362/o5EvnnitOb/500295292.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_asia_us.png",DISCOVERY ASIA
+https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cH5ypX1b/ezgif-2e9b0637aa41c15f.png",DISCOVERY SCIENCE
+http://amazing-prada.xyz:8080/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/53326.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png",DISCOVERY TURBO
+http://gohyperspeed.com/live/1011688362/o5EvnnitOb/400117509.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTCbw5Pm/ezgif-1-7ab72d15fa.png",DMAX
+http://gohyperspeed.com/live/1011688362/o5EvnnitOb/500001604.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4Y17Nfh/ezgif-2-1b576c2a7f.png",ANIMAL PLANET
+https://tv.casindo.org/hls/12/12.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xCbwjSJ/ezgif-2-67ea0b71d7.png",HGTV
+http://fl41.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb4YJf6z/ezgif-7704d84918272d5c.png",FOOD NETWORK
+http://89.105.221.127/foodnetwork/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/asian-food-network-sg.png",ASIAN FOOD NETWORK
+http://gohyperspeed.com/live/1011688362/o5EvnnitOb/500298503.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0ft8QZm/ezgif-7fcea27e75a5aab2.png",CARTOON NETWORK
+https://tv.casindo.org/hls/5/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0DT2rNK/ezgif-71b126d1cc557017.png",TLC
+http://89.105.221.127/tlc/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTxfK7wv/ezgif-744eb733167ade57.png",TRVL CHANNEL
+http://89.105.221.127/TravelChannel/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPSH4VYx/ezgif-6cd32f09eb2a7a4f.png",CNN
+https://tv.casindo.org/hls/60/60.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2wSHkHK/ezgif-737614d035dfd997.png",HBO
+https://tv.casindo.org/hls/27/27.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png",HBO HITS
+https://tv.casindo.org/hls/28/28.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_signature_asia.png",HBO SIGNATURE
+https://tv.casindo.org/hls/29/29.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PfMF5vhb/ezgif-767c5df2b247daf5.png",HBO FAMILY
+https://tv.casindo.org/hls/30/30.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax-asia-us.png",CINEMAX
+https://tv.casindo.org/hls/26/26.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner-tv-us.png",WARNER TV
+https://tv.casindo.org/hls/41/41.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxTctdKY/ezgif-5708071ce7beb9e8.png",BOOMERANG
+http://cord-cutter.net:8080/30550113/30550113/14741
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/love-nature-ca.png",LOVE NATURE
+https://tv.casindo.org/hls/75/75.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/smithsonian-channel-us.png",SMITHSONIAN CHANNEL
+http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYRqzGCx/ezgif-78bb10bca9ae95.png",GLOBAL TREKKER
+http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1163787.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/outdoor-channel-us.png",OUTDOOR CHANNEL
+http://89.105.221.127/OutdoorChannel/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sportsman-channel-us.png",SPORTSMAN CHANNEL
+http://gohyperspeed.com/live/1011688362/o5EvnnitOb/400125097.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/world_fishing_network.png",WORLD FISHING NETWORK
+https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/altitude-sports-us.png",ALTITUDE SPORTS
+http://cord-cutter.net:8080/30550113/30550113/79545
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png",AMC
+http://89.105.221.127/AMC/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/curiosity-channel-us.png",CURIOUSITY CHANNEL
+https://tv.casindo.org/hls/69/69.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ae_us.png",A&E
+http://fl1.moveonjoy.com/ANE/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fyi_us.png",FYI,
+http://amazing-prada.xyz:8080/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/118541.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1N605xJ/ezgif-8555b7b37bf77e14.png",HISTORY
+https://tv.casindo.org/hls/14/14.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jM2HCRV/ezgif-3d17fcb41e613b01.png",H2
+http://gohyperspeed.com/live/1011688362/o5EvnnitOb/500010697.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lifetime-us.png",LIFETIME
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvGZSh7s/ezgif-2dcbfe21e36f2e9c.png",NATIONAL GEOGRAPHIC
+http://89.105.221.127/NationalGeographic/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLbXBmwb/ezgif-227e6edc55f8dc15.png",NAT GEO WILD
+http://89.105.221.127/NatGeoWild/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spotv-kr.png",SPOTV
+https://tv.casindo.org/hls/15/15.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spotv-2-kr.png",SPOTV2
+https://tv.casindo.org/hls/86/86.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fight_sports_us.png",FIGHT SPORTS
+https://tv.casindo.org/hls/16/16.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk1Lpvv0/ezgif-5e61e3755765d467.png",HORIZON SPORTS
+https://tv.casindo.org/hls/24/24.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nba_tv_us.png",NBATV PEACOOK
+https://tv.casindo.org/hls/25/25.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zX8J6HLB/ezgif-54edd0cbbd3028e9.png",W-SPORT
+https://tv.casindo.org/hls/62/62.m3u8
+
+
+
+
+
