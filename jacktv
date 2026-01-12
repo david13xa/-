@@ -1,0 +1,96 @@
+#EXTM3U
+#EXTINF:-1,TVB JADE
+http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
+#EXTINF:-1,TVB JADE 4K
+http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
+#EXTINF:-1,TVB WIRELESS NEWS
+http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+#EXTINF:-1,TVB PEARL
+http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
+http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
+#EXTINF:-1,TVB PLUS
+http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
+#EXTINF:-1,HOY 76
+https://tvbjack.946985.filegear-sg.me/ch76/jcakch76.m3u8
+#EXTINF:-1,HOY 77
+http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+#EXTINF:-1,HOY 78
+https://tvbjack.946985.filegear-sg.me/ch78/jcakch78.m3u8
+#EXTINF:-1,VIUTV
+http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
+#EXTINF:-1,VIUTV6
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+#EXTINF:-1,NOW NEWS
+http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+#EXTINF:-1,RTHK 31
+http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
+#EXTINF:-1,RTHK 32
+http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
+#EXTINF:-1,MACAU TV AOSHI AOMEN
+http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
+#EXTINF:-1,MACAU TV SATELLITE
+http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
+#EXTINF:-1,MACAU TV SPORTS
+http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
+#EXTINF:-1,PHOENIX TV CHINESE
+http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+#EXTINF:-1,PHOENIX TV INFONEWS IFENG
+http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+#EXTINF:-1,PHOENIX TV HONGKONG
+http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
+#EXTINF:-1,CCTV 1 GENERAL TV
+http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
+#EXTINF:-1,CCTV 13 NEWS
+http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
+#EXTINF:-1,GUANGDONG TV PEARL RIVER
+http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
+#EXTINF:-1,GUANGDONG TV SPORTS
+http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
+#EXTINF:-1,FIVESTAR SPORTS
+http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
+#EXTINF:-1,SHENZHEN TV 4K
+http://cdn3.veryfast.filegear-sg.me/live/szws4k/stream.m3u8
+#EXTINF:-1,SHENZHEN FINANCE & LIFE
+http://cdn3.veryfast.filegear-sg.me/live/szcjsh/stream.m3u8
+#EXTINF:-1,FIRST DIYI CAIJING
+http://cdn3.veryfast.filegear-sg.me/live/dycj/stream.m3u8
+#EXTINF:-1,CHONGWEN CLASSIC
+http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
+#EXTINF:-1,LONGHUA TV DIANYING
+http://cdn8.veryfast.filegear-sg.me/163189/lhdy
+#EXTINF:-1,LONGHUA TV JINGDIAN
+http://cdn8.veryfast.filegear-sg.me/163189/lhjd
+#EXTINF:-1,LONGHUA TV CARTOON
+http://cdn8.veryfast.filegear-sg.me/163189/lhkt
+#EXTINF:-1,LONGHUA TV IDOL
+http://cdn8.veryfast.filegear-sg.me/163189/lhox
+#EXTINF:-1,LONGHUA TV JAPAN KOREA
+http://cdn8.veryfast.filegear-sg.me/163189/lhrh
+#EXTINF:-1,LONGHUA TV DRAMA
+http://cdn8.veryfast.filegear-sg.me/163189/lhxj
+#EXTINF:-1,LONGHUA TV YANGPIAN
+http://cdn8.veryfast.filegear-sg.me/163189/lhyp
+#EXTINF:-1,TVB 1
+http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
+#EXTINF:-1,TVB J1
+http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
+#EXTINF:-1,TVB ASIAN MARTIAL ARTS
+http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
+#EXTINF:-1,ENTERTAINMENT NEWS CHANNEL
+http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+#EXTINF:-1,TVB GRAND JADE
+http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+#EXTINF:-1,TVB XINGHE
+http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+#EXTINF:-1,TVB JADE DRAMA
+http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
+#EXTINF:-1,8TV
+http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
+#EXTINF:-1,CHANNEL 5
+http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+#EXTINF:-1,CHANNEL 8
+http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
+#EXTINF:-1,CHANNEL U
+http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
