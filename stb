@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1,TV ONE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
+#EXTINF:-1,ANTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+#EXTINF:-1,SCTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000065/1024.m3u8
+#EXTINF:-1,INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1,MOJI
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000165/1024.m3u8
+#EXTINF:-1,TRANS TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
+#EXTINF:-1,TRANS 7
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+#EXTINF:-1,MDTV
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+#EXTINF:-1,RTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
+#EXTINF:-1,RCTI
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
+#EXTINF:-1,MNCTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
+#EXTINF:-1,GTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
+#EXTINF:-1,INEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
+#EXTINF:-1,SINDONEWS TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
+#EXTINF:-1,KOMPAS TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
+#EXTINF:-1,METRO TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
+#EXTINF:-1,JTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
+#EXTINF:-1,BALI TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
+#EXTINF:-1,TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1,TVRI WORLD
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1,TVRI SPORT
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1,TVRI JAWA BARAT
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTINF:-1,TVRI JAWA TENGAH
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTINF:-1,TVRI JAWA TIMUR
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTINF:-1,TVRI YOGYAKARTA
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+#EXTINF:-1,TVRI BALI
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+#EXTINF:-1,BTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
+#EXTINF:-1,JAKTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
+#EXTINF:-1,IDX CHANNEL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
+#EXTINF:-1,CNA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
+#EXTINF:-1,NHK WORLD JAPAN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
+#EXTINF:-1,NHK PREMIUM
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
+#EXTINF:-1,ARIRANG
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
+#EXTINF:-1,CCTV 5
+http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1,CCTV 5+
+http://69.30.246.194/live/cctv5p.m3u8
+#EXTINF:-1,CCTV 9
+http://69.30.245.50/live/cctv9.m3u8
+#EXTINF:-1,CCTV 16
+http://69.30.246.194/live/cctv16.m3u8
+#EXTINF:-1,CGTN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
+#EXTINF:-1,CGTN DOC
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
+#EXTINF:-1,CHC ACTION MOVIES
+http://69.30.245.50/live/chcdz.m3u8
+#EXTINF:-1,CHC HOME THEATER
+http://69.30.245.50/live/chcjt.m3u8
+#EXTINF:-1,CHC MOVIE FANS
+http://69.30.245.50/live/chchd.m3u8
+#EXTINF:-1,BBC EARTH
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
+#EXTINF:-1,HISTORY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
+#EXTINF:-1,LIFETIME
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
+#EXTINF:-1,NICK
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
+#EXTINF:-1,AXN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
+#EXTINF:-1,ONE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
+#EXTINF:-1,KIX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
+#EXTINF:-1,THRILL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+#EXTINF:-1,CELESTIAL MOVIES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+#EXTINF:-1,CCM
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
+#EXTINF:-1,SPOTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+#EXTINF:-1,SPOTV2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+#EXTINF:-1,SOCCER CHANNEL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
+#EXTINF:-1,SPORTSTARS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
+#EXTINF:-1,SPORTSTARS 2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+#EXTINF:-1,SPORTSTARS 3
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
+#EXTINF:-1,SPORTSTARS 4
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+#EXTINF:-1,FIGHT SPORTS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
