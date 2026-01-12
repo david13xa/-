@@ -1,0 +1,357 @@
+#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed",A&E
+http://origin.thetvapp.to/hls/AEEast/index.m3u8
+#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles",ABC (KABC)
+http://origin.thetvapp.to/hls/abc-kabc-los-angeles-ca/index.m3u8
+#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network",ACC Network
+http://origin.thetvapp.to/hls/ACCNetwork/index.m3u8
+#EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver",Altitude Sports
+http://origin.thetvapp.to/hls/altitude-sports-denver/index.m3u8
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed",AMC
+http://origin.thetvapp.to/hls/AMCEast/index.m3u8
+#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel",American Heroes Channel
+http://origin.thetvapp.to/hls/AmericanHeroesChannel/index.m3u8
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East",Animal Planet
+http://origin.thetvapp.to/hls/AnimalPlanetEast/index.m3u8
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East",BBC America
+http://origin.thetvapp.to/hls/BBCAmericaEast/index.m3u8
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD",BBC News
+http://origin.thetvapp.to/hls/BBCWorldNewsNorthAmerica/index.m3u8
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed",BET
+http://origin.thetvapp.to/hls/BETEast/index.m3u8
+#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her",BET Her
+http://origin.thetvapp.to/hls/BETHerEast/index.m3u8
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network",Big Ten Network
+http://origin.thetvapp.to/hls/BTN/index.m3u8
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA",Bloomberg TV
+http://origin.thetvapp.to/hls/BloombergTV/index.m3u8
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang",Boomerang
+http://origin.thetvapp.to/hls/Boomerang/index.m3u8
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed",Bravo
+http://origin.thetvapp.to/hls/BravoEast/index.m3u8
+#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN",C-SPAN
+http://origin.thetvapp.to/hls/CSPAN/index.m3u8
+#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2",C-SPAN 2
+http://origin.thetvapp.to/hls/CSPAN2/index.m3u8
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed",CN
+http://origin.thetvapp.to/hls/CartoonNetworkEast/index.m3u8
+#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles",CBS (KCBS)
+http://origin.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/index.m3u8
+#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA",CBS Sports Network
+http://origin.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8
+#EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network",Chicago Sports Network
+http://origin.thetvapp.to/hls/chicago-sports-network/index.m3u8
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed",Cinemax
+http://origin.thetvapp.to/hls/CinemaxEast/index.m3u8
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed",CMT
+http://origin.thetvapp.to/hls/CMTEast/index.m3u8
+#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA",CNBC
+http://origin.thetvapp.to/hls/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US",CNN
+http://origin.thetvapp.to/hls/CNN/index.m3u8
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed",Comedy Central
+http://origin.thetvapp.to/hls/ComedyCentralEast/index.m3u8
+#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD",Crime+Investigation
+http://origin.thetvapp.to/hls/CrimePlusInvestigation/index.m3u8
+#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego",CW (KFMB-TV2)
+http://origin.thetvapp.to/hls/cw-kfmbtv2-san-diego-ca/index.m3u8
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia",CW (WDCW)
+http://origin.thetvapp.to/hls/cw-wdcw-district-of-columbia/index.m3u8
+#EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America",Destination America
+http://origin.thetvapp.to/hls/DestinationAmerica/index.m3u8
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed",Discovery
+http://origin.thetvapp.to/hls/DiscoveryChannelEast/index.m3u8
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel",Discovery Family
+http://origin.thetvapp.to/hls/DiscoveryFamily/index.m3u8
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel",Discovery Life
+http://origin.thetvapp.to/hls/DiscoveryLife/index.m3u8
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed",Disney
+http://origin.thetvapp.to/hls/DisneyChannelEast/index.m3u8
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East",Disney Jr.
+http://origin.thetvapp.to/hls/DisneyJuniorEast/index.m3u8
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed",Disney XD
+http://origin.thetvapp.to/hls/DisneyXDEast/index.m3u8
+#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed",E!
+http://origin.thetvapp.to/hls/EEast/index.m3u8
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN",ESPN
+http://origin.thetvapp.to/hls/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes",ESPN Deportes
+http://origin.thetvapp.to/hls/espn-deportes/index.m3u8
+#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News",ESPNews
+http://origin.thetvapp.to/hls/ESPNews/index.m3u8
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U",ESPNU
+http://origin.thetvapp.to/hls/ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2",ESPN2
+http://origin.thetvapp.to/hls/ESPN2/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana",Fanduel Sports Network Indiana
+http://origin.thetvapp.to/hls/fanduel-sports-indiana/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit",Fanduel Sports Network Detroit
+http://origin.thetvapp.to/hls/fanduel-sports-network-detroit-hd/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida",Fanduel Sports Network Florida
+http://origin.thetvapp.to/hls/fanduel-sports-network-florida/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes",Fanduel Sports Network Great Lakes
+http://origin.thetvapp.to/hls/fanduel-sports-network-great-lakes/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North",Fanduel Sports Network North
+http://origin.thetvapp.to/hls/fanduel-sports-network-north/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland",Fanduel Sports Network Ohio Cleveland
+http://origin.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma",Fanduel Sports Network Oklahoma
+http://origin.thetvapp.to/hls/fanduel-sports-network-oklahoma/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego",Fanduel Sports Network San Diego
+http://origin.thetvapp.to/hls/fanduel-sports-network-san-diego/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal",Fanduel Sports Network Socal
+http://origin.thetvapp.to/hls/fanduel-sports-network-socal/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas",Fanduel Sports Network South Carolinas
+http://origin.thetvapp.to/hls/fanduel-sports-network-south-carolinas/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee",Fanduel Sports Network South Tennessee
+http://origin.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West",Fanduel Sports Network West
+http://origin.thetvapp.to/hls/fanduel-sports-network-west/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin",Fanduel Sports Network Wisconsin
+http://origin.thetvapp.to/hls/fanduel-sports-network-wisconsin/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia",Fanduel Sports Southeast Georgia
+http://origin.thetvapp.to/hls/fanduel-sports-southeast-georgia/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina",Fanduel Sports Network Southeast North Carolina
+http://origin.thetvapp.to/hls/fanduel-sports-southeast-north-carolina/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina",Fanduel Sports Network Southeast South Carolina
+http://origin.thetvapp.to/hls/fanduel-sports-southeast-south-carolina/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville",Fanduel Sports Network Southeast Tennessee Nashville
+http://origin.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/index.m3u8
+#EXTINF:-1 tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun",Fanduel Sports Network Sun
+http://origin.thetvapp.to/hls/fanduel-sports-sun/index.m3u8
+#EXTINF:-1 tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East",Fanduel Sports Network Tennessee East
+http://origin.thetvapp.to/hls/fanduel-sports-tennessee-east/index.m3u8
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed",Food Network
+http://origin.thetvapp.to/hls/FoodNetworkEast/index.m3u8
+#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles",FOX (KTTV)
+http://origin.thetvapp.to/hls/fox-kttv-los-angeles-ca/index.m3u8
+#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business",FOX Business
+http://origin.thetvapp.to/hls/FoxBusiness/index.m3u8
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News",FOX News
+http://origin.thetvapp.to/hls/FoxNewsChannel/index.m3u8
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1",FS1
+http://origin.thetvapp.to/hls/FoxSports1/index.m3u8
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2",FS2
+http://origin.thetvapp.to/hls/FoxSports2/index.m3u8
+#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed",Freeform
+http://origin.thetvapp.to/hls/FreeformEast/index.m3u8
+#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed",FUSE TV
+http://origin.thetvapp.to/hls/FuseEast/index.m3u8
+#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel",FXM
+http://origin.thetvapp.to/hls/FXMovieChannel/index.m3u8
+#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast",FX
+http://origin.thetvapp.to/hls/FXEast/index.m3u8
+#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern",FXX
+http://origin.thetvapp.to/hls/FXXEast/index.m3u8
+#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern",fyi,
+http://origin.thetvapp.to/hls/FYIEast/index.m3u8
+#EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East",Game Show Network
+http://origin.thetvapp.to/hls/game-show-network-east/index.m3u8
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA",Golf Channel
+http://origin.thetvapp.to/hls/GolfChannel/index.m3u8
+#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed",Hallmark
+http://origin.thetvapp.to/hls/HallmarkChannelEast/index.m3u8
+#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD",Hallmark Family
+http://origin.thetvapp.to/hls/HallmarkDrama/index.m3u8
+#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD",Hallmark Mystery
+http://origin.thetvapp.to/hls/HallmarkMoviesMysteriesEast/index.m3u8
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed",HBO 2
+http://origin.thetvapp.to/hls/HBO2East/index.m3u8
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East",HBO Comedy
+http://origin.thetvapp.to/hls/HBOComedyEast/index.m3u8
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed",HBO
+http://origin.thetvapp.to/hls/HBOEast/index.m3u8
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed",HBO Family
+http://origin.thetvapp.to/hls/HBOFamilyEast/index.m3u8
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern",HBO Signature (HBO 3)
+http://origin.thetvapp.to/hls/HBOSignatureEast/index.m3u8
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East",HBO Zone
+http://origin.thetvapp.to/hls/HBOZoneEast/index.m3u8
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed",HGTV
+http://origin.thetvapp.to/hls/HGTVEast/index.m3u8
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed",History
+http://origin.thetvapp.to/hls/HistoryEast/index.m3u8
+#EXTINF:-1 tvg-id="hln" tvg-name="HLN",HLN
+http://origin.thetvapp.to/hls/HLN/index.m3u8
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US",IFC
+http://origin.thetvapp.to/hls/IFCEast/index.m3u8
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern",ID
+http://origin.thetvapp.to/hls/InvestigationDiscoveryEast/index.m3u8
+#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed",ION
+http://origin.thetvapp.to/hls/IONTVEast/index.m3u8
+#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East",Lifetime Movies
+http://origin.thetvapp.to/hls/LifetimeMoviesEast/index.m3u8
+#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed",Lifetime
+http://origin.thetvapp.to/hls/LifetimeEast/index.m3u8
+#EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East",LOGO
+http://origin.thetvapp.to/hls/LogoEast/index.m3u8
+#EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network",Marquee Sports Network
+http://origin.thetvapp.to/hls/marquee-sports-network/index.m3u8
+#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey",MeTV TOONS (WJLP2)
+http://origin.thetvapp.to/hls/metv-toons/index.m3u8
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York",MeTV WJLP
+http://origin.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/index.m3u8
+#EXTINF:-1 tvg-id="midatlantic-sports-network" tvg-name="Midatlantic Sports Network",Midatlantic Sports Network
+http://origin.thetvapp.to/hls/midatlantic-sports-network/index.m3u8
+#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network",MLB Network
+http://origin.thetvapp.to/hls/MLBNetwork/index.m3u8
+#EXTINF:-1 tvg-id="monumental-sports-network" tvg-name="Monumental Sports Network",Monumental Sports Network
+http://origin.thetvapp.to/hls/monumental-sports-network/index.m3u8
+#EXTINF:-1 tvg-id="moremax-eastern" tvg-name="MoreMax Eastern",MoreMax
+http://origin.thetvapp.to/hls/MoreMaxEast/index.m3u8
+#EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD",Motor Trend
+http://origin.thetvapp.to/hls/Motortrend/index.m3u8
+#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East",MovieMax (Max 6)
+http://origin.thetvapp.to/hls/MovieMaxEast/index.m3u8
+#EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens",MSG Madison Square Gardens
+http://origin.thetvapp.to/hls/msg-madison-square-gardens/index.m3u8
+#EXTINF:-1 tvg-id="msg-plus" tvg-name="MSG Plus",MSG Plus
+http://origin.thetvapp.to/hls/msg-plus/index.m3u8
+#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC USA",MSNBC
+http://origin.thetvapp.to/hls/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East",MTV 2
+http://origin.thetvapp.to/hls/mtv-2-east/index.m3u8
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed",MTV
+http://origin.thetvapp.to/hls/MTVEast/index.m3u8
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern",National Geographic
+http://origin.thetvapp.to/hls/NationalGeographicEast/index.m3u8
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild",Nat Geo Wild
+http://origin.thetvapp.to/hls/NationalGeographicWildEast/index.m3u8
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA",NBA TV
+http://origin.thetvapp.to/hls/NBATV/index.m3u8
+#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles",NBC (KNBC)
+http://origin.thetvapp.to/hls/nbc-knbc-los-angeles-ca/index.m3u8
+#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area",NBC Sports Bay Area
+http://origin.thetvapp.to/hls/nbc-sports-bay-area/index.m3u8
+#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston",NBC Sports Boston
+http://origin.thetvapp.to/hls/nbc-sports-boston/index.m3u8
+#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California",NBC Sports California
+http://origin.thetvapp.to/hls/nbc-sports-california/index.m3u8
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia",NBC Sports Philadelphia
+http://origin.thetvapp.to/hls/nbc-sports-philadelphia/index.m3u8
+#EXTINF:-1 tvg-id="new-england-sports-network" tvg-name="New England Sports Network",New England Sports Network
+http://origin.thetvapp.to/hls/new-england-sports-network/index.m3u8
+#EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsMax TV",NewsMax TV
+http://origin.thetvapp.to/hls/NewsmaxTV/index.m3u8
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network",NFL Network
+http://origin.thetvapp.to/hls/NFLNetwork/index.m3u8
+#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone",NFL RedZone
+http://origin.thetvapp.to/hls/NFLRedZone/index.m3u8
+#EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA",NHL Network
+http://origin.thetvapp.to/hls/NHLNetwork/index.m3u8
+#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East",Nick Jr.
+http://origin.thetvapp.to/hls/NickJrEast/index.m3u8
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed",Nickelodeon
+http://origin.thetvapp.to/hls/NickelodeonEast/index.m3u8
+#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East",Nicktoons
+http://origin.thetvapp.to/hls/NicktoonsEast/index.m3u8
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC)",ABC (WABC)
+http://origin.thetvapp.to/hls/WABCDT1/index.m3u8
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS)",CBS (WCBS)
+http://origin.thetvapp.to/hls/WCBSDT1/index.m3u8
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW)",FOX (WNYW)
+http://origin.thetvapp.to/hls/WNYWDT1/index.m3u8
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC)",NBC (WNBC)
+http://origin.thetvapp.to/hls/WNBCDT1/index.m3u8
+#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET)",PBS (WNET)
+http://origin.thetvapp.to/hls/WNET/index.m3u8
+#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern",Oprah Winfrey Network
+http://origin.thetvapp.to/hls/OWNEast/index.m3u8
+#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US",Outdoor Channel
+http://origin.thetvapp.to/hls/OutdoorChannel/index.m3u8
+#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed",Oxygen
+http://origin.thetvapp.to/hls/OxygenEast/index.m3u8
+#EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel",ReelzChannel
+http://origin.thetvapp.to/hls/Reelz/index.m3u8
+#EXTINF:-1 tvg-id="science" tvg-name="Science",Science
+http://origin.thetvapp.to/hls/Science/index.m3u8
+#EXTINF:-1 tvg-id="sec-network" tvg-name="SEC Network",SEC Network
+http://origin.thetvapp.to/hls/SECN/index.m3u8
+#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern",Showtime 2
+http://origin.thetvapp.to/hls/Showtime2East/index.m3u8
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed",Showtime
+http://origin.thetvapp.to/hls/ShowtimeEast/index.m3u8
+#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast" tvg-name="SNY Sportsnet New York Comcast",SNY Comcast
+http://origin.thetvapp.to/hls/sny-sportsnet-new-york-comcast/index.m3u8
+#EXTINF:-1 tvg-id="space-city-home-network" tvg-name="Space City Home Network",Space City Home Network
+http://origin.thetvapp.to/hls/space-city-home-network/index.m3u8
+#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA",Spectrum SportsNet LA
+http://origin.thetvapp.to/hls/spectrum-sportsnet-la/index.m3u8
+#EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers",Spectrum Sportsnet Lakers
+http://origin.thetvapp.to/hls/spectrum-sportsnet/index.m3u8
+#EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet (East)",Sportsnet East
+http://origin.thetvapp.to/hls/sportsnet-east/index.m3u8
+#EXTINF:-1 tvg-id="sportsnet-360" tvg-name="Sportsnet 360",Sportsnet 360
+http://origin.thetvapp.to/hls/sportsnet-360/index.m3u8
+#EXTINF:-1 tvg-id="sportsnet-one" tvg-name="Sportsnet One",Sportsnet One
+http://origin.thetvapp.to/hls/sportsnet-one/index.m3u8
+#EXTINF:-1 tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario",Sportsnet Ontario
+http://origin.thetvapp.to/hls/sportsnet-ontario/index.m3u8
+#EXTINF:-1 tvg-id="sportsnet-pacific" tvg-name="Sportsnet Pacific",Sportsnet Pacific
+http://origin.thetvapp.to/hls/sportsnet-pacific/index.m3u8
+#EXTINF:-1 tvg-id="sportsnet-pittsburgh" tvg-name="Sportsnet Pittsburgh",Sportsnet Pittsburgh
+http://origin.thetvapp.to/hls/sportsnet-pittsburgh/index.m3u8
+#EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West",Sportsnet West
+http://origin.thetvapp.to/hls/sportsnet-west/index.m3u8
+#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern",Starz
+http://origin.thetvapp.to/hls/StarzEast/index.m3u8
+#EXTINF:-1 tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East",SundanceTV
+http://origin.thetvapp.to/hls/SundanceTVEast/index.m3u8
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed",Syfy
+http://origin.thetvapp.to/hls/SyfyEast/index.m3u8
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East",TBS
+http://origin.thetvapp.to/hls/TBSEast/index.m3u8
+#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern",TeenNick
+http://origin.thetvapp.to/hls/TeenNickEast/index.m3u8
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed",Telemundo
+http://origin.thetvapp.to/hls/TelemundoEast/index.m3u8
+#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel",The Cooking Channel
+http://origin.thetvapp.to/hls/CookingChannel/index.m3u8
+#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel",The Tennis Channel
+http://origin.thetvapp.to/hls/TennisChannel/index.m3u8
+#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel",The Weather Channel
+http://origin.thetvapp.to/hls/TheWeatherChannel/index.m3u8
+#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern",TLC
+http://origin.thetvapp.to/hls/TLCEast/index.m3u8
+#EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed",TMC
+http://origin.thetvapp.to/hls/TheMovieChannelEast/index.m3u8
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed",TNT
+http://origin.thetvapp.to/hls/TNTEast/index.m3u8
+#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East",Travel
+http://origin.thetvapp.to/hls/TravelChannelEast/index.m3u8
+#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern",truTV
+http://origin.thetvapp.to/hls/truTVEast/index.m3u8
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1",TSN1
+http://origin.thetvapp.to/hls/tsn1/index.m3u8
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2",TSN2
+http://origin.thetvapp.to/hls/tsn2/index.m3u8
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3",TSN3
+http://origin.thetvapp.to/hls/tsn3/index.m3u8
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4",TSN4
+http://origin.thetvapp.to/hls/tsn4/index.m3u8
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5",TSN5
+http://origin.thetvapp.to/hls/tsn5/index.m3u8
+#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA",TCM
+http://origin.thetvapp.to/hls/TCMEast/index.m3u8
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern",TV Land
+http://origin.thetvapp.to/hls/tv-land-eastern/index.m3u8
+#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One",TV One
+http://origin.thetvapp.to/hls/TVOne/index.m3u8
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids",Universal Kids
+http://origin.thetvapp.to/hls/UniversalKidsEast/index.m3u8
+#EXTINF:-1 tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed",Univision
+http://origin.thetvapp.to/hls/UnivisionEast/index.m3u8
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed",USA
+http://origin.thetvapp.to/hls/USANetworkEast/index.m3u8
+#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed",VH1
+http://origin.thetvapp.to/hls/VH1East/index.m3u8
+#EXTINF:-1 tvg-id="vice" tvg-name="VICE",VICE
+http://origin.thetvapp.to/hls/VICETV/index.m3u8
+#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern",WE
+http://origin.thetvapp.to/hls/WeTVEast/index.m3u8
+#EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="WPIX New York (SUPERSTATION)",WPIX New York (SUPERSTATION)
+http://origin.thetvapp.to/hls/WPIX/index.m3u8
+#EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network",Yes Network
+http://origin.thetvapp.to/hls/yes-network/index.m3u8
+
