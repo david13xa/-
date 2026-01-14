@@ -1,6 +1,6 @@
 Please use this only for educational purposes. Thank you. 
 
-请仅将其用于教育目的，谢谢。
+请仅将此用于教育目的，谢谢。 
 
 これを教育目的のみに賢く使用してください。ありがとうございます。
 
