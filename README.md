@@ -1,4 +1,4 @@
-use wisely this for education only, thankyou
+Please use this only for educational purposes. Thank you. 
 
 请仅将其用于教育目的，谢谢。
 
