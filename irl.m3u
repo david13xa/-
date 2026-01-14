@@ -1214,16 +1214,24 @@ http://4gtv.aibot408.qzz.io:20013/4gtv-live120/index.m3u8?proxy=true
 ##http://m-star.direct.quickconnect.to:7531/4gtv-live120/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Z0hB2q/ezgif-84287ddb8ead5208.png",ELTA SPORT 1
-http://96.44.160.246:9999/smt.php?id=eltasport1_twn&h=96.44.160.246&p=5123
+##http://96.44.160.246:9999/smt.php?id=eltasport1_twn&h=96.44.160.246&p=5123
+##http://204.197.163.125:5050/smart.php?id=eltasport_twn&token=smt
+http://185.106.96.201:28278/eltasport_twn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5RTyt7r/ezgif-8739420ec07149a5.png",ELTA SPORT 2
-http://96.44.160.246:9999/smt.php?id=eltasport2_twn&h=96.44.160.246&p=5123
+##http://96.44.160.246:9999/smt.php?id=eltasport2_twn&h=96.44.160.246&p=5123
+##http://204.197.163.125:5050/smart.php?id=eltasport2_twn&token=smt
+http://185.106.96.201:28278/eltasport2_twn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZQ99Fxp/ezgif-8f9dbedb092ff151.png",ELTA SPORT 3
-http://96.44.160.246:9999/smt.php?id=eltasport3_twn&h=96.44.160.246&p=5123
+##http://96.44.160.246:9999/smt.php?id=eltasport3_twn&h=96.44.160.246&p=5123
+##http://204.197.163.125:5050/smart.php?id=eltasport3_twn&token=smt
+http://185.106.96.201:28278/eltasport3_twn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmMf5xML/ezgif-7882cc5ca5c621c9.png",ELTA SPORT 4
-http://96.44.160.246:9999/smt.php?id=eltasports4_twn
+##http://96.44.160.246:9999/smt.php?id=eltasports4_twn
+##http://204.197.163.125:5050/smart.php?id=eltasports4_twn&token=smt
+http://185.106.96.201:28278/eltasports4_twn/playlist.m3u8
 
 =================================================================================================================================
 
@@ -2762,3 +2770,5 @@ https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/
 https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-Music/playlist.m3u8
 
 =================================================================================================================================
+
+
