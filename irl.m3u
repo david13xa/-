@@ -2298,7 +2298,9 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 ##https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/workpoint-23-th.png",WORKPOINT
-http://43.229.79.245:8080/live/premier/reimerp/12.ts
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/digital/raw/refs/heads/main/WorkpointTV.m3u8
+#https://global-media.sooplive.com/live/workpoint/master.m3u8
 
 =================================================================================================================================
 
@@ -2308,31 +2310,31 @@ http://43.229.79.245:8080/live/premier/reimerp/12.ts
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-1-th.png",TRUE SPORTS 1
-##https://raw.githubusercontent.com/cattviptv2605/sportthai/refs/heads/main/truesport1.m3u8
-http://119.59.118.159/live/ch9/Ultraman008/index.m3u8
+https://raw.githubusercontent.com/cattviptv2605/sportthai/refs/heads/main/truesport1.m3u8
+##http://119.59.118.159/live/ch9/Ultraman008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-2-th.png",TRUE SPORTS 2
-##https://raw.githubusercontent.com/cattviptv2605/sportthai/refs/heads/main/truesport2.m3u8
-http://119.59.118.159/live/ch10/Ultraman008/index.m3u8
+https://raw.githubusercontent.com/cattviptv2605/sportthai/refs/heads/main/truesport2.m3u8
+##http://119.59.118.159/live/ch10/Ultraman008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-3-th.png",TRUE SPORTS 3
-##https://raw.githubusercontent.com/cattviptv2605/sportthai/refs/heads/main/truesport3.m3u8
-http://119.59.118.159/live/ch11/Ultraman008/index.m3u8
+https://raw.githubusercontent.com/cattviptv2605/sportthai/refs/heads/main/truesport3.m3u8
+##http://119.59.118.159/live/ch11/Ultraman008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-4-th.png",TRUE SPORTS 4
-http://119.59.118.159/live/ch12/Ultraman008/index.m3u8
+##http://119.59.118.159/live/ch12/Ultraman008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-5-th.png",TRUE SPORTS 5
-##https://raw.githubusercontent.com/cattviptv2605/sportthai/refs/heads/main/truesport5.m3u8
-http://119.59.118.159/live/ch13/Ultraman008/index.m3u8
+https://raw.githubusercontent.com/cattviptv2605/sportthai/refs/heads/main/truesport5.m3u8
+##http://119.59.118.159/live/ch13/Ultraman008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-7-th.png",TRUE SPORTS 7
-##https://raw.githubusercontent.com/cattviptv2605/sportthai/refs/heads/main/truesport7.m3u8
-http://119.59.118.159/live/ch14/Ultraman008/index.m3u8
+https://raw.githubusercontent.com/cattviptv2605/sportthai/refs/heads/main/truesport7.m3u8
+##http://119.59.118.159/live/ch14/Ultraman008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true_tennis.png",TRUE TENNIS
 ##https://raw.githubusercontent.com/cattviptv2605/sportthai/refs/heads/main/truetennis.m3u8
-http://119.59.118.159/live/ch25/Ultraman008/index.m3u8
+##http://119.59.118.159/live/ch25/Ultraman008/index.m3u8
 
 ##EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-film-1-th.png",TRUE FILM 1
 ##EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-film-2-th.png",TRUE FILM 2
@@ -2372,13 +2374,17 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gm50P82d/ezgif-735cb7498f822a39.png",MONO MAX 1
-http://119.59.118.159/live/ch1/Ultraman008/index.m3u8
+##http://119.59.118.159/live/ch1/Ultraman008/index.m3u8
+https://love.tivov68423.workers.dev/lx-origin/th-aismax01_480/chunks.m3u8
+##https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L69GrBYC/ezgif-760800d70bbaf49c.png",MONO MAX 2
-http://119.59.118.159/live/ch2/Ultraman008/index.m3u8
+##http://119.59.118.159/live/ch2/Ultraman008/index.m3u8
+https://love.tivov68423.workers.dev/lx-origin/th-aismax02_480/chunks.m3u8
+##https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0WB218x/ezgif-7f6083d83cde2f13.png",AIS PLAY SPORTS
-http://119.59.118.159/live/ch4/Ultraman008/index.m3u8
+##http://119.59.118.159/live/ch4/Ultraman008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65X1xf5B/ezgif-4f7d8e2a8781d307.png",A'LURE CHANNEL
 #EXTVLCOPT:http-referrer=https://livesod365.info/
@@ -2417,7 +2423,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 ##http://45.144.166.242:1935/AmarinTV/t3_amarintv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbtv-channel-7-th.png",7 HD
-http://43.229.79.245:8080/live/premier/reimerp/22.ts
+https://github.com/cattviptv2605/digital/raw/refs/heads/main/PPTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65kzcHY3/ezgif-375e544a778439e1.png",PPTV HD 36
 https://ww.dooballfree.vip/live/pptv/playlist.m3u8
@@ -2918,7 +2924,7 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvT0HMSD/ezgif-689269e803d62a2a.png",IMODE TV
-##http://player.juyun.tv/camera/137932133.m3u8
+http://player.juyun.tv/camera/137932133.m3u8
 
 =================================================================================================================================
 
@@ -2999,7 +3005,6 @@ https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/
 http://gohyperspeed.com/live/1011688362/o5EvnnitOb/500290407.ts
 
 =================================================================================================================================
-
 
 
 
