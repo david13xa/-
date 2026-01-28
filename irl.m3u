@@ -350,48 +350,46 @@ http://gohyperspeed.com/live/1011688362/o5EvnnitOb/500300982.ts
 
 ===========================================================================================================================
 
-##EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-1-id.png",CHAMPIONS TV 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-1-id.png",CHAMPIONS TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-##KODIPROP:inputstream.adaptive.manifest_type=dash
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=68d120b783a0420e63b17f44ef2a2af2:fcfad4cd945a66d489293b72f1eae8ac
-##KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
-##https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=6685
-##https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=17938
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=6685&type=drm
+https://archertv.my.id/atraksi/vidx.mpd?id=6685&type=dash
+##KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6685&type=drm
+##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6685&type=dash
 
-##EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-2-id.png",CHAMPIONS TV 2
-##KODIPROP:inputstreamaddon=inputstream.adaptive
-##KODIPROP:inputstream.adaptive.manifest_type=dash
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
-##https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=6686
-##KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-##KODIPROP:inputstream=ffmpegdirect
-##KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-##KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
-##KODIPROP:network-caching=2000
-##http://202.169.224.202:8800/udp/239.9.1.10:1234
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-2-id.png",CHAMPIONS TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=6686&type=drm
+https://archertv.my.id/atraksi/vidx.mpd?id=6686&type=dash
+##KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6686&type=drm
+##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6686&type=dash
 
-##EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png",CHAMPIONS TV 3
-##KODIPROP:inputstreamaddon=inputstream.adaptive
-##KODIPROP:inputstream.adaptive.manifest_type=dash
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=cac6ef6bc0cbe3fc48fccc8ddc02dc54:644eab662d05201dbdeaf9453bcdea20
-##https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=19404
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png",CHAMPIONS TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6786&type=drm
+https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6786&type=dash
 
-##EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-5-id.png",CHAMPIONS TV 5
-##KODIPROP:inputstreamaddon=inputstream.adaptive
-##KODIPROP:inputstream.adaptive.manifest_type=dash
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
-##https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9182
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-5-id.png",CHAMPIONS TV 5
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9182&type=drm
+https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9182&type=dash
 
-##EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-6-id.png",CHAMPIONS TV 6
-##KODIPROP:inputstreamaddon=inputstream.adaptive
-##KODIPROP:inputstream.adaptive.manifest_type=dash
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-##https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9183
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-6-id.png",CHAMPIONS TV 6
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9183&type=drm
+https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9183&type=dash
 
 ##EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/voli-tv-id.png",VOLI TV
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1144,6 +1142,35 @@ http://74.91.26.218:82/live/mydy.m3u8
 
 =================================================================================================================================
 
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/QxqfhMGF/ezgif-6458f3e847609164.png",LOVE APARTMENT
+##http://74.91.26.218:82/live/vlaqgy.m3u8
+
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/BvN3F3Kb/ezgif-678a5c504c8f8841.png",COMEDY CINEMA
+##http://74.91.26.218:82/live/vlxjyy.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d00s4DvF/ezgif-6d643fe036d1f189.png",JACKIE CHAN MOVIE
+http://74.91.26.218:82/live/vlcl.m3u8
+
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/rpd6D4Mr/ezgif-62016d4809c23901.png",RAYMOND WONG MOVIE
+##http://74.91.26.218:82/live/vlhbm.m3u8
+
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/85VyTf57/ezgif-66c116f7c979c67d.png",SAMMO HUNG MOVIE
+##http://74.91.26.218:82/live/vlhjb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJJFb9h6/ezgif-64b0a9042764879e.png",ANDY LAU MOVIE
+http://74.91.26.218:82/live/vlldh.m3u8
+
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/hGKzgSnq/ezgif-6ba19a8e273d2f0b.png",LAM CHING-YING MOVIE
+##http://74.91.26.218:82/live/vllzy.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGrSbY5r/ezgif-6f5c663123d19ef6.png",CHOW YUN-FAT MOVIE
+http://74.91.26.218:82/live/vlzrf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqf7z3Ms/ezgif-62851c7f2ecebbb1.png",STEPHEN CHOW MOVIE
+http://74.91.26.218:82/live/vlzxc.m3u8
+
+=================================================================================================================================
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ctv_tw.png",CTV
 http://74.91.26.218:82/live/ctv.m3u8
 ##http://165.154.226.214:50007/li-4gtv-4gtv040/index.m3u8?proxy=true
@@ -1408,6 +1435,7 @@ http://165.154.226.214:50007/li-4gtv-4gtv070/index.m3u8?proxy=true
 ##https://feer-cdn-bp.xpnb.qzz.io/ippro.php?id=257
 ##http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41077202079/7412fh356/257.ts
 ##https://live.catvod.com/live.php?id=eltasport1_twn&token=1769123936.4777ada6629ffb03268932ac6cb7f35f8d997bdad5facd93aee3274ef81f7b91
+http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport1_twn
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5RTyt7r/ezgif-8739420ec07149a5.png",ELTA SPORT 2
 ##http://96.44.160.246:9999/smt.php?id=eltasport2_twn
@@ -1416,6 +1444,7 @@ http://165.154.226.214:50007/li-4gtv-4gtv070/index.m3u8?proxy=true
 ##https://feer-cdn-bp.xpnb.qzz.io/ippro.php?id=258
 ##http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41077202079/7412fh356/258.ts
 ##https://live.catvod.com/live.php?id=eltasport2_twn&token=1769123936.66b18c5ea65d84927aa02bf73f95683a7c4edf84c7e0ce332359cda214e4cf36
+http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport2_twn
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZQ99Fxp/ezgif-8f9dbedb092ff151.png",ELTA SPORT 3
 ##http://96.44.160.246:9999/smt.php?id=eltasport3_twn
@@ -1424,6 +1453,7 @@ http://165.154.226.214:50007/li-4gtv-4gtv070/index.m3u8?proxy=true
 ##https://feer-cdn-bp.xpnb.qzz.io/ippro.php?id=259
 ##http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41077202079/7412fh356/259.ts
 ##https://live.catvod.com/live.php?id=eltasport3_twn&token=1769123936.c0f9af7348699374108d6ef581955a04c29fe83d7b03eb461cce403d20a1e3ba
+http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport3_twn
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmMf5xML/ezgif-7882cc5ca5c621c9.png",ELTA SPORT 4
 ##http://96.44.160.246:9999/smt.php?id=eltasports4_twn
@@ -3028,5 +3058,6 @@ https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/
 http://gohyperspeed.com/live/1011688362/o5EvnnitOb/500290407.ts
 
 =================================================================================================================================
+
 
 
