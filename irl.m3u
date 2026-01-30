@@ -355,19 +355,15 @@ http://gohyperspeed.com/live/1011688362/o5EvnnitOb/500300982.ts
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=6685&type=drm
-https://archertv.my.id/atraksi/vidx.mpd?id=6685&type=dash
-##KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6685&type=drm
-##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6685&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6685&type=drm
+https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6685&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-2-id.png",CHAMPIONS TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=6686&type=drm
-https://archertv.my.id/atraksi/vidx.mpd?id=6686&type=dash
-##KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6686&type=drm
-##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6686&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6686&type=drm
+https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6686&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png",CHAMPIONS TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -402,6 +398,9 @@ http://gohyperspeed.com/live/1011688362/o5EvnnitOb/40096.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13Q7d6Y2/ezgif-3fc8a8ece041b0ea.png",TOM AND JERRY TV 2
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Q7d6Y2/ezgif-3fc8a8ece041b0ea.png",TOM AND JERRY TV 3
+http://www.douzhicloud.site:35455/huya/11352879
 
 =================================================================================================================================
 
@@ -1182,35 +1181,32 @@ http://74.91.26.218:82/live/mydy.m3u8
 
 =================================================================================================================================
 
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/QxqfhMGF/ezgif-6458f3e847609164.png",LOVE APARTMENT
-##http://74.91.26.218:82/live/vlaqgy.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/BvN3F3Kb/ezgif-678a5c504c8f8841.png",COMEDY CINEMA
-##http://74.91.26.218:82/live/vlxjyy.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d00s4DvF/ezgif-6d643fe036d1f189.png",JACKIE CHAN MOVIE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d00s4DvF/ezgif-6d643fe036d1f189.png",JACKIE CHAN MOVIES
 http://74.91.26.218:82/live/vlcl.m3u8
 http://www.douzhicloud.site:35455/huya/11342386
 
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/rpd6D4Mr/ezgif-62016d4809c23901.png",RAYMOND WONG MOVIE
-##http://74.91.26.218:82/live/vlhbm.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/85VyTf57/ezgif-66c116f7c979c67d.png",SAMMO HUNG MOVIE
-##http://74.91.26.218:82/live/vlhjb.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJJFb9h6/ezgif-64b0a9042764879e.png",ANDY LAU MOVIE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJJFb9h6/ezgif-64b0a9042764879e.png",ANDY LAU MOVIES
 http://74.91.26.218:82/live/vlldh.m3u8
 http://www.douzhicloud.site:35455/huya/11342424
 
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/hGKzgSnq/ezgif-6ba19a8e273d2f0b.png",LAM CHING-YING MOVIE
-##http://74.91.26.218:82/live/vllzy.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGrSbY5r/ezgif-6f5c663123d19ef6.png",CHOW YUN-FAT MOVIE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGrSbY5r/ezgif-6f5c663123d19ef6.png",CHOW YUN-FAT MOVIES
 http://74.91.26.218:82/live/vlzrf.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqf7z3Ms/ezgif-62851c7f2ecebbb1.png",STEPHEN CHOW MOVIE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqf7z3Ms/ezgif-62851c7f2ecebbb1.png",STEPHEN CHOW MOVIES
 http://74.91.26.218:82/live/vlzxc.m3u8
 http://www.douzhicloud.site:35455/huya/11342412
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNxrw2LJ/ezgif-5c4e00a32ad935c6.png",LOUIS KOO MOVIES
+http://www.douzhicloud.site:35455/huya/29982675
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzMHgJNk/ezgif-579ead002f35eeed.png",JET LI MOVIES
+http://www.douzhicloud.site:35455/huya/11342390
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gm5dkyK0/ezgif-550e48603e030b84.png",DONNIE YEN MOVIES
+http://www.douzhicloud.site:35455/huya/11352935
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43XN59hG/ezgif-566fb6d8e26c41b5.png",HUYA SPY MOVIES
+http://www.douzhicloud.site:35455/huya/21059585
 
 =================================================================================================================================
 
@@ -1645,6 +1641,10 @@ https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mediampd/JiangsuTV.mpd
 ##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000052/1024.m3u8
 ##http://69.30.246.194/live/jsws.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMMDcZzh/ezgif-59b6201171057f74.png",JIANGSU SATELLITE TV 4K
+#EXTVLCOPT:http-user-agent=aliplayer
+http://8.138.7.223/tv/jsws4k.php
+
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-satellite-tv-cn.png",ZHEJIANG SATELLITE TV
@@ -1659,10 +1659,32 @@ https://atemeshield1-voe.sysln.id/live/eds/ZhejiangTV/mediampd/ZhejiangTV.mpd
 ##KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 ##https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
 ##http://69.30.246.194/live/zjws.m3u8
+##http://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
+##http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/浙江卫视4K.png",ZHEJIANG TV 4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHPKNQWJ/ezgif-7dada379ec06f91c.png",ZHEJIANG TV 4K
 #EXTVLCOPT:http-user-agent=aliplayer
 https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
+
+##EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-qianjiang-channel-cn.png",ZHEJIANG QIANJIANG CHANNEL
+##http://ali-m-l.cztv.com/channels/lantian/channel002/720p.m3u8
+##http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+##EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-news-cn.png",ZHEJIANG NEWS
+##http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8
+##http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+
+##EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-satellite-tv-international-cn.png",ZHEJIANG SATELLITE TV INTERNATIONAL
+##http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
+##http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+
+##EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-haoyigou-cn.png",ZHEJIANG HAOYIGOU
+##http://ali-m-l.cztv.com/channels/lantian/channel011/720p.m3u8
+##http://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
+
+##EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-zhijiang-documentary-cn.png",ZHEJIANG ZHIJIANG DOCUMENTARY
+##http://ali-m-l.cztv.com/channels/lantian/channel012/720p.m3u8
+##http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
 =================================================================================================================================
 
@@ -1679,6 +1701,8 @@ https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mediampd/AnhuiTV.mpd
 ##https://fta2-cdn-flr.visionplus.id/out/v1/39a34211e80145678ce1616b52368f99/index.mpd
 ##http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
 
+=================================================================================================================================
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/shenzhen-satellite-tv-cn.png",SHENZEN SATELLITE TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1691,7 +1715,7 @@ https://atemeshield1-voe.sysln.id/live/eds/ShenzenTV/mediampd/ShenzenTV.mpd
 ##KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 ##https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/深圳卫视4K.png",SHENZEN TV 4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j521vwkG/ezgif-75b88e25b66e6c50.png",SHENZEN TV 4K
 #EXTVLCOPT:http-user-agent=AptvPlayer-UA
 http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
@@ -1705,8 +1729,8 @@ http://gooo.blog/opix/genx.m3u8?id=guangdongtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJI
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhujiang-tv-cn.png",GUANGDONG PEARL RIVER
 http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangdong-sports-cn.png",GUANGDONG SPORTS
-http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
+##EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangdong-sports-cn.png",GUANGDONG SPORTS
+##http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
 
 =================================================================================================================================
 
@@ -3083,7 +3107,7 @@ http://31.148.48.15/Fashion_One_HD/index.m3u8
 https://cdn2.invivo.bg/Codefashion_5500/index.fmp4.m3u8
 ##https://cdn2.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76kq1J5z/code-health-tv-bg.png",CODE HEALTH TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g09XVjGv/ezgif-534f08a1b2aea742.png",CODE HEALTH TV
 https://cdn2.invivo.bg/codehealth_test/tracks-v1a1/mono.m3u8
 
 =================================================================================================================================
@@ -3099,7 +3123,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/1af4abed-c0b8-487a-a75e-da051be75fac/0.m3u8
 ##https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5wL0n02/miami-tv-models-us.png",MIAMI TV MODELS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wThSqb7v/ezgif-50fa6c98bee37bb7-png-(132-99).png",MIAMI TV MODELS
 https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/cc6204e2-2821-43d0-a123-b7fc6eb7017d/0.m3u8
 ##https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/playlist.m3u8
 
@@ -3113,5 +3137,4 @@ https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/
 http://gohyperspeed.com/live/1011688362/o5EvnnitOb/500290407.ts
 
 =================================================================================================================================
-
 
