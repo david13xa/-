@@ -3,59 +3,49 @@
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjys36Lh/ezgif-7ae685bdab8a1811.png",TV ONE
-##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
-##https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
-##https://atemeshield1-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-##EXTVLCOPT:http-referrer=https://www.visionplus.id/
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 ##https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
-##https://fta3-cdn-flr.visionplus.id/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+https://fta3-cdn-flr.visionplus.id/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
+##https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/44twY7gq/ezgif-6a5fadaf3ade2391.png",ANTV
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-##EXTVLCOPT:http-referrer=https://www.visionplus.id/
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 ##https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-##https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
+https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+##http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtHdpBFF/ezgif-728d64a21c1dd42b.png",SCTV
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-##EXTVLCOPT:http-referrer=https://www.visionplus.id/
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
-##https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
-#EXTVLCOPT:Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+##http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR
 ##EXTVLCOPT:http-referrer=https://www.indihometv.com/
 ##EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 ##https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 ##https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-##http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
+##http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr5QpD3T/ezgif-1-5b5ec93378.png",MOJI
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-##https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd
-##https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd
+##http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvH2YWxq/ezgif-648bdcd09d3daf.png",SIN PO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -104,15 +94,18 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
 ##https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+##https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKdJcr01/rajawali-tv-id.png",RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+##EXTVLCOPT:http-referrer=http://www.dens.tv/
+##https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nextgenz.my.id/event/pidio/play.m3u8?id=1561&type=hls
 
 =================================================================================================================================
 
@@ -155,8 +148,8 @@ https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index
 ##KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
 ##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 ##https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
 =================================================================================================================================
 
@@ -167,12 +160,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 ##KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
 ##https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 ##https://fta2-cdn-flr.visionplus.id/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
-##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-##https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPcVGgMk/jtv-id.png",JTV
 ##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -203,10 +194,8 @@ https://fta2-cdn-flr.visionplus.id/out/v1/44a2d1ab71a740babb233cf14832c59d/index
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=303eeb13aee345d3b04d6a407b4ff199:cdf924eb0f1b5017ac590f4f70f00a53
 ##https://atemecdnbalancer-voe.sysln.id/live/eds/TVRINasional/mediampd/TVRINasional.mpd
-##EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-##https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76YFwv7d/ezgif-313191e0953ad4b2.png",TVRI WORLD
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
