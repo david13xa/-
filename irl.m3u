@@ -972,6 +972,7 @@ http://67.220.67.246:2347/livehttpplay?channel_id=13002
 ##http://74.91.26.218:82/live/nowxy.m3u8
 ##http://208.87.242.79:40041
 http://67.220.67.246:2347/livehttpplay?channel_id=13003
+##http://208.87.242.79/livehttpplay?channel_id=13003
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRynXf4p/ezgif-36d2fa4f7e9a94fe.png",NOW DIRECT
 http://hls.168.us.kg/u/331/master.m3u8
@@ -980,9 +981,11 @@ http://hls.168.us.kg/u/331/master.m3u8
 http://hls.168.us.kg/u/332/master.m3u8
 ##http://cdn.163189.xyz/163189/now
 ##http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+##http://67.220.67.246:2347/livehttpplay?channel_id=20041
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZTZZWzM/ezgif-323f9bf64bc7ba67.png",NOW BUSINESS NEWS
 http://hls.168.us.kg/u/333/master.m3u8
+##http://208.87.242.79/livehttpplay?channel_id=13000
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0YxcDGD/ezgif-17c5fae097935c79.png",NOW SPORTS 1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/44bVTzMv/ezgif-4e06e993537d0f88.png",NOW SPORTS 2
@@ -991,6 +994,9 @@ http://hls.168.us.kg/u/333/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h4rhNbLg/ezgif-5ae908f3d7dae30f.png",NOW SPORTS 5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMfqM22R/ezgif-5241e05c8c2fce60.png",NOW SPORTS 6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKnxtytm/ezgif-54f8afb88189cdfc.png",NOW SPORTS 7
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XtBKbR9/ezgif-3f16acef717cf45c.png",NOW SPORTS PREMIER LEAGUE 1
+http://208.87.242.79/livehttpplay?channel_id=13007
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZRFn6n1/ezgif-2f46fadfa12b4898.png",NOW SPORTS PRIME
 http://hls.168.us.kg/u/630/master.m3u8
@@ -1176,27 +1182,33 @@ http://v2h.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK0qgSwk/ezgif-76d82effcfa2775c.png",VIDEOLAND SPORTS
 ##https://smart.dxjc.pp.ua/smart.php?id=videolandsport&token=tmxk
-http://107.175.220.4:11799/videolandsport/playlist.m3u8
+##http://107.175.220.4:11799/videolandsport/playlist.m3u8
+http://208.87.242.79/livehttpplay?channel_id=20120
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYmBxJWw/ezgif-7c1c41d1246e2efc.png",VIDEOLAND JAPAN
 ##https://smart.dxjc.pp.ua/smart.php?id=videolandjapan&token=tmxk
-http://107.175.220.4:11799/videolandjapan/playlist.m3u8
+##http://107.175.220.4:11799/videolandjapan/playlist.m3u8
+http://208.87.242.79/livehttpplay?channel_id=20303
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8FbV5Yz/ezgif-3ef35b7e3172cb5f.png",VIDEOLAND MAX
 ##http://96.44.160.246:9999/smt.php?id=videolandmax
-http://107.175.220.4:11799/videolandmax/playlist.m3u8
+##http://107.175.220.4:11799/videolandmax/playlist.m3u8
+http://67.220.67.246:2347/livehttpplay?channel_id=20201
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg6YmQbh/ezgif-32bea70549daf0d3.png",VIDEOLAND ENTERTAINMENT
 ##https://smart.dxjc.pp.ua/smart.php?id=videolandyule&token=tmxk
 ##http://107.175.220.4:11799/videolandyule/playlist.m3u8
+##http://208.87.242.79/livehttpplay?channel_id=20202
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbbJdTcT/ezgif-7cac7ca005932a40.png",VIDEOLAND DRAMA
 ##https://smart.dxjc.pp.ua/smart.php?id=videolandzonghe&token=tmxk
-http://107.175.220.4:11799/videolandzonghe/playlist.m3u8
+##http://107.175.220.4:11799/videolandzonghe/playlist.m3u8
+http://208.87.242.79/livehttpplay?channel_id=20200
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYGpZb5G/ezgif-73bb39d3d9d1b922.png",VIDEOLAND MOVIE
 ##https://smart.dxjc.pp.ua/smart.php?id=videolandmovie&token=tmxk
-http://107.175.220.4:11799/videolandmovie/playlist.m3u8
+##http://107.175.220.4:11799/videolandmovie/playlist.m3u8
+http://67.220.67.246:2347/livehttpplay?channel_id=20199
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg6YmQbh/ezgif-32bea70549daf0d3.png",VIDEOLAND WONDERFUL
 ##http://96.44.160.246:9999/smt.php?id=videolandtv
@@ -1213,19 +1225,22 @@ http://107.175.220.4:11799/videolandtv/playlist.m3u8
 ##http://4gtv.aibot408.qzz.io:20013/litv-longturn05/index.m3u8?proxy=true
 ##https://cdn4.aace.eu.org/litv.php?id=litv-xinchuang05
 ##https://smart.dxjc.pp.ua/smart.php?id=bosigolf1_twn&token=tmxk
-http://107.175.220.4:11799/bosigolf1_twn/playlist.m3u8
+##http://107.175.220.4:11799/bosigolf1_twn/playlist.m3u8
+http://208.87.242.79/livehttpplay?channel_id=20103
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W32FZGfq/ezgif-8397195ad04ccfa1.png",BOSI GOLF 2
 ##http://4gtv.aibot408.qzz.io:20013/litv-longturn06/index.m3u8?proxy=true
 ##https://cdn4.aace.eu.org/litv.php?id=litv-xinchuang06
 ##https://smart.dxjc.pp.ua/smart.php?id=bosigolf2_twn&token=tmxk
-http://107.175.220.4:11799/bosigolf2_twn/playlist.m3u8
+##http://107.175.220.4:11799/bosigolf2_twn/playlist.m3u8
+http://208.87.242.79/livehttpplay?channel_id=20117
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tC11FCDk/ezgif-89ea0975facc171f.png",BOSI SPORT 1
 ##http://4gtv.aibot408.qzz.io:20013/litv-longturn07/index.m3u8?proxy=true
 ##https://cdn4.aace.eu.org/litv.php?id=litv-xinchuang07
 ##https://smart.dxjc.pp.ua/smart.php?id=bosisport1_twn&token=tmxk
-http://107.175.220.4:11799/bosisport1_twn/playlist.m3u8
+##http://107.175.220.4:11799/bosisport1_twn/playlist.m3u8
+http://208.87.242.79/livehttpplay?channel_id=10131
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTCJJXY3/ezgif-844501451d7b987f.png",BOSI SPORT 2
 ##http://4gtv.aibot408.qzz.io:20013/litv-longturn08/index.m3u8?proxy=true
@@ -1255,6 +1270,7 @@ http://107.175.220.4:11799/bosiunlimited_twn/playlist.m3u8
 ##http://4gtv.aibot408.qzz.io:20013/4gtv-4gtv070/index.m3u8?proxy=true
 ##https://cdn4.aace.eu.org/litv.php?id=4gtv-4gtv070
 ##http://165.154.226.214:50007/li-4gtv-4gtv070/index.m3u8?proxy=true
+http://208.87.242.79/livehttpplay?channel_id=16076
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gj9PqZ5Y/ezgif-8f2c1abf06b08a7b.png",ELTA LIFESTYLE TRAVEL
 ##http://4gtv.aibot408.qzz.io:20013/4gtv-live120/index.m3u8?proxy=true
@@ -1262,21 +1278,25 @@ http://107.175.220.4:11799/bosiunlimited_twn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Z0hB2q/ezgif-84287ddb8ead5208.png",ELTA SPORT 1
 ##http://185.106.96.201:28278/eltasport_twn/playlist.m3u8
 ##http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport1_twn
-https://smt.tzh911.de5.net/eltasport1_twn/playlist.m3u8?
+##https://smt.tzh911.de5.net/eltasport1_twn/playlist.m3u8?
 ##http://107.175.220.4:11799/eltasport1_twn/playlist.m3u8
+http://208.87.242.79/livehttpplay?channel_id=20043
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5RTyt7r/ezgif-8739420ec07149a5.png",ELTA SPORT 2
 ##http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport2_twn
-https://smt.tzh911.de5.net/eltasport2_twn/playlist.m3u8?
+##https://smt.tzh911.de5.net/eltasport2_twn/playlist.m3u8?
 ##http://107.175.220.4:11799/eltasport2_twn/playlist.m3u8
+http://208.87.242.79/livehttpplay?channel_id=20107
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZQ99Fxp/ezgif-8f9dbedb092ff151.png",ELTA SPORT 3
 ##http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport3_twn
-https://smt.tzh911.de5.net/eltasport3_twn/playlist.m3u8?
+##https://smt.tzh911.de5.net/eltasport3_twn/playlist.m3u8?
 ##http://107.175.220.4:11799/eltasport3_twn/playlist.m3u8
+http://208.87.242.79/livehttpplay?channel_id=21422
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmMf5xML/ezgif-7882cc5ca5c621c9.png",ELTA SPORT 4
 ##http://185.106.96.201:28278/eltasports4_twn/playlist.m3u8
+http://208.87.242.79/livehttpplay?channel_id=20100
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLth2K7y/ezgif-3da062ace7fc2a69.png",ELTA SPORT MAX 1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvLN83KD/ezgif-32309e591c94ea41.png",ELTA SPORT MAX 2
@@ -1721,15 +1741,20 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsi
 ##https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_family_us.png",DISCOVERY FAMILY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+##http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/10538.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_life_us.png",DISCOVERY LIFE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+##http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/9861.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH5ypX1b/ezgif-2e9b0637aa41c15f.png",DISCOVERY SCIENCE
+http://mytvstream.net:8080/live/30550113/30550113/20866.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png",DISCOVERY TURBO
+http://filex.me:8080/live/000003/000003/495268.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTCbw5Pm/ezgif-1-7ab72d15fa.png",DMAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1892,8 +1917,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjdjTVhY/disney-xd-us.png",DISNEY XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-##http://origin.thetvapp.to/hls/DisneyXDEast/index.m3u8
+##http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+http://origin.thetvapp.to/hls/DisneyXDEast/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfyZ2dpC/dlife-jp.png",DLIFE
 https://nl.utako.moe/dlife/index.m3u8
@@ -1968,7 +1993,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mediampd/LoveNatureH
 ##https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/smithsonian-channel-us.png",SMITHSONIAN CHANNEL
-http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+##http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/31150.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYRqzGCx/ezgif-78bb10bca9ae95.png",GLOBAL TREKKER
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1984,9 +2010,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 http://89.105.221.127/OutdoorChannel/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sportsman-channel-us.png",SPORTSMAN CHANNEL
+http://mytvstream.net:8080/live/30550113/30550113/79913.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/world_fishing_network.png",WORLD FISHING NETWORK
-https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+##https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+http://mytvstream.net:8080/live/30550113/30550113/10477.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/altitude-sports-us.png",ALTITUDE SPORTS
 ##http://cord-cutter.net:8080/30550113/30550113/79545
@@ -2119,64 +2147,64 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6685&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6685&type=dash
+#KODIPROP:inputstream.adaptive.license_key=##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6685&type=drm
+##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6685&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-2-id.png",CHAMPIONS TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6686&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6686&type=dash
+#KODIPROP:inputstream.adaptive.license_key=##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6686&type=drm
+##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6686&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png",CHAMPIONS TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6786&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6786&type=dash
+#KODIPROP:inputstream.adaptive.license_key=##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6786&type=drm
+##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6786&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-5-id.png",CHAMPIONS TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9182&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9182&type=dash
+#KODIPROP:inputstream.adaptive.license_key=##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9182&type=drm
+##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9182&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-6-id.png",CHAMPIONS TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9183&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9183&type=dash
+#KODIPROP:inputstream.adaptive.license_key=##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9183&type=drm
+##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9183&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-fight-id.png",CHAMPIONS FIGHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=dash
+#KODIPROP:inputstream.adaptive.license_key=##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=drm
+##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-golf-1-id.png",CHAMPIONS GOLF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18189&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18189&type=dash
+#KODIPROP:inputstream.adaptive.license_key=##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18189&type=drm
+##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18189&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-golf-2-id.png",CHAMPIONS GOLF 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18190&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18190&type=dash
+#KODIPROP:inputstream.adaptive.license_key=##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18190&type=drm
+##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18190&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/voli-tv-id.png",VOLI TV
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2187,48 +2215,48 @@ https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18190&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9353&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9353&type=dash
+#KODIPROP:inputstream.adaptive.license_key=##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9353&type=drm
+##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9353&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HnLRbbCc/bein-sports-1-qa-fr.png",BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6299&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6299&type=dash
+#KODIPROP:inputstream.adaptive.license_key=##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6299&type=drm
+##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6299&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkn1JysF/bein-sports-2-qa.png",BEIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=17875&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=17875&type=dash
+#KODIPROP:inputstream.adaptive.license_key=##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=17875&type=drm
+##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=17875&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdtSqwHV/bein-sports-3-qa.png",BEIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6317&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6317&type=dash
+#KODIPROP:inputstream.adaptive.license_key=##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6317&type=drm
+##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=6317&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spotv-kr.png",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=17139&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=17139&type=dash
+#KODIPROP:inputstream.adaptive.license_key=##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=17139&type=drm
+##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=17139&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spotv-2-kr.png",SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=17140&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=17140&type=dash
+#KODIPROP:inputstream.adaptive.license_key=##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=17140&type=drm
+##https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=17140&type=dash
 
 ===========================================================================================================================
 
@@ -2575,11 +2603,13 @@ http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/o
 ##http://143.244.60.30/FOX_Sports_1/index.m3u8
 ##http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 http://origin.thetvapp.to/hls/FoxSports1/index.m3u8
+##http://208.87.242.79/livehttpplay?channel_id=13033
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCvJFPp4/ezgif-8b722dd0a53a2799.png",FS2
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 ##http://tv14s.xyz:8080/A1Jay5/362586/1847
 http://origin.thetvapp.to/hls/FoxSports2/index.m3u8
+##http://208.87.242.79/livehttpplay?channel_id=13034
 
 =================================================================================================================================
 
@@ -2701,11 +2731,17 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equi
 http://89.105.221.127/ESPN1/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvGk0RV/ezgif-77fcf5a0b6df68.png",ESPN 2
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+##http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+http://208.87.242.79/livehttpplay?channel_id=13039
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_u.png",ESPNU
+http://208.87.242.79/livehttpplay?channel_id=13030
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espnews.png",ESPNEWS
+http://mytvstream.net:8080/live/30550113/30550113/17707.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_deportes.png",ESPN DEPORTES
+http://208.87.242.79/livehttpplay?channel_id=13050
 
 ===========================================================================================================================
 
