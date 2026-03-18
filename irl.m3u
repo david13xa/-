@@ -799,17 +799,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mp
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sbs_kr.png",SBS
-https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzM3MTI4NTMsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjFiZWJjMTY4LWVmYTYtNDA5Yi1hZjE2LWUxN2E3ZDQyNTAzNSIsImlhdCI6MTc3MzcwNTY1M30.eXs1_l1KH6pkIjv67Qp7__8zqwAmBSipQXmtZLR6GJY
+##https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzM3MTI4NTMsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjFiZWJjMTY4LWVmYTYtNDA5Yi1hZjE2LWUxN2E3ZDQyNTAzNSIsImlhdCI6MTc3MzcwNTY1M30.eXs1_l1KH6pkIjv67Qp7__8zqwAmBSipQXmtZLR6GJY
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sbs-plus-kr.png",SBS PLUS
-https://tvlive.sbs.co.kr/sbspluspc/sbsplus2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzM3MTY0MDUsInBhdGgiOiIvc2JzcGx1czIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJiNzc0MmQwYS1jODVlLTRmNTgtODU0My0xYzc2NGI5MDdlYmIiLCJpYXQiOjE3NzM3MDkyMDV9.mp7rn9cPy005V5numCSJTGEnLrTaUFlbIMB4l9jqQbQ
+##https://tvlive.sbs.co.kr/sbspluspc/sbsplus2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzM3MTY0MDUsInBhdGgiOiIvc2JzcGx1czIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJiNzc0MmQwYS1jODVlLTRmNTgtODU0My0xYzc2NGI5MDdlYmIiLCJpYXQiOjE3NzM3MDkyMDV9.mp7rn9cPy005V5numCSJTGEnLrTaUFlbIMB4l9jqQbQ
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sbs-sports-kr.png",SBS SPORTS
-https://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzM3MDIwMTgsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzMjBjZTVkYS1hOThmLTQzOWMtOTEwMS1jYjNkNzQxYmZlMmEiLCJpYXQiOjE3NzM2OTQ4MTh9.q4lqBMJ-rST0YmS8c-smvDD63iWaBrtWsXyBtMXSFyM
+##https://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzM3MDIwMTgsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzMjBjZTVkYS1hOThmLTQzOWMtOTEwMS1jYjNkNzQxYmZlMmEiLCJpYXQiOjE3NzM2OTQ4MTh9.q4lqBMJ-rST0YmS8c-smvDD63iWaBrtWsXyBtMXSFyM
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sbs-biz-kr.png",SBS BIZ
 ##http://208.87.242.55/livehttpplay?channel_id=28009
-https://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzM3MTY0MDgsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIxMWY1MzFkNS00YWNkLTQyZTEtODFkMC0yZTZkZTA5YmRkNTgiLCJpYXQiOjE3NzM3MDkyMDh9.2Np5XHKdfb6bd7obRuTw18kZC4HxOX7btmFtOY_-bcs
+##https://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzM3MTY0MDgsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIxMWY1MzFkNS00YWNkLTQyZTEtODFkMC0yZTZkZTA5YmRkNTgiLCJpYXQiOjE3NzM3MDkyMDh9.2Np5XHKdfb6bd7obRuTw18kZC4HxOX7btmFtOY_-bcs
 
 =================================================================================================================================
 
@@ -1859,14 +1859,14 @@ https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tdm-macau-satellite-mo.png",TDM MACAU SATELLITE GLOBAL
-https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+##https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tdm-sport-mo.png",TDM SPORT
 ##https://cdn6.101.qzz.io/163189/amty
 http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tdm-sport-mo.png",TDM SPORT GLOBAL
-https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+##https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tdm-information-mo.png",TDM INFORMATION
 https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
@@ -1876,7 +1876,7 @@ https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 http://cdn6.veryfast.filegear-sg.me/live/amzy/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tdm-variety-mo.png",TDM VARIETY GLOBAL
-https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+##https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 ##https://globallive.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/macau_lotus_tv_mo.png",LOTUS MACAU
@@ -1929,6 +1929,7 @@ https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd
 ##http://69.30.246.194/live/dfws.m3u8
 ##http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 ##http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
+##http://bp-resource-dfl.bestv.cn/155/1/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG3BVbDR/ezgif-294ae5caca3132e1.png",DRAGON TV 4K
 https://bp-resource-dfl.bestv.cn/148/1/video.m3u8
@@ -2005,8 +2006,30 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ymkt
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hebei-tv-cn.png",HEBEI TV
+##http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1893427200&k=590149d139a9820d4a4e5c89383199b1
 ##http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hebei-economic-life-cn.png",HEBEI ECONOMIC LIFE
+http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1893427200&k=ad907331c90d847d7e7ae51764d8a09a            
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hebei-agriculture-rural-and-farmers-channel-cn.png",HEBEI AGRICULTURE RURAL AND FARMERS CHANNEL
+http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1893427200&k=f07ae1d5be12d118d136be90e032bfce        
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hebei-city-cn.png",HEBEI CITY
+http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1893427200&k=49867ab5d80a7564abaf8ee18868992f       
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hebei-tv-series-cn.png",HEBEI TV SERIES
+http://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=1893427200&k=2bbbb53c494c02c044ed8805c541df4e          
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hebei-childrens-science-education-cn.png",HEBEI CHILDREN'S SCIENCE EDUCATION
+http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1893427200&k=d4a455b288ebbc0f53903f4750372b0f           
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hebei-culture-tourism-and-public-cn.png",HEBEI CULTURE AND PUBLIC TOURISM
+http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1893427200&k=0b0e2c7cf0820ad8b22ae063511c4104           
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hebei-best-shopping-cn.png",HEBEI BEST SHOPPING
+http://tv.pull.hebtv.com/jishi/sanjiagouwu.m3u8?t=1893427200&k=6bd4aeba4f185e4918a1408e970f4064
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hebei-tv-cn.png",HEBEI TV 4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -2142,6 +2165,7 @@ https://atemeshield1-voe.sysln.id/live/eds/ShenzenTV/mediampd/ShenzenTV.mpd
 ##http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j521vwkG/ezgif-75b88e25b66e6c50.png",SHENZEN TV 4K
+http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 =================================================================================================================================
 
@@ -2262,8 +2286,9 @@ http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jilin-tv-satellite-cn.png",JILIN TV SATELLITE
-http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+##http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
 ##http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
+https://live-master.jlntv.cn/jlwshd/sd/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqvfYqs5/ezgif-1c4a9adefab6276d.png",JILIN CITY CHANNEL
 http://107.150.60.122/live/jlds.m3u8
@@ -2496,6 +2521,7 @@ http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sansha_tv_cn.png",SANSHA TV
 http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+##http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 
 =================================================================================================================================
 
@@ -2507,7 +2533,22 @@ http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hainan-satellite-tv-cn.png",HAINAN SATELLITE TV
-https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=bee816691773208987
+http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRDhmNHF/ezgif-6d881f9f3dd853dc.png",HAINAN NEWS
+http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vv6YrCqd/ezgif-6e64f639610318eb.png",HAINAN FREE TRADE ZONE
+http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvTLCDtg/ezgif-68d1f9018615f5ba.png",HAINAN SOCIETY AND LAW
+http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPtJTJDP/ezgif-6fb85a60aee37cdd.png",HAINAN CULTURE & TOURISM
+http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MptdtfR9/ezgif-68651a6319c0a992.png",HAINAN CHILDREN
+http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 
 =================================================================================================================================
 
