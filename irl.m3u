@@ -1143,17 +1143,17 @@ http://o11.163189.xyz/stream/live/iqiyi/stream_0.php?u=admin&p=69fe3eb1f0b037bc2
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtMc219C/ezgif-67f748fa720f0124.png",VIU TV
-http://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
+##http://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
 ##http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
 ##http://hls.168.us.kg/u/99/master.m3u8
-##https://cdn10.163189.xyz/stream/163189/viu/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee
+https://cdn10.163189.xyz/stream/163189/viu/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee
 ##https://smt.tzh911.de5.net/viu1_twn/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SFv32nN/ezgif-637e2b371ea7fc4a.png",VIU TV6
-http://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
+##http://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
 ##http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
 ##http://hls.168.us.kg/u/96/master.m3u8
-##https://cdn10.163189.xyz/stream/163189/viu6/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee
+https://cdn10.163189.xyz/stream/163189/viu6/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee
 ##https://smt.tzh911.de5.net/viusix_twn/playlist.m3u8?
 
 =================================================================================================================================
@@ -1161,7 +1161,7 @@ http://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvvPnnyD/ezgif-8e0839300dd19533.png",HOY 76
 ##http://hls.168.us.kg/u/76/master.m3u8
 ##https://tvbjack.946985.filegear-sg.me/ch76/jcakch76.m3u8
-http://pull-vivek.speedws.com/live/aaahoy76.flv
+##http://pull-vivek.speedws.com/live/aaahoy76.flv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4bf5GXn/ezgif-83fc8f707051bd36.png",HOY 77
 ##http://hls.168.us.kg/u/77/master.m3u8
@@ -1171,7 +1171,8 @@ http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjPBsW7/ezgif-85ae654bda7ed08d.png",HOY 78
 ##http://hls.168.us.kg/u/78/master.m3u8
 ##https://tvbjack.946985.filegear-sg.me/ch78/jcakch78.m3u8
-http://pull-vivek.speedws.com/live/aaahoy78.flv
+##http://pull-vivek.speedws.com/live/aaahoy78.flv
+http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xNRMyvW/ezgif-3b456a7a704a1733.png",HOY 707
 http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
@@ -1203,8 +1204,9 @@ http://74.91.26.218:82/live/jade.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGfw5pFg/tvb-hk-pearl.png",TVB PEARL
 ##http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
 ##http://hls.168.us.kg/u/84/master.m3u8
-http://pull-vivek.speedws.com/live/aaamingzhu.flv
+##http://pull-vivek.speedws.com/live/aaamingzhu.flv
 ##http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
+http://mytv.cdn.loc.cc/o12.php?id=mzt
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6ndXFh2/ezgif-76dd7431eaf88f73.png",TVBJ1
 http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
@@ -1244,34 +1246,34 @@ https://6.cdn.loc.cc/163189.php?id=tvbd
 http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqY71R08/ezgif-4320b3d492056d4b.png",MYTV SUPER FREE
-http://pull-vivek.speedws.com/live/aaaSUPERFREE.flv
+##http://pull-vivek.speedws.com/live/aaaSUPERFREE.flv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqY71R08/ezgif-4320b3d492056d4b.png",MYTV SUPER OPERA
-http://pull-vivek.speedws.com/live/aaaxqt.flv
+##http://pull-vivek.speedws.com/live/aaaxqt.flv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqY71R08/ezgif-4320b3d492056d4b.png",MYTV SUPER GOLD AND JADE
-http://pull-vivek.speedws.com/live/aaahjfc.flv
+##http://pull-vivek.speedws.com/live/aaahjfc.flv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqY71R08/ezgif-4320b3d492056d4b.png",MYTV SUPER CHINESE DRAMA
-http://pull-vivek.speedws.com/live/aaahyjt.flv
+##http://pull-vivek.speedws.com/live/aaahyjt.flv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqY71R08/ezgif-4320b3d492056d4b.png",MYTV SUPER ASIA THEATER
-http://pull-vivek.speedws.com/live/aaayzjt.flv
+##http://pull-vivek.speedws.com/live/aaayzjt.flv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1cS8p2H/ezgif-5a0417384e4e475a.png",MYTV SUPER 18
-http://pull-vivek.speedws.com/live/aaapm18.flv
+##http://pull-vivek.speedws.com/live/aaapm18.flv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/659grLzY/ezgif-51b4e30b1a7a642d.png",POPC
-http://pull-vivek.speedws.com/live/aaapopc.flv
-##http://mytvsuper.webn.cc:2052/stream/mytv/popc/master.m3u8?u=yhy&p=447c04d6fbd1b6db532939627946d3ee4532fbe69a842ccfe439df51e0fff326
+##http://pull-vivek.speedws.com/live/aaapopc.flv
+http://mytvsuper.webn.cc:2052/stream/mytv/popc/master.m3u8?u=yhy&p=447c04d6fbd1b6db532939627946d3ee4532fbe69a842ccfe439df51e0fff326
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHLMnBhq/ezgif-3e63888ba1b3e2c6.png",NOW BAOGU
-##http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6vBhkdp/ezgif-34ab600472989885.png",NOW BAOGU SUPERSTAR
-##http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUprjpez8QnvR52--XWU48weWe0I3SmTbrbzekJV6nKQXuFhSMZJXCKkqcgT8VSsSpkJEqCHtVmseSJOblTmm0CQc8dK14Jv-HtuAHiSRX2j-ui-0TyrXUGAonYnIkoTpg8KN7QJCBU5Yk3Ra04uVhpWYxxlwSEhOTR36AQJfcgETeH5KWYFyvA1Qn7_NKyiNzUFFYGlDBCddNHT6P99LoHiU.m3u8?u=1756878715
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUprjpez8QnvR52--XWU48weWe0I3SmTbrbzekJV6nKQXuFhSMZJXCKkqcgT8VSsSpkJEqCHtVmseSJOblTmm0CQc8dK14Jv-HtuAHiSRX2j-ui-0TyrXUGAonYnIkoTpg8KN7QJCBU5Yk3Ra04uVhpWYxxlwSEhOTR36AQJfcgETeH5KWYFyvA1Qn7_NKyiNzUFFYGlDBCddNHT6P99LoHiU.m3u8?u=1756878715
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRynXf4p/ezgif-36d2fa4f7e9a94fe.png",NOW DIRECT
 ##http://hls.168.us.kg/u/331/master.m3u8
@@ -1319,7 +1321,7 @@ https://eventcdn01-nowe.akamaized.net/hls/CH624/index.m3u8
 ##http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
 ##http://204.197.163.125:5050/smart.php?id=meiyamovie_twn&token=smt
 ##http://74.91.26.218:82/live/mydy.m3u8
-http://pull-vivek.speedws.com/live/aaamydy.flv
+##http://pull-vivek.speedws.com/live/aaamydy.flv
 
 =================================================================================================================================
 
@@ -1791,7 +1793,7 @@ https://hls.iill.top/api/Football-Channel/index.m3u8
 ##https://smart.dxjc.pp.ua/smart.php?id=bositennis_twn&token=tmxk
 ##https://smt.tzh911.de5.net/bositennis_twn/playlist.m3u8
 ##http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAK_CuRgoEj1K1TQCMqs1SLUEOuiiEKsfSvTUzPtLpaB5Dxyz7izmSPPIEf-iJz2UJjqCdDC9suIOYevSSKTWICwgWlXd7Itgyc35cuh6sOGl4wmhLC2HrGTymdJa92_H_59ovaKredQFcG-uXpbAgf0gjKPN7bvIY4qeA6IQDedjad_esRLJbQfT0urxje8Nhsw.m3u8?u=1756878715
-####https://tuiliu.goiptv.us.ci/bositennis_twn/playlist.m3u8
+##https://tuiliu.goiptv.us.ci/bositennis_twn/playlist.m3u8
 https://litv.tzh911.qzz.io/litv.php?id=litv-xinchuang09&token=pixman
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HjGTwHkH/ezgif-897dba7ea0abfc0c.png",BOSI UNLIMITED
