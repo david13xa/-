@@ -1179,7 +1179,8 @@ http://o11.163189.xyz/stream/live/iqiyi/stream_0.php?u=admin&p=69fe3eb1f0b037bc2
 ##http://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
 ##http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
 ##http://hls.168.us.kg/u/99/master.m3u8
-https://cdn10.163189.xyz/stream/163189/viu/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee
+##https://cdn10.163189.xyz/stream/163189/viu/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee
+https://cdn10.163189.xyz/stream/163189/viu/stream_0.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
 ##https://smt.tzh911.de5.net/viu1_twn/playlist.m3u8?
 ##http://216.122.186.33:48484/smtFYTV.php?id=viu1_twn
 
@@ -1952,6 +1953,7 @@ https://clawcloud.goiptv.de5.net/litv.php?id=litv-xinchuang09&token=xiatianshigo
 ##https://tuiliu.goiptv.us.ci/bositennis_twn/playlist.m3u8
 ##https://litv.tzh911.qzz.io/litv.php?id=litv-xinchuang09&token=pixman
 ##http://74.91.26.218:82/live/bswq.m3u8
+##http://67.220.71.199:2347/livehttpplay?channel_id=42026
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HjGTwHkH/ezgif-897dba7ea0abfc0c.png",BOSI UNLIMITED
 https://clawcloud.goiptv.de5.net/litv.php?id=litv-xinchuang10&token=xiatianshigou
@@ -2409,7 +2411,7 @@ https://atemeshield1-voe.sysln.id/live/eds/ShenzenTV/mediampd/ShenzenTV.mpd
 ##http://216.122.186.33:48484/smtFYTV.php?id=shenzhen
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j521vwkG/ezgif-75b88e25b66e6c50.png",SHENZEN TV 4K
-http://nn.7x9d.cn/深圳最新.php?id=szws4k
+##http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 =================================================================================================================================
 
@@ -2777,7 +2779,7 @@ https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sansha_tv_cn.png",SANSHA TV
 http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-##http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+####http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 
 =================================================================================================================================
 
@@ -2790,22 +2792,22 @@ http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hainan-satellite-tv-cn.png",HAINAN SATELLITE TV
-http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+##http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRDhmNHF/ezgif-6d881f9f3dd853dc.png",HAINAN NEWS
-http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
+##http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vv6YrCqd/ezgif-6e64f639610318eb.png",HAINAN FREE TRADE ZONE
-http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
+##http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvTLCDtg/ezgif-68d1f9018615f5ba.png",HAINAN SOCIETY AND LAW
-http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
+##http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPtJTJDP/ezgif-6fb85a60aee37cdd.png",HAINAN CULTURE & TOURISM
-http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
+##http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MptdtfR9/ezgif-68651a6319c0a992.png",HAINAN CHILDREN
-http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
+##http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 
 =================================================================================================================================
 
@@ -5392,6 +5394,15 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-3-al.png",SUPERSPORT 3
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-4-al.png",SUPERSPORT 4
+http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/262763
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-5-al.png",SUPERSPORT 5
+http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/262764
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-6-al.png",SUPERSPORT 6
+http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/262765
+
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-4-fotboll-se.png",TV 4 FOTBOLL
@@ -5532,9 +5543,11 @@ https://cdn2.invivo.bg/codehealth_test/tracks-v1a1/mono.m3u8
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYPfqjkv/ezgif-5ba14a0df95652d8.png",KALOOPY TV
-##https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
-##https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/8f00dd6b-9a8e-4614-8537-dd95d5fd7707/0.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/df2e1f8e-4f47-41b0-bd26-626e8a63caf2/2.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.rnd=1775866277546&ads.env_i=web&ads.env_u=web&ads.name=DistroTV&ads.bundle=distro.tv&ads.storeurl=https%253A%252F%252Fdistro.tv%252F&ads.appCategory=&ads.app_version=&ads.width=1920&ads.height=1080&ads.deviceId=9b38c536-0711-455f-a7db-4c425f213a4a&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Linux&ads.deviceIdType=uuid&ads.deviceConnectionType=&ads.deviceCategory=desktop&ads.client_ip=&ads.geo=US&ads.lat=&ads.long=&ads.dma=&ads.geoType=&ads.contentid=22868&ads.content_duration=18000&ads.episode_id=73234&ads.show_id=1093&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CLifestyle%2CSports%2CMusic%2CGaming%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Kaloopy&ads.episodetitle=Kaloopy&ads.keywords=Nascar%2Cmens+lifestyle%2Ccall+of+duty%2Cgaming%2Cfitness%2Ctech%2Cmens+fashion%2Chouse+music%2Cmotorcycles%2Ccars%2Csoccer%2Cmotorsport%2Ctravel%2Cbeach%2Ccalifornia%2Cufc%2Cmilitary%2Csurfing%2Cskating%2Cfashion&ads.contenturl=https%253A%252F%252Fdistro.tv%252F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=WCgGXmRnjhe
+##https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/7357260b-ea71-4f46-a1d5-23036d552697/0.m3u8
+##https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/7357260b-ea71-4f46-a1d5-23036d552697/1.m3u8
+##https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/7357260b-ea71-4f46-a1d5-23036d552697/2.m3u8
 
 =================================================================================================================================
 
@@ -5563,5 +5576,4 @@ http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1375530.m3u8
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/275745.m3u8
 
 =================================================================================================================================
-
 
