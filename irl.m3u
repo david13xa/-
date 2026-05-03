@@ -29,7 +29,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index
 ##KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
 ##https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 ##http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-##http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/162141.ts
+##http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/162141.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-SCTV/playlist.m3u8
 
@@ -43,10 +43,9 @@ http://103.58.160.157:8278/720-SCTV/playlist.m3u8
 ##http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 ##https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/IndosiarFilex.m3u8
 ##http://202.169.224.202:8800/udp/239.9.1.25:1234
-##http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/162138.ts
+##http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/162138.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-##http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
-http://103.148.44.38:8000/play/a05c/index.m3u8
+http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr5QpD3T/ezgif-1-5b5ec93378.png",MOJI
 ##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -56,7 +55,7 @@ http://103.148.44.38:8000/play/a05c/index.m3u8
 ##https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd
 ##http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 ##http://202.169.224.202:8800/udp/239.9.1.32:1234
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/298550.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/298550.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvH2YWxq/ezgif-648bdcd09d3daf.png",SIN PO TV
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
@@ -208,7 +207,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-##http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
+##http://103.58.160.157:8278/720-TVRI/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76YFwv7d/ezgif-313191e0953ad4b2.png",TVRI WORLD
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -219,8 +218,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 ##https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 ##http://202.169.224.202:8800/udp/239.1.2.3:1234
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-##http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
-http://103.148.44.38:8000/play/a05u/index.m3u8
+http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
 
 =================================================================================================================================
 
@@ -4533,50 +4531,50 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-cha
 ===========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgpcMhh5/ezgif-7756803966f786.png",ESPN
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/747.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/747.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvGk0RV/ezgif-77fcf5a0b6df68.png",ESPN 2
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/41918.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/41918.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espnews.png",ESPNEWS
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/2312.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/2312.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_u.png",ESPNU
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/9090.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/9090.ts
 
 ===========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgpcMhh5/ezgif-7756803966f786.png",ESPN
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/295642.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/295642.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvGk0RV/ezgif-77fcf5a0b6df68.png",ESPN 2
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/273212.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/273212.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43dhYV58/espn-3-america-latina-us.png",ESPN 3
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/295641.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/295641.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNtWW5W4/espn-4-america-latina-us.png",ESPN 4
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/298683.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/298683.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/267TC483/ezgif-767bd372c73d1d.png",ESPN 5
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/303970.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/303970.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0qLzdpY/ezgif-751ad2edbfbc3e.png",ESPN 6
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/303971.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/303971.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6pYgtxqm/ezgif-76c650465e751a.png",ESPN 7
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/303972.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/303972.ts
 
 ===========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLK3v5Ym/ezgif-3d877fafbf577153.png",GO3 SPORT 1
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/296866.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/296866.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHqjGQmg/ezgif-3454a6e70dae1f1f.png",GO3 SPORT 2
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/309168.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/309168.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/go-3-sport-3-lv.png",GO3 SPORT 3
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/296868.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/296868.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsPmcMfn/ezgif-3d5b536aeac0ad5a.png",GO3 SPORT 4
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/go-3-sport-open-lv.png",GO3 SPORT OPEN
@@ -4596,12 +4594,12 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 ===========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJTNF83P/sky-sport-f1-de.png",SKY SPORT F1
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/2542.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/2542.ts
 
 ===========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqf9m45r/ezgif-89578ec66e59c541.png",SKY SPORT MOTO GP
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/9880.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/9880.ts
 
 ===========================================================================================================================
 
@@ -4645,25 +4643,25 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 ===========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png",FOX SPORTS 501
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/279034.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/279034.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-league-us-au.png",FOX SPORTS 502
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/81784.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/81784.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-503-us-au.png",FOX SPORTS 503
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/280192.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/280192.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-footy-us-au.png",FOX SPORTS 504
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/280193.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/280193.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-505-us-au.png",FOX SPORTS 505
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/144772.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/144772.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-506-us-au.png",FOX SPORTS 506
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/279033.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/279033.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-507-us-au.png",FOX SPORTS 507
-http://aflaxtv.xyz:8080/live/F36591/3f1a2b5c/280194.ts
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/280194.ts
 
 ===========================================================================================================================
 
@@ -5045,6 +5043,11 @@ https://cdn2.invivo.bg/Codefashion_5500/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g09XVjGv/ezgif-534f08a1b2aea742.png",CODE HEALTH TV
 https://cdn2.invivo.bg/codehealth_test/tracks-v1a1/mono.m3u8
+
+=================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sfYk1cVt/ezgif-1e755faca7f24ad0.png",FASHION CHANNEL
+https://rpn3.bozztv.com/dvrfl07/ushba19/tracks-v1a1/mono.m3u8
 
 =================================================================================================================================
 
