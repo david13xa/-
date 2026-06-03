@@ -201,14 +201,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRH8VGCJ/tvri-id.png",TVRI NASIONAL
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=303eeb13aee345d3b04d6a407b4ff199:cdf924eb0f1b5017ac590f4f70f00a53
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVRINasional/mediampd/TVRINasional.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRH8VGCJ/tvri-id.png",TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRH8VGCJ/tvri-id.png",TVRI NASIONAL
 http://103.148.44.38:8000/play/a03t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76YFwv7d/ezgif-313191e0953ad4b2.png",TVRI WORLD
@@ -218,6 +214,8 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XmPWnXm/ezgif-473fe9d06ac562ff.png",TVRI SPORT
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XmPWnXm/ezgif-473fe9d06ac562ff.png",TVRI SPORT
 http://202.169.224.202:8800/udp/239.1.2.3:1234
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
@@ -578,6 +576,7 @@ http://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVbwkVHm/wowow-plus-jp.png",WOWOW PLUS
 http://akariko.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
 http://184.174.96.206:8080/live/JPAN03882/JPAN03882/33.m3u8
+https://live.livingtv.live/jp33/playlist.m3u8?token=M7VMdfn2WH
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJGN8jgZ/ezgif-47ac5d8b2d5dc88b.png",DISNEY CHANNEL JAPAN
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
@@ -585,6 +584,7 @@ http://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfyZ2dpC/dlife-jp.png",DLIFE
 http://184.174.96.206:8080/live/JPAN03882/JPAN03882/57.m3u8
+https://live.livingjtv.live/jp57/playlist.m3u8?token=M7VMdfn2WH
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",NIHON EIGA SENMON CHANNEL
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
@@ -605,6 +605,7 @@ http://184.174.96.206:8080/live/JPAN03882/JPAN03882/37.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wpgz7p2V/ezgif-1f3bf3577f45e4c3.png",BS YOSHIMOTO
 http://184.174.96.206:8080/live/JPAN03882/JPAN03882/38.m3u8
+https://live.livingtv.live/jp38/playlist.m3u8?token=M7VMdfn2WH
 
 =================================================================================================================================
 
