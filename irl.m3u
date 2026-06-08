@@ -401,6 +401,7 @@ http://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06&isp=5
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=5
 http://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
+http://23.88.76.237:5002/gd06.m3u8?token=guoziyun&gid=gd06&channel=zhongying
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yqQjHVM/bs-asahi.png",BS ASAHI
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=5
@@ -422,6 +423,7 @@ http://akariko.netgenx.site/stream/jp/abc/stream-output.m3u8?mode=hls
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07&isp=5
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=5
 http://akariko.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
+http://23.88.76.237:5002/gd07.m3u8?token=guoziyun&gid=gd07&channel=zhongying
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0THfThG/ezgif-6ff77eec36ed0802.png",BS TELETO
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=5
@@ -1240,6 +1242,20 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-9-my.png",TV 9
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bernama-my.png",BERNAMA TV
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/awesome-tv-my.png",AWESOME TV
+
+=================================================================================================================================
+
+#EXTINF:-1 tvg-logo="rtb", RTB SUKMAINDERA
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="rtb", RTB ANEKA
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="rtb", RTB GO LIVE
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 =================================================================================================================================
 
