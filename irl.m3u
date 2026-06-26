@@ -1299,10 +1299,12 @@ http://o11.163189.xyz/stream/live/iqiyi/stream_0.php?u=admin&p=69fe3eb1f0b037bc2
 ##https://cdn10.163189.xyz/stream/163189/viu/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee
 ##https://cdn10.163189.xyz/stream/163189/viu/stream_0.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
 http://120.234.44.98:18180/TV00000000000000000037@HHZT
+http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SFv32nN/ezgif-637e2b371ea7fc4a.png",VIU TV6
 ##https://cdn10.163189.xyz/stream/163189/viu6/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee
 http://120.234.44.98:18180/TV00000000000000000084@HHZT
+http://push.cdn1.hls123.de:8080/streams/5lthhpr4cx3/index.m3u8
 
 =================================================================================================================================
 
@@ -1547,6 +1549,7 @@ http://211.72.174.95:8115/0.ts
 ##https://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv003&token=xiatianshigou
 ##https://iptv.852851.xyz/ch/7e8d37126af8220458bc8254e3281cc6/master.m3u8
 ##https://cdn.19891230.eu.org/4gtv/4gtv-4gtv003/index.m3u8
+https://4gtv.158.qzz.io/163189/4e693d45-7ab4-4894-a983-fb494ad9a0f7/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gk7gKvHV/ezgif-747ca6205b3ecc84.png",FTV VARIETY
 ##http://pull-vivek.speedws.com/live/BxUeHwwPYRIqqXXJgXWP1gjAmfzcnR7j1Esvo9FdVssKd8VgDS.flv?
@@ -2319,6 +2322,7 @@ https://cdn.19891230.eu.org/api/VL-E/index.m3u8
 http://cdn6.163189.xyz/163189/asam
 http://v2h.veryfast.filegear-sg.me/live/asam/stream.m3u8
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-macau-mo.png",CANAL MACAU
 https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
@@ -2355,13 +2359,16 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 ##https://op-group1-swiftservehd-1.dens.tv/s/s23/index.m3u8
 ##http://120.234.44.98:18180/TV00000000000000000009@HHZT
+http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMPLXNdT/phoenix-cn.png",PHOENIX CHINESE
 ##http://120.234.44.98:18180/TV00000000000000000008@HHZT
 ##https://cdn6.163189.xyz/163189/fhzw
+http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMLcWjH/phoenix-hong-kong-hk.png",PHOENIX HONGKONG
 ##http://120.234.44.98:18180/TV00000000000000000024@HHZT
+http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzQC6Gp5/ezgif-4a9ea676d769d064.png",PHOENIX AMERICA
 ##https://3ea9e6-31f5e6.kylintv.tv/live/pxnaus_iphone.m3u8
