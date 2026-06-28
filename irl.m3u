@@ -317,302 +317,303 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/in
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQnfsW8/ezgif-79a2f2e1a4a32c79.png",NHK G TOKYO
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01&isp=5
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=5
-http://akariko.netgenx.site/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQnfsW8/ezgif-79a2f2e1a4a32c79.png",NHK G OSAKA
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=5
-http://akariko.netgenx.site/stream/jp/nhk_g_osaka/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/nhk_g_osaka/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2ykxm6V1/ezgif-76aeb4fd67c72afb.png",NHK E
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02&isp=5
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=5
-http://akariko.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zndfq5Sq/ezgif-2282a30d11c88934.png",NHK BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=5
-http://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
-http://akariko.netgenx.site/stream/jp/nhk_bs_%28subch%29/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/nhk_bs_%28subch%29/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKNrXNwF/ezgif-25279f6db83a01c0.png",NHK BSP4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=5
-http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdfcv7qt/nippon-tv-jp.png",NITTELE
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03&isp=5
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=5
-http://akariko.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvMW4CdB/bs-nippon-tv-jp.png",BS NITTELE
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=5
-http://akariko.netgenx.site/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13GDSXR6/ntv-g-plus-jp.png",NITTELE G+
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=5
-http://akariko.netgenx.site/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs02
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTHZKsTR/nittele-plus-jp.png",NITTELE PLUS
-http://akariko.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJxkg57r/ezgif-22c5537b857750d9.png",NTV NEWS24
-http://akariko.netgenx.site/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2kHNSzM/ezgif-3-859b6fe546.png",TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04&isp=5
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=5
-http://akariko.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvX2F0Nk/bs-tbs-jp.png",BS-TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=5
-http://akariko.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0X1yVCR/tbs-channel-1-jp.png",TBS CHANNEL 1
-http://akariko.netgenx.site/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJQfN6LP/tbs-channel-2-jp.png",TBS CHANNEL 2
-http://akariko.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGGYgMzh/ezgif-7e51f7310c043ec9.png",TBS NEWS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=5
-http://akariko.netgenx.site/stream/jp/tbs_news/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/tbs_news/stream-output.m3u8?mode=hls
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6pbXmC3z/ezgif-6-c4c62c66d9.png",FUJI TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05&isp=5
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=5
-http://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGk54F17/bs-fuji.png",BS FUJI
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=5
-http://akariko.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rF34050d/fuji-tv-one.png",FUJI TV ONE
-http://akariko.netgenx.site/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRbvtcgw/fuji-tv-two.png",FUJI TV TWO
-http://akariko.netgenx.site/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Ncn9HJd/fuji-tv-next.png",FUJI TV NEXT
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=5
-http://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFpj0gs/tv-asahi-jp.png",TV ASAHI
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06&isp=5
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=5
-http://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 http://23.88.76.237:5002/gd06.m3u8?token=guoziyun&gid=gd06&channel=zhongying
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yqQjHVM/bs-asahi.png",BS ASAHI
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=5
-http://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xjgw0JP/tv-asahi-channel-1-jp.png",TELASA CH.1
-http://akariko.netgenx.site/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw1mQkjF/tv-asahi-channel-2-jp.png",TELASA CH.2
-http://akariko.netgenx.site/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sg8mZTqz/ezgif-2-840ac6172c.png",6ABC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=5
-http://akariko.netgenx.site/stream/jp/abc/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/abc/stream-output.m3u8?mode=hls
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH3F45WM/ezgif-6-b8cd08b927.png",TELETO
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07&isp=5
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=5
-http://akariko.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 http://23.88.76.237:5002/gd07.m3u8?token=guoziyun&gid=gd07&channel=zhongying
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0THfThG/ezgif-6ff77eec36ed0802.png",BS TELETO
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=5
-http://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4606CLP/ezgif-2fea9ec99d303c17.png",BS TELETO 4K
-http://akariko.netgenx.site/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8V9TZLv/ezgif-4abbde9fad9f9.png",TOKYO MX
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08&isp=5
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=5
-http://akariko.netgenx.site/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXZLH6rf/ezgif-70dfb601af598fd6.png",TOKYO MX 2
-http://akariko.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkcDnSTj/ezgif-7fc96b4061b8c5d9.png",MBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=5
-http://akariko.netgenx.site/stream/jp/mbs/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/mbs/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLS20QcF/ezgif-75c482e2da9c1c5c.png",8KANTELE
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=5
-http://akariko.netgenx.site/stream/jp/kansai_tv/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/kansai_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vshqkfn0/ezgif-77036a7467d88760.png",YTV°
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=5
-http://akariko.netgenx.site/stream/jp/ytv/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/ytv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qB6tQ86c/ezgif-77682f0458cf47a0.png",TVO 7
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=5
-http://akariko.netgenx.site/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvN1CZRg/ezgif-7fef4d2c3401d6ed.png",KBS KYOTO
-http://akariko.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2Sq33Gnn/ezgif-2-ff3bb0b118.png",SUN
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=5
-http://akariko.netgenx.site/stream/jp/sun/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/sun/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNWcm7sT/at-x-anime-theater.png",AT*X
-http://akariko.netgenx.site/stream/jp/at-x/stream-output.m3u8?mode=hls
-http://184.174.96.206:8080/live/JPAN03882/JPAN03882/83.m3u8
+##http://akariko.netgenx.site/stream/jp/at-x/stream-output.m3u8?mode=hls
+##http://184.174.96.206:8080/live/JPAN03882/JPAN03882/83.m3u8
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJq8jMV3/j-sports-1-jp.png",J SPORTS 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=5
-http://akariko.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt2C4DCB/j-sports-2-jp.png",J SPORTS 2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=5
-http://akariko.netgenx.site/stream/jp/jsport_2/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/jsport_2/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVWm9wGB/j-sports-3-jp.png",J SPORTS 3
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=5
-http://akariko.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwbjS8KW/j-sports-4-jp.png",J SPORTS 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=5
-http://akariko.netgenx.site/stream/jp/jsport_4/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/jsport_4/stream-output.m3u8?mode=hls
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hj4FYmfF/golf-network-jp.png",GOLF NETWORK
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=5
-http://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYbg1DHs/ezgif-7bc79c4b91703ea2.png",GREEN CHANNEL
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=5
-http://akariko.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1hzdXVs/sky-a-jp.png",SKY A
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=5
-http://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qB5fmz0k/gaora-sportspng-jp.png",GAORA SPORTS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=5
-http://akariko.netgenx.site/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbZ13d7L/fighting-tv-samurai-jp.png",FIGHTING TV SAMURAI!
-http://akariko.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5WQwnLy/sports-live-plus-jp.png",SPORT LIVE +
-http://akariko.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/14hJkxJK/channel-neco-jp.png",CHANNEL NECO
-https://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+##https://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmrtsrvd/pigoo-jp.png",IDOL SENMON CHANNEL PIGOO
-http://akariko.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncqJCn8T/v-paradise-jp.png",V PARADISE
-http://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
 
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wxtcnWDm/ezgif-23f83b6be7527894.png",BS 10
-http://akariko.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNNJgHbB/ezgif-8b5f8bb2b64042d5.png",BS10 PREMIUM
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=5
-http://akariko.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwJ2Ngwb/bs-11-jp.png",BS11
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=5
-http://akariko.netgenx.site/stream/jp/bs11/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/bs11/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/021ggh6G/bs-12-jp.png",BS 12
-http://akariko.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk3Fyx6S/mei-tele-next-jp.png",ME~TELE NEXT
-http://akariko.netgenx.site/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
-http://184.174.96.206:8080/live/JPAN03882/JPAN03882/86.m3u8
+##http://akariko.netgenx.site/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
+##http://184.174.96.206:8080/live/JPAN03882/JPAN03882/86.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4VjTLvw/ezgif-4de86442bd9f7adb.png",DANCE CHANNEL BY ENTERME~TELE
-http://akariko.netgenx.site/stream/jp/dance_channel/stream-output.m3u8?mode=hls
-http://184.174.96.206:8080/live/JPAN03882/JPAN03882/85.m3u8
+##http://akariko.netgenx.site/stream/jp/dance_channel/stream-output.m3u8?mode=hls
+##http://184.174.96.206:8080/live/JPAN03882/JPAN03882/85.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wxmyznMh/ezgif-25ad72bb90dd1ed0.png",ACTION CHANNEL
-http://akariko.netgenx.site/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls
-http://184.174.96.206:8080/live/JPAN03882/JPAN03882/59.m3u8
+##http://akariko.netgenx.site/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls
+##http://184.174.96.206:8080/live/JPAN03882/JPAN03882/59.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjSY4v4F/ezgif-2b30c781cd1bdc90.png",MYSTERY CHANNEL
-http://akariko.netgenx.site/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
-http://184.174.96.206:8080/live/JPAN03882/JPAN03882/60.m3u8
+##http://akariko.netgenx.site/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
+##http://184.174.96.206:8080/live/JPAN03882/JPAN03882/60.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2c3cD7W/animax-jp.png",ANIMAX JAPAN
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=5
-http://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NTtDrZ1/ezgif-19eba1f4bd3d1f42.png",ANIMAX FREE
-https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW CINEMA
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-http://akariko.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=5
+##http://akariko.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW PRIME
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
-http://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=5
+##http://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW LIVE
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-http://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=5
+##http://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVbwkVHm/wowow-plus-jp.png",WOWOW PLUS
-http://akariko.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
-http://184.174.96.206:8080/live/JPAN03882/JPAN03882/33.m3u8
-https://live.livingtv.live/jp33/playlist.m3u8?token=M7VMdfn2WH
+##http://akariko.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
+##http://184.174.96.206:8080/live/JPAN03882/JPAN03882/33.m3u8
+##https://live.livingtv.live/jp33/playlist.m3u8?token=M7VMdfn2WH
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJGN8jgZ/ezgif-47ac5d8b2d5dc88b.png",DISNEY CHANNEL JAPAN
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-http://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=5
+##http://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfyZ2dpC/dlife-jp.png",DLIFE
-http://184.174.96.206:8080/live/JPAN03882/JPAN03882/57.m3u8
-https://live.livingjtv.live/jp57/playlist.m3u8?token=M7VMdfn2WH
+##http://184.174.96.206:8080/live/JPAN03882/JPAN03882/57.m3u8
+##https://live.livingjtv.live/jp57/playlist.m3u8?token=M7VMdfn2WH
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",NIHON EIGA SENMON CHANNEL
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
-http://akariko.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=5
+##http://akariko.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VN0bt3DL/ezgif-1a398781041eced8.png",TSURI VISION
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
-http://akariko.netgenx.site/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=5
+##http://akariko.netgenx.site/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tqqg6pz/ezgif-72b1bcb6a63b6698.png",SPACE SHOWER TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
-http://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=5
+##http://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtGy4Q8/ezgif-66f3ede521dabf8d.png",J:COM BS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
-http://akariko.netgenx.site/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
-http://184.174.96.206:8080/live/JPAN03882/JPAN03882/37.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=5
+##http://akariko.netgenx.site/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
+##http://184.174.96.206:8080/live/JPAN03882/JPAN03882/37.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wpgz7p2V/ezgif-1f3bf3577f45e4c3.png",BS YOSHIMOTO
-http://184.174.96.206:8080/live/JPAN03882/JPAN03882/38.m3u8
-https://live.livingtv.live/jp38/playlist.m3u8?token=M7VMdfn2WH
+##http://184.174.96.206:8080/live/JPAN03882/JPAN03882/38.m3u8
+##https://live.livingtv.live/jp38/playlist.m3u8?token=M7VMdfn2WH
 
 =================================================================================================================================
 
@@ -626,171 +627,171 @@ https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
 https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png",JIDAIGEKI SENMON CHANNEL
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
-http://akariko.netgenx.site/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=5
+##http://akariko.netgenx.site/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4jXtcyv/ezgif-13bc425f8bb1e4e2.png",JIDAIGEKI TV
-https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",HOME DRAMA CHANNEL
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
-http://akariko.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=5
+##http://akariko.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png",MUSIC JAPAN
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-http://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=5
+##http://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhhyRd9W/kidsstation.png",KIDS STATION
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-http://akariko.netgenx.site/stream/jp/kids_station_tv/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=5
+##http://akariko.netgenx.site/stream/jp/kids_station_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT9DhXsQ/discovery-channel-east-us.png",DISCOVERY JAPAN
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
-http://akariko.netgenx.site/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=5
+##http://akariko.netgenx.site/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1N605xJ/ezgif-8555b7b37bf77e14.png",HISTORY JAPAN
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
-http://akariko.netgenx.site/stream/jp/history/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=5
+##http://akariko.netgenx.site/stream/jp/history/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvGZSh7s/ezgif-2dcbfe21e36f2e9c.png",NATIONAL GEOGRAPHIC JAPAN
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
-http://akariko.netgenx.site/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=5
+##http://akariko.netgenx.site/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLxtKmGw/tabi-channel.png",TABI CHANNEL
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
-http://akariko.netgenx.site/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=5
+##http://akariko.netgenx.site/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zf2B0qG4/kbs-world-jp.png",KBS WORLD JAPAN
-http://akariko.netgenx.site/stream/jp/kbs_world/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/kbs_world/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vk4KzJvh/ezgif-2076f155ab8be857.png",KNTV
-http://akariko.netgenx.site/stream/jp/kntv/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/kntv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdYj8gtp/m-net-jp.png",MNET JAPAN
-http://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65m2rztL/kayo-pops-jp.png",KAYO POPS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
-http://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=5
+##http://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZz9YkCp/movie-plus-jp.png",MOVIE PLUS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-http://akariko.netgenx.site/stream/jp/movie_plus/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=5
+##http://akariko.netgenx.site/stream/jp/movie_plus/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjxcK4BL/ezgif-10ac70a3f04a76f8.png",BBC JAPAN
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-http://akariko.netgenx.site/stream/jp/bbc_news/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=5
+##http://akariko.netgenx.site/stream/jp/bbc_news/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydr5G30F/cnn-j-us-jp.png",CNN J
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-http://akariko.netgenx.site/stream/jp/cnnj/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=5
+##http://akariko.netgenx.site/stream/jp/cnnj/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dw13nxbf/ezgif-116532a95cd5d013.png",MTV JAPAN
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-http://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=5
+##http://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNN9RGp/ezgif-77b4010a614c76fe.png",JOSEI CHANNEL LALA TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
-http://akariko.netgenx.site/stream/jp/lala_tv/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=5
+##http://akariko.netgenx.site/stream/jp/lala_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",FAMILY GEKIJYO
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
-http://akariko.netgenx.site/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=5
+##http://akariko.netgenx.site/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0XLc5SD/mondo-tv-jp.png",MONDO TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
-http://akariko.netgenx.site/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=5
+##http://akariko.netgenx.site/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eisei_gekijo.png",EISEI GEKIJO
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
-http://akariko.netgenx.site/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=5
+##http://akariko.netgenx.site/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYF3G1C8/ezgif-25b44273c3da45fc.png",DISNEY JR. JAPAN
-http://akariko.netgenx.site/stream/jp/disney_junior/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/disney_junior/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4Y17Nfh/ezgif-2-1b576c2a7f.png",ANIMAL PLANET JAPAN
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
-http://akariko.netgenx.site/stream/jp/animal_planet/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=5
+##http://akariko.netgenx.site/stream/jp/animal_planet/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0ft8QZm/ezgif-7fcea27e75a5aab2.png",CARTOON NETWORK JAPAN
-http://akariko.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",TOEI CH.
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-http://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=5
+##http://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wq829tF/takarazuka-sky-stage.png",TAKARAZUKA SKY STAGE
-http://akariko.netgenx.site/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",CHANNEL GINGA
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
-http://akariko.netgenx.site/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=5
+##http://akariko.netgenx.site/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90MWNR45/ezgif-25d2b32d74936b1c.png",SUPER! DRAMA TV
-http://akariko.netgenx.site/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3jcN99Z/music-on-tv.png",MUSIC ON! TV
-http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t478Fbwc/igoshogi.png",IGO SHOGI CHANNEL
-http://akariko.netgenx.site/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8D5cx7F/ezgif-1f4cf32f6c33ce69.png",IGO SHOGI LITE
-https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QvtX1XS/tetsudo-channel-jp.png",TETSUDO CHANNEL
-http://akariko.netgenx.site/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDgLRyj9/the-cinema-jp.png",THE CINEMA
-http://akariko.netgenx.site/stream/jp/the_cinema/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/the_cinema/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp1xqbQH/ezgif-2fe1eff0726c7447.png",WNI WEATHER NEWS
-http://akariko.netgenx.site/stream/jp/weather_news/stream-output.m3u8?mode=hls
+##http://akariko.netgenx.site/stream/jp/weather_news/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D037JGHv/ezgif-1248da812f0cd6a1.png",LEMINO TV
-https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTbbwzxB/ezgif-11babc0077f92c91.png",ENTAME ASIA FREE
-https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4srrFR8/ezgif-13a60b80298c0555.png",BUSINESS PREMIUM CHANNEL
-https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gc3ZMHYK/ezgif-13b5ea35038adb73.png",ORICON NEWS
-https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZRyB5Ry/ezgif-169ad8e8e661c5a9.png",MARUGOTO KYUSHU CH
-https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6625pW72/ezgif-1a1b65b9765ad619.png",MARUGOTO HOKKAIDO CH
-https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgM0Ds17/ezgif-1f24effd07083675.png",PIA RAKUGO ZANMAI
-https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB0pxPcH/ezgif-112daa1bfbaf5e49.png",F+
-https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvbFw5jg/ezgif-103574073560c1fd.png",TOKAI ROKIPO CH
-https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5t3C4xR7/ezgif-1598bb4387d83820.png",PETTO TV
-https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TY3L0Mhg/ezgif-12fd6ddd8c230c44.png",CAMP OUTDOOR POWERED BY HAPPYCAN
-https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8S8Mhh0/ezgif-117c694bf1527719.png",KYO NO GOHAN NANI?
-https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqXtMDJJ/ezgif-16eb24c084e8bfeb.png",MIRU TABI
-https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjqVZvSY/ezgif-1180ae2c9464dd78.png",GOLF LIFE
-https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pr7G7Yfr/ezgif-152b21f3c285acf0.png",HANRYU CHANNEL
-https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
+##https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
 
 =================================================================================================================================
 
@@ -1419,44 +1420,44 @@ http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZTZZWzM/ezgif-323f9bf64bc7ba67.png",NOW BUSINESS NEWS
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0YxcDGD/ezgif-17c5fae097935c79.png",NOW SPORTS 1
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B21&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQzJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPUtBTkFlZWN4Y3o=
-http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748430.m3u8
+##https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B21&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQzJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPUtBTkFlZWN4Y3o=
+##http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748430.m3u8
 ##https://iptv.852851.xyz/ch/cb54507de44f69262ecc8913ed958294/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/44bVTzMv/ezgif-4e06e993537d0f88.png",NOW SPORTS 2
-http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748431.m3u8
+##http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748431.m3u8
 ##https://iptv.852851.xyz/ch/f62fe735f8cb6871fe11b6da65ef1704/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hs14MDWX/ezgif-5ba5db18b89aaf87.png",NOW SPORTS 3
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B23&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPTV1aUtDR1ROQ0Y=
-http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748432.m3u8
+##https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B23&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPTV1aUtDR1ROQ0Y=
+##http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748432.m3u8
 ##https://iptv.852851.xyz/ch/7d47f9714dbb7aa678b76b7d0b83e447/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGL1Kgr3/ezgif-563c0dc758913ed5.png",NOW SPORTS 4
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B24&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWVvZVlkanJrVWc=
-http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748433.m3u8
+##https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B24&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWVvZVlkanJrVWc=
+##http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748433.m3u8
 ##https://iptv.852851.xyz/ch/0d49608b8cf594236940c258638e6839/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h4rhNbLg/ezgif-5ae908f3d7dae30f.png",NOW SPORTS 5
-http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748434.m3u8
+##http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748434.m3u8
 ##https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B25&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM5JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWx1ME5PZnRHZ2c=
 ##https://iptv.852851.xyz/ch/e164c9692d4064f1ddedc3d0c122b392/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMfqM22R/ezgif-5241e05c8c2fce60.png",NOW SPORTS 6
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B26&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM4JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdRNHBpNURUeTM=
+##https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B26&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM4JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdRNHBpNURUeTM=
 ##https://iptv.852851.xyz/ch/e7d67f8f528630b00389ce5d4a65a9ab/master.m3u8
-##http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748435.m3u8
+####http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748435.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKnxtytm/ezgif-54f8afb88189cdfc.png",NOW SPORTS 7
-http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748436.m3u8
+##http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748436.m3u8
 ##https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B27&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM3JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPXJSbWhlMVRzWDc=
 ##https://iptv.852851.xyz/ch/951ec11f555e9289166e1e06d1c53ffc/master.m3u8
 ##http://110.235.59.30:7169/0.ts
 ##http://shatian.7766.org:7169/0.ts
-##http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748437.m3u8
+####http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748437.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZRFn6n1/ezgif-2f46fadfa12b4898.png",NOW SPORTS PRIME
-https://cdn.19891230.eu.org/hk/now-630/index.m3u8
+##https://cdn.19891230.eu.org/hk/now-630/index.m3u8
 ##http://42.98.241.116:9241/0.ts
 ##http://shangshui2.7766.org:9241/0.ts
 
@@ -1549,7 +1550,7 @@ http://211.72.174.95:8115/0.ts
 ##https://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv003&token=xiatianshigou
 ##https://iptv.852851.xyz/ch/7e8d37126af8220458bc8254e3281cc6/master.m3u8
 ##https://cdn.19891230.eu.org/4gtv/4gtv-4gtv003/index.m3u8
-https://4gtv.158.qzz.io/163189/4e693d45-7ab4-4894-a983-fb494ad9a0f7/
+https://4gtv.158.qzz.io/163189/4e693d45-7ab4-4894-a983-fb494ad9a0f7/video/index.php?u=admin&p=c3d37d1929f8dba1644c20f382f4fd943e7f8afcd3dfb92e38bec400c397f3d7
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gk7gKvHV/ezgif-747ca6205b3ecc84.png",FTV VARIETY
 ##http://pull-vivek.speedws.com/live/BxUeHwwPYRIqqXXJgXWP1gjAmfzcnR7j1Esvo9FdVssKd8VgDS.flv?
@@ -1714,6 +1715,7 @@ http://nmk.ioapk.com:5050/of-4gtv-4gtv052/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0N4Dh1j/ezgif-4138a339c63ae37c.png",CTS EDUCATION SPORTS & CULTURE
 ##http://74.91.26.218:82/live/ctsjy.m3u8
+http://220.135.241.47:8318/0.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/congress_channel_tw_1.png",CONGRESS CHANNEL 1
 ##https://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv084&token=xiatianshigou
@@ -1729,9 +1731,8 @@ http://nmk.ioapk.com:5050/of-4gtv-4gtv052/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq1GfrVD/ezgif-60e86513438feff2.png",PTS
 ##http://74.91.26.218:82/live/pts.m3u8
-http://211.72.174.95:8116/0.ts
+##http://211.72.174.95:8116/0.ts
 http://220.135.241.47:8305/0.ts
-http://220.135.241.47:8318/0.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5qJMmLt/ezgif-6ca3d1ee6474e3a3.png",PTS DRAMA
 ##https://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv042&token=xiatianshigou
@@ -1938,7 +1939,7 @@ http://nmk.ioapk.com:5050/4gtv-live120/index.m3u8
 https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
 https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8?0
 ##https://iptv.852851.xyz/ch/a1e1f83bd470bec31e1540093438a5c7/master.m3u8
-https://live.666666.zip/stream/16697898.m3u8
+##https://live.666666.zip/stream/16697898.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5RTyt7r/ezgif-8739420ec07149a5.png",ELTA SPORT 2
 ##http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport2_twn
@@ -1949,7 +1950,7 @@ https://live.666666.zip/stream/16697898.m3u8
 ##http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakeoYbDa6YZg-u47U6PhP5DZDJlUneMuOwRC3h5idOWdj_Ny25T7d4wMr5fziLsOD6XXT-oUNWhwoH4RG1NNB5fVfEtrENxQLrVzpdhIVXRVF8HKsB9oRlNdivgx1RwAjrpr62fIFBt1i1Czn7cEY6HMUqD6HCE0PS2FaKfJtY2Dlnntgigm1VGesLu8-5qxq9LNFJP_GDyjXOBG2VdISah4.m3u8?u=1756878715
 ##https://rd1.smt123.cc.cd/smtrust.php?path=/smt/1541
 ##https://iptv.852851.xyz/ch/667741f228996f28da24100c4dc78630/master.m3u8
-https://live.666666.zip/stream/28361755.m3u8
+##https://live.666666.zip/stream/28361755.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZQ99Fxp/ezgif-8f9dbedb092ff151.png",ELTA SPORT 3
 ##http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport3_twn
@@ -2334,7 +2335,7 @@ https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfmkH2Cs/tdm-sport-mo.png",TDM SPORT
 http://cdn6.163189.xyz/163189/amty
 https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-##https://live.666666.zip/stream/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
+####https://live.666666.zip/stream/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tdm-information-mo.png",TDM INFORMATION
 https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
@@ -2693,7 +2694,7 @@ http://107.150.60.122/live/gdzj.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/guangdong-sports-cn.png",GUANGDONG SPORTS
 http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
 http://107.150.60.122/live/gdty.m3u8
-https://live.666666.zip/stream/90149826.m3u8
+##https://live.666666.zip/stream/90149826.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/guangdong-news-cn.png",GUANGDONG NEWS
 http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
@@ -3036,7 +3037,7 @@ http://173.208.212.130:8181/720p/cwjd.m3u8
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y7h9k6d/ezgif-1bc8e875ac96e3e6.png",XIAOHONGSHU
-https://live.666666.zip/stream/22539477.m3u8
+##https://live.666666.zip/stream/22539477.m3u8
 
 =================================================================================================================================
 
@@ -3094,7 +3095,7 @@ http://69.30.245.50/live/cctv5.m3u8
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5md
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
 http://173.208.212.130:8181/720p/cctv5.m3u8
-https://live.666666.zip/stream/20233432.m3u8
+##https://live.666666.zip/stream/20233432.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-plus-cn.png",CCTV 5+
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
@@ -3191,10 +3192,10 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 http://173.208.212.130:8181/720p/cctv17.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hs2DdZP9/ezgif-1dbd359f705f04de.png",CCTV MIGU
-https://live.666666.zip/stream/80427327.m3u8
-https://live.666666.zip/live/4460912.m3u8
-https://live.666666.zip/stream/83083629.m3u8
-https://live.666666.zip/live/4460946.m3u8
+##https://live.666666.zip/stream/80427327.m3u8
+##https://live.666666.zip/live/4460912.m3u8
+##https://live.666666.zip/stream/83083629.m3u8
+##https://live.666666.zip/live/4460946.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-weapon-technology-channel-cn.png",CCTV WEAPON TECHNOLOGY CHANNEL
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
@@ -4470,14 +4471,14 @@ http://premiumtvs.space/live/jen12345/Jen54321/89.ts
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+##https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLZ0JS1c/ezgif-4d519f592955cc54.png",FANCODE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+##https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLZ0JS1c/ezgif-4d519f592955cc54.png",FANCODE
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4491,7 +4492,7 @@ https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+##https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 =================================================================================================================================
 
@@ -4804,10 +4805,10 @@ https://yyi7tewa2x.3ppnkog.com/xstream/monomax-4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
 https://live.livedoomovies.com:4433/api/hls/live/82290/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gm50P82d/ezgif-735cb7498f822a39.png",MONOMAX 1 PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28D0GWcL/ezgif-81f75a11dc7f5de1.png",MONOMAX 1 PREMIER LEAGUE
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776175.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L69GrBYC/ezgif-760800d70bbaf49c.png",MONOMAX 2 PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28D0GWcL/ezgif-81f75a11dc7f5de1.png",MONOMAX 2 PREMIER LEAGUE
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776176.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRzMGmfW/ezgif-3a9856d7913fb20b.png",A'LURE CHANNEL
@@ -4857,10 +4858,10 @@ http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776009.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65kzcHY3/ezgif-375e544a778439e1.png",PPTV HD 36
 #EXTVLCOPT:http-referrer=https://lb-gmmz.sky-cdn.com/
-https://lb-gmmz.sky-cdn.com/gmm/pptv.m3u8
+##https://lb-gmmz.sky-cdn.com/gmm/pptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65kzcHY3/ezgif-375e544a778439e1.png",PPTV HD 36
-http://line.ottcst.com/live/LiU7iuz1IqYHfcn/R54SY3EJAD/8939.ts
+##http://line.ottcst.com/live/LiU7iuz1IqYHfcn/R54SY3EJAD/8939.ts
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776142.m3u8
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776141.m3u8
 
@@ -5236,7 +5237,8 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNKgprX1/ezgif-113d936e62637be3.png",MOTO GP CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-##https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
 
 ===========================================================================================================================
 
