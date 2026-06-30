@@ -1346,6 +1346,7 @@ http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
 http://120.234.44.98:18180/TV00000000000000000032@HHZT
 http://124.244.129.167:9004/0.ts
 http://qingyi.7766.org:9004/0.ts
+http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxZrzHxL/tvb-hk-jade.png",TVB JADE HUB
 http://o11.163189.xyz/stream/live/jade/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee
@@ -1356,6 +1357,7 @@ http://o11.163189.xyz/stream/live/hlt/stream_0.php?u=admin&p=69fe3eb1f0b037bc247
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGfw5pFg/tvb-hk-pearl.png",TVB PEARL
 http://mytv.cdn.loc.cc/o12.php?id=mzt
 http://120.234.44.98:18180/TV00000000000000000035@HHZT
+http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6ndXFh2/ezgif-76dd7431eaf88f73.png",TVBJ1
 https://6.cdn.loc.cc/163189.php?id=j1
@@ -1363,14 +1365,17 @@ https://6.cdn.loc.cc/163189.php?id=j1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0d4TDRM/ezgif-452b2f59995a9b4b.png",TVB PLUS
 https://o11.163189.xyz/stream/tvb/tvbp/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee
 https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3C0Tzs2/ezgif-3c9fcbf07f3e8e5a.png",TVB WIRELESS NEWS
 https://6.cdn.loc.cc/163189.php?id=wxxw
 http://120.234.44.98:18180/TV00000000000000000034@HHZT
+http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJb6wK3P/tvb-xing-he-hk.png",TVB XING HE
 https://o11.163189.xyz/stream/live/tvbxh/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee
 https://6.cdn.loc.cc/163189.php?id=tvbxh
+http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nr7R42PB/tvb-hk-entertainment-news.png",TVB ENTERTAINMENT NEWS
 http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
@@ -1396,6 +1401,8 @@ http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/659grLzY/ezgif-51b4e30b1a7a642d.png",POPC
 ##https://iptv.852851.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
+http://49.232.143.177:80/pyxg/export.php?id=20&key=****
+http://b.xszhibo.dingtoo.com/live/QbJndybWSF2Sl0P0YEeRby54J2PE4UzoUypYyJWmq3XcHTDOPoLx8TuS91JEy.flv
 
 =================================================================================================================================
 
@@ -1447,7 +1454,7 @@ http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMfqM22R/ezgif-5241e05c8c2fce60.png",NOW SPORTS 6
 ##https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B26&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM4JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdRNHBpNURUeTM=
 ##https://iptv.852851.xyz/ch/e7d67f8f528630b00389ce5d4a65a9ab/master.m3u8
-####http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748435.m3u8
+##http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748435.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKnxtytm/ezgif-54f8afb88189cdfc.png",NOW SPORTS 7
 ##http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748436.m3u8
@@ -1455,7 +1462,7 @@ http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 ##https://iptv.852851.xyz/ch/951ec11f555e9289166e1e06d1c53ffc/master.m3u8
 ##http://110.235.59.30:7169/0.ts
 ##http://shatian.7766.org:7169/0.ts
-####http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748437.m3u8
+##http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748437.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZRFn6n1/ezgif-2f46fadfa12b4898.png",NOW SPORTS PRIME
 ##https://cdn.19891230.eu.org/hk/now-630/index.m3u8
@@ -1502,6 +1509,8 @@ https://iptv.852851.xyz/l/hNBLNdupTwss-BfaqmP4VUQJ_gwjlZRBFHiZA8evwmpkDpqvJ33uHP
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMHrK3CB/ezgif-642c63ab1d3bb222.png",MEI AH MOVIE
 ##https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 ##https://iptv.707626.xyz/ch/a4b55ca9ac177e194e6df0d37b500a3c/master.m3u8
+http://49.232.143.177:80/pyxg/export.php?id=19&key=****
+http://b.xszhibo.dingtoo.com/live/f1R0GCAGu3pZPWnXiJuIl0LOs4ZVhKUHOmjmDwbsnHSDMa0GP575WliyJK.flv
 
 =================================================================================================================================
 
@@ -4674,11 +4683,10 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Pjvtrvk/ezgif-7c1d5afa62dee7c2.png",WORLD CUP TV ALEPH ARENA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
-##https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
 =================================================================================================================================
 
@@ -4979,6 +4987,15 @@ http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 http://pk79.io.vn/tv360/play.php?id=169
 
 =================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-mn.png",MNB
+https://cdn3.skygo.mn/live/disk1/MNB/HLSv3-FTA/MNB.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-mongolyn-medee-mn.png",MNB MONGOLYN MEDEE
+https://cdn3.skygo.mn/live/disk1/MNB2/HLSv3-FTA/MNB2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-sport-mn.png",MNB SPORT
+https://cdn3.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QcgzPKn/ezgif-325996fc34707594.png",PSN 1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhd2zyvg/ezgif-391a9fc6ae6e14ee.png",PSN 2
@@ -5875,7 +5892,7 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
 =================================================================================================================================
 
-#EXTINF:-1 tvg-logo="hhhhh",INULTRA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66Ht2BZX/ezgif-210b52361005fd07.png",INULTRA
 http://nmk.ioapk.com:5050/4gtv-live096/index.m3u8
 
 =================================================================================================================================
