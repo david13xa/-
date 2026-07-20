@@ -713,7 +713,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=5
 https://haru.charandom.blog/stream/jp/animax/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NTtDrZ1/ezgif-19eba1f4bd3d1f42.png",ANIMAX FREE
-##https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
+https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW CINEMA
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=5
@@ -779,7 +779,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=5
 https://haru.charandom.blog/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4jXtcyv/ezgif-13bc425f8bb1e4e2.png",JIDAIGEKI TV
-##https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
+https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",HOME DRAMA CHANNEL
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=5
@@ -885,7 +885,7 @@ https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 https://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8D5cx7F/ezgif-1f4cf32f6c33ce69.png",IGO SHOGI LITE
-##https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
+https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QvtX1XS/tetsudo-channel-jp.png",TETSUDO CHANNEL
 https://haru.charandom.blog/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
@@ -897,49 +897,52 @@ https://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
 https://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D037JGHv/ezgif-1248da812f0cd6a1.png",LEMINO TV
-##https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
+https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTbbwzxB/ezgif-11babc0077f92c91.png",ENTAME ASIA FREE
-##https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
+https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4srrFR8/ezgif-13a60b80298c0555.png",BUSINESS PREMIUM CHANNEL
-##https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
+https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gc3ZMHYK/ezgif-13b5ea35038adb73.png",ORICON NEWS
-##https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
+https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZRyB5Ry/ezgif-169ad8e8e661c5a9.png",MARUGOTO KYUSHU CH
-##https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
+https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6625pW72/ezgif-1a1b65b9765ad619.png",MARUGOTO HOKKAIDO CH
-##https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
+https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgM0Ds17/ezgif-1f24effd07083675.png",PIA RAKUGO ZANMAI
-##https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
+https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB0pxPcH/ezgif-112daa1bfbaf5e49.png",F+
-##https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
+https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvbFw5jg/ezgif-103574073560c1fd.png",TOKAI ROKIPO CH
-##https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
+https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5t3C4xR7/ezgif-1598bb4387d83820.png",PETTO TV
-##https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
+https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TY3L0Mhg/ezgif-12fd6ddd8c230c44.png",CAMP OUTDOOR POWERED BY HAPPYCAN
-##https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
+https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8S8Mhh0/ezgif-117c694bf1527719.png",KYO NO GOHAN NANI?
-##https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
+https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqXtMDJJ/ezgif-16eb24c084e8bfeb.png",MIRU TABI
-##https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
+https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjqVZvSY/ezgif-1180ae2c9464dd78.png",GOLF LIFE
-##https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pr7G7Yfr/ezgif-152b21f3c285acf0.png",HANRYU CHANNEL
-##https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
+https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmqJM9ND/ezgif-42bd599a9180b319.png",FREE TV NEWS POWERED BY 17LIVE
+https://livetv.fastv.jp/channel_assembly/699989FA00007532CED8/master.m3u8
 
 =================================================================================================================================
 
@@ -969,7 +972,7 @@ http://220.135.64.124:5050/4gtv-live105/index.m3u8?proxy=true
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnfwnBtR/vh1-us.png",VH1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhzyRVQd/ezgif-46f5d0475ddbf725.png",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 
 =================================================================================================================================
