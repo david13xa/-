@@ -376,6 +376,7 @@ https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/maste
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zndfq5Sq/ezgif-2282a30d11c88934.png",NHK BS
 http://136.158.97.2:6610/001/2/ch00000090990000001214/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvraU%2BA8%2FN%2B6NCam0oBPn1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001445&contentid=ch00000000000000001445&videoid=ch00000090990000001214&recommendtype=0&userid=1516257620825&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=N8EJG3JY51DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+https://akariko-bck2.sankuria.sbs/stream/jp/nhk_bs_2/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0._Oi2VojxiF4pM1Jj1Kmt1cGcReGotjrhtzRchSF2q6UjvmeLtw_yDA.w62cMmcJn06RiyGj.u5-zFED62WJcTPXJJ051kuNn8ZNoBa6v5D-t6aeqMUMeFyoTJVjouvs2amYrd5aUswz5WWaa5Q_TAr_92OYWXocvohsXxRWkckCWrwu7gXCddcwi.k0wXpqzp_Q2DxmabL4OGyA&mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKNrXNwF/ezgif-25279f6db83a01c0.png",NHK BSP4K
 
@@ -694,6 +695,16 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/pl
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c45LdwRY/ezgif-161237a190f1127a.png",KBS DRAMA
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png",KBS WORLD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02vppghg/ezgif-161ae5c2ac85d51a.png",KBSN SPORTS
+
+#EXTINF:-1 tvg-logo="hhhh",OCN
+http://124.222.153.240/kakaotv/get_channel.php?channel=ocn#.m3u8
+
+#EXTINF:-1 tvg-logo="hhhh",OCN MOVIES
+http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies#.m3u8
+
+#EXTINF:-1 tvg-logo="hhhh",OCN MOVIES 2
+http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies2#.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbs_kr.png",SBS
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbs-plus-kr.png",SBS PLUS
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbs-sports-kr.png",SBS SPORTS
@@ -1001,9 +1012,11 @@ http://173.208.234.146/live/popc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHLMnBhq/ezgif-3e63888ba1b3e2c6.png",NOW BAOGU
 http://173.208.234.146/live/nowbg.m3u8
+http://tv123.cc.cd/live.php?ch=1706&sid=d4ce7711cefa178d70ff6546d7cad2a3&exp=1789217437&sig=2a6dd8a54733a97508616254e22ce30b1ed4408e72fdfe15b1842af20e00230d
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6vBhkdp/ezgif-34ab600472989885.png",NOW BAOGU SUPERSTAR
 http://173.208.234.146/live/nowxy.m3u8
+http://iptv.852851.xyz/l/5gC9h6XtL1X3bJoC55t2qVlMPysmpR1MOrEigXzD1If0rc4moQDCzruuZ2JwV18A/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRynXf4p/ezgif-36d2fa4f7e9a94fe.png",NOW DIRECT
 
@@ -1074,6 +1087,7 @@ http://211.72.174.95:8117/0.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cti_tv_news.png",CTI TV NEWS
 http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8
 http://173.208.234.146/live/ctinews.m3u8
+https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cti_tv_asia.png",CTI TV ASIA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sMH8htvB/cti-tv-entertainment.png",CTI TV ENTERTAIMENT
@@ -1180,7 +1194,10 @@ http://125.227.210.55:1001/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zD6GbkZ/ezgif-8379442a5b0b206d.png",ELTA ENTERTAINMENT
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gj9PqZ5Y/ezgif-8f2c1abf06b08a7b.png",ELTA LIFESTYLE TRAVEL
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JVD5d8W/ezgif-6dd576229d278588.png",ELTA DRAMA
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Z0hB2q/ezgif-84287ddb8ead5208.png",ELTA SPORT 1
+http://192.129.226.68:5678/l/Fk8BeC8Vs-prQ7Fhs6yDB70Q9aXze3OfKlA8vOu2P_PPFUGgo4jBHq8ySlJI9wQs/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5RTyt7r/ezgif-8739420ec07149a5.png",ELTA SPORT 2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZQ99Fxp/ezgif-8f9dbedb092ff151.png",ELTA SPORT 3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmMf5xML/ezgif-7882cc5ca5c621c9.png",ELTA SPORT 4
@@ -1199,7 +1216,10 @@ http://nmk.ioapk.com:5050/of-4gtv-4gtv076/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ebc-drama-tw.png",EBC DRAMA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNBcQQmg/ebc-movie-tw.png",EBC MOVIE
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ebc-foreign-movie-tw.png",EBC FOREIGN MOVIE
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ebc-news-tw.png",EBC NEWS
+https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ebc_tw_financial_news.png",EBC FINANCIAL NEWS
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqdP7pwR/ezgif-8c126767dc6c1f22.png",ET MALL CHANNEL 1
@@ -3008,7 +3028,20 @@ https://cdn1.skygo.mn/live/disk1/PSN3/STRM-WkLE-1/PSN3.mpd
 =================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SZct6qk/ezgif-5e1a7c657c87b2f1.png",CNBC
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SZct6qk/ezgif-5e1a7c657c87b2f1.png",CNBC ASIA
+https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b2500000.m3u8
+https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SZct6qk/ezgif-5e1a7c657c87b2f1.png",CNBC EUROPE
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist1080_p.m3u8
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist720_p.m3u8
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist540_p.m3u8
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist360_p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SZct6qk/ezgif-5e1a7c657c87b2f1.png",CNBC-E
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsLgM96j/ezgif-2b8dd724154214e1.png",E! ENTERTAINMENT
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn02vcsk/ezgif-24def742dbc5f71c.png",MS NOW
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YHM9hwc/ezgif-2e212a23d54d7b29.png",OXYGEN TRUE CRIME
@@ -3238,7 +3271,10 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 ===========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLK3v5Ym/ezgif-3d877fafbf577153.png",GO3 SPORT 1
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHqjGQmg/ezgif-3454a6e70dae1f1f.png",GO3 SPORT 2
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1889959.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8RNprLb/go-3-sport-3-lv.png",GO3 SPORT 3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsPmcMfn/ezgif-3d5b536aeac0ad5a.png",GO3 SPORT 4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB9FPMqg/go-3-sport-open-lv.png",GO3 SPORT OPEN
@@ -3268,6 +3304,7 @@ http://31.43.191.125:8080/live/VIP019201762490519102/18754640ce7b/136484.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqf9m45r/ezgif-89578ec66e59c541.png",SKY SPORT MOTO GP
 http://31.43.191.125:8080/live/VIP019201762490519102/18754640ce7b/136488.m3u8
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/388.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-24-it.png",SKY SPORT 24
 
@@ -3373,19 +3410,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/
 
 ===========================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K88c764w/sport-klub-rs-1.png",SPORT KLUB 1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBt6ZDXh/sport-klub-rs-2.png",SPORT KLUB 2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv0gTsB2/sport-klub-rs-3.png",SPORT KLUB 3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh0mvrVb/ezgif-7abb19d513d36d57.png",SPORT KLUB 4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wkj54P6/ezgif-75e131a68db3d7eb.png",SPORT KLUB 5
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2RvR2P2/ezgif-70222181a875ff65.png",SPORT KLUB 6
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jStKFyJR/ezgif-757177a4d71447de.png",SPORT KLUB 7
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMvyRrnh/ezgif-7710278820efa274.png",SPORT KLUB 8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhF1rmbN/ezgif-74f66a9cfd27059a.png",SPORT KLUB 9
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB338f81/ezgif-75952acc484114e0.png",SPORT KLUB 10
-
-===========================================================================================================================
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/viju-explore-se-ru.png",VIJU EXPLORE
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/viju-history-se-ru.png",VIJU HISTORY
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/viju-nature-se-ru.png",VIJU NATURE
@@ -3436,6 +3460,19 @@ http://stream.mcquack.net/188/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1&
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-sk.png",ARENA SPORT 2
 
 =================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K88c764w/sport-klub-rs-1.png",SPORT KLUB 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBt6ZDXh/sport-klub-rs-2.png",SPORT KLUB 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv0gTsB2/sport-klub-rs-3.png",SPORT KLUB 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh0mvrVb/ezgif-7abb19d513d36d57.png",SPORT KLUB 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wkj54P6/ezgif-75e131a68db3d7eb.png",SPORT KLUB 5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2RvR2P2/ezgif-70222181a875ff65.png",SPORT KLUB 6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jStKFyJR/ezgif-757177a4d71447de.png",SPORT KLUB 7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMvyRrnh/ezgif-7710278820efa274.png",SPORT KLUB 8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhF1rmbN/ezgif-74f66a9cfd27059a.png",SPORT KLUB 9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB338f81/ezgif-75952acc484114e0.png",SPORT KLUB 10
+
+===========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsH27GFc/ezgif-74b5f5daf304edc7.png",TVP 1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvp-sport-pl.png",TVP SPORT
