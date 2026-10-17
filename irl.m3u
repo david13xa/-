@@ -1305,6 +1305,7 @@ http://125.227.210.55:1025/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02vppghg/ezgif-161ae5c2ac85d51a.png",KBSN SPORTS
 https://k227.jk-cdn.com/watch/live.m3u8?video=kbs_n_sports_540&sid=rfewRLAmeD74v3cV9TuMmRTBRwWMzss2RHIeIfpi&secret=a07e5d00c171d884d443296a19e9c76a&time=1783691240#.m3u8
+https://live-mobileweb-kr-cdn-z02.sooplive.com/live-stmc-29/auth_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Uc2CrZQsPmA8ehu-vX1k5tycdqc9_mjLZBQZngWVz5hEc9oelxUQTAzHKJc_ykipZD9oo9RytdLmAK2tOJyf_rSosfR9Jv9fIPWkt7Uv3Lu9gSjurQ2eMFt8QdFOfOfDVUhNyhsPcN91p72x184Mof6xq5xhQbVj6jVzU62aOx4,
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqBsfvK6/ezgif-1f64753dfd90e901.png",JTBC SPORTS
 http://125.227.210.55:3066/VideoInput/play.ts
