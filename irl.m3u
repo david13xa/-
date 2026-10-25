@@ -344,7 +344,7 @@ https://stream.carubantv.id/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new1.png",JOGJA TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Jogja_Istimewa_TV.jpg",JITV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PJ0z5Fz/ezgif-36239b8be0c848a8.png",JITV
 http://103.255.15.222:1935/tv/jitv/chunklist.m3u8
 http://103.255.15.222:1935/tv/jitv_720p/chunklist.m3u8
 
@@ -378,10 +378,10 @@ https://e.siar.us/live/smtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",MADU TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dhohotv.com/wp-content/uploads/2023/11/logo.png",DHOHO TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BtWv5Q1L/ezgif-3e56c29f326bfeb0.png",DHOHO TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png",DHAMMA TV
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/id/thumb/8/8c/Logo_Dhamma_TV_2022.png/250px-Logo_Dhamma_TV_2022.png",DHAMMA TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 #EXTINF:-1 tvg-logo="https://bandungtv.tv/logo/logobandungtv.png",BANDUNG TV
@@ -3378,7 +3378,6 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5N8rZD9Y/ezgif-4dcca393774b6c6a.png",TV5 MONDE ASIE
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/index.m3u8
-##http://202.150.161.212:5000/live/channel32/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5N8rZD9Y/ezgif-4dcca393774b6c6a.png",TV5 MONDE PACIFIQUE
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/index.m3u8
@@ -3431,12 +3430,15 @@ https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png",SONY SPORTS TEN 1
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://103.151.60.162:2122/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png",SONY SPORTS TEN 2
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://103.151.60.162:2122/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png",SONY SPORTS TEN 3
 http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://103.151.60.162:2122/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png",SONY SPORTS TEN 4
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:0E:F8:A1
@@ -3451,6 +3453,13 @@ http://starhub.pro/live/harsh2026mar/harshmar2026/190.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1z5QW8p2/ezgif-8ceac05d23d8026f.png",SONY PIX
 #EXTVLCOPT:http-referer=https://techandeat.online/sliv/
 https://techandeat.online/sliv/stream.m3u8?id=1000009258
+http://103.151.60.162:2122/play/a01d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jiostar.com/jiostar/wp-content/uploads/2024/11/Star-Movies.png",STAR MOVIES
+http://103.151.60.162:2122/play/a02k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jiostar.com/jiostar/wp-content/uploads/2024/11/Star-Movies-Select.png",STAR MOVIES SELECT
+http://103.151.60.162:2122/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/180x0-icon.png",STAR SPORTS 1
 https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
@@ -3458,14 +3467,17 @@ https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/179x0-icon.png",STAR SPORTS 2
 https://flussonic.defineatoz.com/Starsports2/tracks-v1a1/mono.m3u8
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+http://103.151.60.162:2122/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/185x0-icon.png",STAR SPORTS SELECT 1
 http://best-8k.org/live/zaouite00_991288/NQJCpCh9/276734.m3u8
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
+http://103.151.60.162:2122/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/186x0-icon.png",STAR SPORTS SELECT 2
 http://mag.diamondtv.one/live/unur/rtdVDBNG2z/416133.ts
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
+http://103.151.60.162:2122/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png",DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
@@ -3485,9 +3497,6 @@ http://starhub.pro/live/harsh2026mar/harshmar2026/61674.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDsg3r3y/m-sports.png",M SPORTS
 https://cdn.rabta.stream/M-Sports/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLZ0JS1c/ezgif-4d519f592955cc54.png",FANCODE 
-http://tv.cloudcdn.me:80/live.ts?channelId=78845&uid=15301&deviceMac=00:1A:79:0E:F8:A1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLZ0JS1c/ezgif-4d519f592955cc54.png",FANCODE 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -5444,7 +5453,6 @@ http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/e8f
 http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/846a1ghm/index.m3u8
 
 =================================================================================================================================
-
 
 
 #EXTM3U billed-msg="好好利用这份播放列表"
